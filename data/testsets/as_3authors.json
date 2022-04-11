@@ -1,0 +1,6609 @@
+[
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Cs\u00e1ki, Csaba"
+      },
+      {
+        "name": "Harnos, Zsolt"
+      },
+      {
+        "name": "L\u00e1ng, Istv\u00e1n"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000044",
+    "extent": [
+      "II,129 S",
+      "graph. Darst., Kt",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-922553-47-8"
+    ],
+    "identifier_oclc": [
+      "11901799"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Kieler Wissenschaftsverl. Vauk",
+        "place": "Kiel"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000360100",
+        "issn": [
+          "0721-474X"
+        ],
+        "title": "Forum : reports on current research in agricultural economics and agribusiness management",
+        "type": "series",
+        "volume": "6",
+        "zdb_id": "409561-3"
+      }
+    ],
+    "source_id": "010126864",
+    "source_name": "econis",
+    "subject": [
+      "Agrarwirtschaft",
+      "Umwelt",
+      "Ungarn"
+    ],
+    "title": "Agricultural development and ecological potential : the case of Hungary",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_bk": [
+      {
+        "code": "18.21",
+        "name": "Franz\u00f6sische Sprache und Literatur"
+      },
+      {
+        "code": "18.09",
+        "name": "Deutsche Sprache"
+      },
+      {
+        "code": "83.14",
+        "name": "Einkommen, Besch\u00e4ftigung, Arbeitsmarkt"
+      },
+      {
+        "code": "85.64",
+        "name": "Berufe"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Werner, Heinz"
+      },
+      {
+        "name": "Piotrowsky-Rochefort, Anne"
+      },
+      {
+        "name": "K\u00f6nig, Ingeborg"
+      }
+    ],
+    "date": 1981,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000051",
+    "extent": [
+      "Getr. Z\u00e4hlung",
+      "21 cm"
+    ],
+    "identifier_oclc": [
+      "256017415"
+    ],
+    "language": [
+      "deu",
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Inst. f\u00fcr Arbeitsmarkt- u. Berufsforschung d. Bundesanstalt f\u00fcr Arbeit",
+        "place": "N\u00fcrnberg"
+      }
+    ],
+    "source_id": "010127186",
+    "source_name": "econis",
+    "subject": [
+      "Arbeitsmarkt",
+      "Wirtschaftssprachw\u00f6rterbuch franz\u00f6sisch",
+      "Berufskunde"
+    ],
+    "title": "Glossar zur Arbeitsmarkt- und Berufsforschung : Franz\u00f6sisch-Deutsch/Deutsch-Franz\u00f6sisch ; Begriffe zu Arbeitsmarkt, Bildung u. Sozialem",
+    "title_alternative": [
+      "GlossAB Franz\u00f6sisch"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Commins, Stephen K."
+      },
+      {
+        "name": "Lofchie, Michael F."
+      },
+      {
+        "name": "Payne, Rhys"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "date": 1986,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000060",
+    "extent": [
+      "XIII, 237 S",
+      "24 cm",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-931477-60-3"
+    ],
+    "identifier_oclc": [
+      "230830094"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rienner-Publishers",
+        "place": "Boulder, Colorado"
+      }
+    ],
+    "source_id": "010127879",
+    "source_name": "econis",
+    "subject": [
+      "Nahrungsmittel",
+      "Ern\u00e4hrung",
+      "Unterern\u00e4hrung",
+      "Politik",
+      "Agrarwirtschaft"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Agrargeschichte",
+        "name_en": "Agricultural history",
+        "stw_id": "13444-6"
+      },
+      {
+        "name_de": "Afrika",
+        "name_en": "Africa",
+        "stw_id": "17642-3"
+      },
+      {
+        "name_de": "Unterern\u00e4hrung",
+        "name_en": "Undernutrition",
+        "stw_id": "18314-1"
+      }
+    ],
+    "title": "Africa's agrarian crisis : the roots of famine",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "338.1/73682/095982"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Falcon, Walter P."
+      },
+      {
+        "name": "Jones, William O."
+      },
+      {
+        "name": "Dixon, John A."
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000063",
+    "extent": [
+      "XVII,212 S",
+      "graph. Darst",
+      "23 cm"
+    ],
+    "identifier_isbn": [
+      "0-8047-1194-1"
+    ],
+    "identifier_oclc": [
+      "11659206"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Stanford-Univ.-Press",
+        "place": "Stanford, California"
+      }
+    ],
+    "source_id": "010128220",
+    "source_name": "econis",
+    "subject": [
+      "Manihot",
+      "Indonesien",
+      "Java"
+    ],
+    "title": "The cassava economy of Java",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung, Nationales Forschungsprogramm \"Regionalprobleme\"m Vertiefungsprogramm \"Zentren-Peripherie\""
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Dorigo, Guido"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Schuler, Martin"
+      },
+      {
+        "name": "Nef, Rolf"
+      }
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000076",
+    "extent": [
+      "177 S",
+      "graph. Darst., 31 Kt",
+      "30 cm"
+    ],
+    "identifier_oclc": [
+      "256019162"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Programmleitung NFP \"Regionalprobleme\"",
+        "place": "Bern"
+      }
+    ],
+    "series": [
+      {
+        "title": "Arbeitsberichte. Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+        "volume": "35"
+      }
+    ],
+    "source_id": "010128905",
+    "source_name": "econis",
+    "subject": [
+      "Raum",
+      "Ballungsraum",
+      "Peripheres Gebiet",
+      "Schweiz"
+    ],
+    "title": "R\u00e4umliche Typologien des schweizerischen Zentren-Peripherien-Musters",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_corporate": [
+      {
+        "name": "Forschungsanstalt f\u00fcr Betriebswirtschaft und Landtechnik"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Dettwiler, Emanuel"
+      },
+      {
+        "name": "Hilfiker, Jakob"
+      },
+      {
+        "name": "Hostettler, Karl"
+      }
+    ],
+    "date": 1985,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000079",
+    "extent": [
+      "182 S",
+      "graph. Darst",
+      "21 cm"
+    ],
+    "identifier_oclc": [
+      "256018739"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "FAT",
+        "place": "T\u00e4nikon"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000364588",
+        "title": "Schriftenreihe der Eidgen\u00f6ssischen Forschungsanstalt f\u00fcr Betriebswirtschaft und Landtechnik",
+        "type": "series",
+        "volume": "25",
+        "zdb_id": "560684-6"
+      }
+    ],
+    "source_id": "010129111",
+    "source_name": "econis",
+    "subject": [
+      "Agrarbetriebsertragserhebung",
+      "Schweiz"
+    ],
+    "title": "Beziehungen des Betriebserfolges zu Standortfaktoren und betrieblichen Merkmalen : ein Beitrag zur Frage der Streuungsursachen des Betriebserfolges",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "380.1/456649",
+      "339.4/86649"
+    ],
+    "creator_personal": [
+      {
+        "name": "Barfoot, Peter"
+      },
+      {
+        "name": "MacLean Bullen, Anne"
+      },
+      {
+        "name": "Reid, Ian G."
+      }
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000088",
+    "extent": [
+      "III, 52 S",
+      "graph. Darst",
+      "4\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-905378-43-1"
+    ],
+    "identifier_oclc": [
+      "11924106"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Wye College",
+        "place": "Ashford, Kent"
+      }
+    ],
+    "series": [
+      {
+        "title": "Report. Centre for European Agricultural Studies, Ashford",
+        "volume": "16"
+      }
+    ],
+    "source_id": "010131078",
+    "source_name": "econis",
+    "subject": [
+      "Fleischmarkt",
+      "Gro\u00dfbritannien"
+    ],
+    "title": "A study of the UK market for edible offals",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "382/.41",
+      "382.41"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Storey, Gary G."
+      },
+      {
+        "name": "Schmitz, Andrew"
+      },
+      {
+        "name": "Sarris, Alexander H."
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "date": 1984,
+    "description_url": [
+      "http://www.loc.gov/catdir/enhancements/fy0831/83010336-b.html",
+      "http://www.loc.gov/catdir/enhancements/fy0831/83010336-b.html"
+    ],
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000091",
+    "extent": [
+      "XVIII, 303 S",
+      "graph. Darst",
+      "23 cm"
+    ],
+    "identifier_isbn": [
+      "0-86531-955-3"
+    ],
+    "identifier_oclc": [
+      "9644252"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Westview Press",
+        "place": "Boulder, Colo [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "A Westview replica edition"
+      }
+    ],
+    "source_id": "010131140",
+    "source_name": "econis",
+    "subject": [
+      "Agraraussenhandel"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4140857-3",
+        "name": "Agrarwelthandel",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4034402-2",
+        "name": "Landwirtschaft",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4065365-1",
+        "name": "Welthandel",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4003832-4",
+        "name": "Au\u00dfenhandel",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4000771-6",
+        "name": "Agrarpolitik",
+        "type": "topical"
+      }
+    ],
+    "title": "International agricultural trade : advanced readings in price formation, market structure, and price instability",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Konferenzschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "74.72",
+        "name": "Stadtplanung, kommunale Planung"
+      }
+    ],
+    "classification_ddc": [
+      "711"
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Nellner, Werner"
+      },
+      {
+        "name": "Boecker, Hartmut"
+      },
+      {
+        "name": "G\u00f6mann, Gerhard"
+      }
+    ],
+    "date": 1976,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000122",
+    "extent": [
+      "VIII, 156 S.",
+      "graph. Darst., Kt.",
+      "4 Kt.-Beil.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-507-91403-4"
+    ],
+    "identifier_oclc": [
+      "3686817"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Schroedel",
+        "place": "Hannover"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000359285",
+        "issn": [
+          "0935-0780",
+          "0344-0311",
+          "0515-9083"
+        ],
+        "title": "Forschungs- und Sitzungsberichte der ARL",
+        "type": "series",
+        "zdb_id": "304592-4"
+      }
+    ],
+    "source_id": "010131760",
+    "source_name": "econis",
+    "subject": [
+      "Stadtraum",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4181221-9",
+        "name": "Siedlungsraum",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4069106-8",
+        "name": "Ballungsraum",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4132747-0",
+        "name": "Suburbaner Raum",
+        "type": "topical"
+      }
+    ],
+    "title": "Zur Abgrenzung und inneren Gliederung st\u00e4dtischer Siedlungsagglomerationen",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "363.8/83/091724"
+    ],
+    "countryOfPublication": [
+      "XA-IT"
+    ],
+    "creator_personal": [
+      {
+        "name": "Blau, Gerda"
+      },
+      {
+        "name": "Ezekiel, Mordecai"
+      },
+      {
+        "name": "Sen, Binay Ranjan"
+      }
+    ],
+    "date": 1985,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000144",
+    "extent": [
+      "XI,343 S",
+      "23 cm",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "92-5-102180-5"
+    ],
+    "identifier_oclc": [
+      "12812010"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Food and Agriculture Organization of the United Nations",
+        "place": "Rome"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000437184",
+        "issn": [
+          "0259-2460"
+        ],
+        "title": "FAO economic and social development paper",
+        "type": "series",
+        "volume": "34",
+        "zdb_id": "424319-5"
+      }
+    ],
+    "source_id": "010132481",
+    "source_name": "econis",
+    "subject": [
+      "Nahrungsmittelhilfe",
+      "Entwicklung",
+      "Entwicklungsl\u00e4nder"
+    ],
+    "title": "Food aid for development : three studies",
+    "title_alternative": [
+      "Food aid for development"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "333.790971",
+      "333.79/0971"
+    ],
+    "countryOfPublication": [
+      "XD-CA"
+    ],
+    "creator_personal": [
+      {
+        "name": "Bott, Robert"
+      },
+      {
+        "name": "Brooks, David"
+      },
+      {
+        "name": "Robinson, John"
+      }
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000176",
+    "extent": [
+      "XII,203 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-88830-247-9"
+    ],
+    "identifier_oclc": [
+      "10569121"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Hurtig-Publishers",
+        "place": "Edmonton, Alberta"
+      }
+    ],
+    "series": [
+      {
+        "title": "A Friends of the Earth study"
+      }
+    ],
+    "source_id": "010133968",
+    "source_name": "econis",
+    "subject": [
+      "Kanada",
+      "Energie",
+      "Politik"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Energiepolitik",
+        "name_en": "Energy policy",
+        "stw_id": "11810-3"
+      },
+      {
+        "name_de": "Mineral\u00f6lwirtschaft",
+        "name_en": "Oil industry",
+        "stw_id": "12920-5"
+      },
+      {
+        "name_de": "Kanada",
+        "name_en": "Canada",
+        "stw_id": "17811-6"
+      },
+      {
+        "name_de": "Erneuerbare Energie",
+        "name_en": "Renewable energy",
+        "stw_id": "18024-3"
+      },
+      {
+        "name_de": "F\u00f6rderung erneuerbarer Energien",
+        "name_en": "Renewable energy policy",
+        "stw_id": "18362-4"
+      },
+      {
+        "name_de": "Erd\u00f6lpolitik",
+        "name_en": "Oil policy",
+        "stw_id": "18373-6"
+      }
+    ],
+    "title": "Life after oil : a renewable energy policy for Canada",
+    "title_alternative": [
+      "Life after oil"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung, Nationales Forschungsprogramm Regionalprobleme"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Fischer, G."
+      },
+      {
+        "name": "Resegatti, R."
+      },
+      {
+        "name": "Baumeier, J"
+      }
+    ],
+    "date": 1982,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000179",
+    "extent": [
+      "II,86 S",
+      "30 cm"
+    ],
+    "identifier_oclc": [
+      "265426733"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Programmleitung NFP \"Regionalprobleme\"",
+        "place": "Bern"
+      }
+    ],
+    "series": [
+      {
+        "title": "Arbeitsberichte",
+        "volume": "29"
+      }
+    ],
+    "source_id": "010134158",
+    "source_name": "econis",
+    "subject": [
+      "Einkommensstatistik",
+      "Schweiz"
+    ],
+    "title": "Das pers\u00f6nlich verf\u00fcgbare Einkommen der Haushalte nach Kantonen : 1970, 1978 u. 1980",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Wellinger, Artur"
+      },
+      {
+        "name": "Egger, Kurt"
+      },
+      {
+        "name": "Sutter, Karl"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-CH"
+    ],
+    "date": 1985,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000203",
+    "extent": [
+      "100 Seiten",
+      "Illustrationen",
+      "21 cm"
+    ],
+    "identifier_oclc": [
+      "256019655"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "FAT",
+        "place": "T\u00e4nikon"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000364588",
+        "title": "Schriftenreihe der Eidgen\u00f6ssischen Forschungsanstalt f\u00fcr Betriebswirtschaft und Landtechnik",
+        "type": "series",
+        "volume": "23",
+        "zdb_id": "560684-6"
+      }
+    ],
+    "source_id": "010135162",
+    "source_name": "econis",
+    "subject": [
+      "Agrarwirtschaft und Energie",
+      "Schweiz"
+    ],
+    "title": "Biogasproduktion und -verbrauch: biologische und verfahrenstechnische Grundlagen",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-NL"
+    ],
+    "creator_personal": [
+      {
+        "name": "Thurik, A. R."
+      },
+      {
+        "name": "Dijk, V."
+      },
+      {
+        "name": "Kleijweg, A. J. M."
+      }
+    ],
+    "date": 1987,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000246",
+    "extent": [
+      "15 S",
+      "30 cm"
+    ],
+    "identifier_isbn": [
+      "90-371-0171-2"
+    ],
+    "identifier_oclc": [
+      "256037109"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "EIM",
+        "place": "Zoetermeer"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10002376714",
+        "title": "Research paper / Research Institute for Small and Medium-sized Business in the Netherlands",
+        "type": "series",
+        "volume": "8702",
+        "zdb_id": "2166322-1"
+      }
+    ],
+    "source_id": "010182586",
+    "source_name": "econis",
+    "subject": [
+      "Einkauf",
+      "Einzelhandel",
+      "Preis"
+    ],
+    "title": "Two tentative studies in retail purchasing prices",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-NL"
+    ],
+    "creator_personal": [
+      {
+        "name": "Bode, B."
+      },
+      {
+        "name": "Koerts, J."
+      },
+      {
+        "name": "Thurik, A. R."
+      }
+    ],
+    "date": 1987,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000280",
+    "extent": [
+      "23 S",
+      "30 cm"
+    ],
+    "identifier_isbn": [
+      "90-371-0192-5"
+    ],
+    "identifier_oclc": [
+      "256058613"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "EIM",
+        "place": "Zoetermeer"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10002376714",
+        "title": "Research paper / Research Institute for Small and Medium-sized Business in the Netherlands",
+        "type": "series",
+        "volume": "8703",
+        "zdb_id": "2166322-1"
+      }
+    ],
+    "source_id": "010273239",
+    "source_name": "econis",
+    "subject": [
+      "Einzelhandel",
+      "Absatz",
+      "Niederlande",
+      "Handel"
+    ],
+    "title": "Measuring the effects of retail marketing instruments using a switching model",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aak",
+    "contributor_personal": [
+      {
+        "name": "Snow, Lois Wheeler"
+      },
+      {
+        "name": "Hermann, Hans"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Snow, Edgar"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000338",
+    "extent": [
+      "479 S"
+    ],
+    "identifier_isbn": [
+      "3-426-00573-5"
+    ],
+    "identifier_oclc": [
+      "82215037"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Knaur",
+        "place": "M\u00fcnchen u.a."
+      }
+    ],
+    "series": [
+      {
+        "title": "Knaur",
+        "volume": "573"
+      }
+    ],
+    "source_id": "010371087",
+    "source_name": "econis",
+    "subject": [
+      "L\u00e4nderkunde",
+      "Politischer Bericht",
+      "Staatsumw\u00e4lzung",
+      "China"
+    ],
+    "title": "So fing es an : der erfahrenste China-Kenner berichtet",
+    "title_alternative": [
+      "Journey to the beginning"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "countryOfPublication": [
+      "XA-DE",
+      "XA-AT"
+    ],
+    "creator_personal": [
+      {
+        "name": "Ocker, Sieghart"
+      },
+      {
+        "name": "Sch\u00f6ttle, Lothar"
+      },
+      {
+        "name": "Simon, Werner"
+      }
+    ],
+    "date": 1985,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000362",
+    "edition": [
+      "2., berichtigter Nachdr"
+    ],
+    "extent": [
+      "234 S",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-486-22491-3"
+    ],
+    "identifier_oclc": [
+      "256112826"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "M\u00fcnchen u.a."
+      }
+    ],
+    "source_id": "010421572",
+    "source_name": "econis",
+    "subject": [
+      "Informatik",
+      "Hand- und Lehrb\u00fccher, Nachschlagewerke",
+      "Datenverarbeitung"
+    ],
+    "title": "Informatik : Algorithmen und ihre Programmierung ; eine Einf\u00fchrung anhand von Beispielen ; Lehr- und Arbeitsbuch f\u00fcr die Sekundarstufe 2",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "309.2/6/096761"
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "2003591-3",
+        "name": "Afrika-Studienstelle",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Brandt, Hartmut"
+      },
+      {
+        "name": "Schubert, Bernd"
+      },
+      {
+        "name": "Gerken, Egbert"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1972,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000396",
+    "extent": [
+      "451 S",
+      "graph. Darst., Kt",
+      "24 cm"
+    ],
+    "identifier_isbn": [
+      "3-8039-0063-8"
+    ],
+    "identifier_oclc": [
+      "609337"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Weltforum Verl.",
+        "place": "M\u00fcnchen"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000361954",
+        "title": "Afrika-Studien",
+        "type": "series",
+        "volume": "77",
+        "zdb_id": "503232-5"
+      }
+    ],
+    "source_id": "01046980X",
+    "source_name": "econis",
+    "subject": [
+      "Industrialisierung",
+      "Entwicklung",
+      "Uganda"
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/800612582/04"
+    ],
+    "title": "The industrial town as factor of economic and social development : the example of Jinja/Uganda",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "creator_personal": [
+      {
+        "name": "Breton, J.-F."
+      },
+      {
+        "name": "Deligniere, A."
+      },
+      {
+        "name": "Piel-Desruisseaux, J."
+      }
+    ],
+    "date": 1950,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000400",
+    "extent": [
+      "88 S",
+      "24 cm"
+    ],
+    "identifier_oclc": [
+      "256143343"
+    ],
+    "language": [
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "IOSTA",
+        "place": "Paris"
+      }
+    ],
+    "series": [
+      {
+        "title": "Publication. Institut d'Organisation Scientifique du Travail en Agriculture",
+        "volume": "18"
+      }
+    ],
+    "source_id": "010469931",
+    "source_name": "econis",
+    "subject": [
+      "Kartoffelanbau",
+      "Frankreich"
+    ],
+    "title": "L'organisation du travail de recolte des pommes de terre",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "06.74",
+        "name": "Informationssysteme"
+      },
+      {
+        "code": "54.75",
+        "name": "Sprachverarbeitung <Informatik>"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Bundesministerium f\u00fcr Forschung und Technologie"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Blumendorf, P."
+      },
+      {
+        "name": "L\u00fcstorff, Joachim"
+      },
+      {
+        "name": "Harms, Hans-H."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1987,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000407",
+    "extent": [
+      "16, 7 S",
+      "graph. Darst",
+      "30 cm"
+    ],
+    "identifier_oclc": [
+      "256143502"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Fachinformationszentrum Karlsruhe",
+        "place": "Eggenstein-Leopoldshafen"
+      }
+    ],
+    "source_id": "010470743",
+    "source_name": "econis",
+    "subject": [
+      "Datenbank",
+      "Deutschland"
+    ],
+    "title": "Online - immer auf Draht : ein Leitfaden zur Informationsbeschaffung f\u00fcr Hochschullehrer, Doktoranden und Diplomanden",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Schnackenberg, Hanna"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Gaskell, George"
+      },
+      {
+        "name": "Joerges, Bernward"
+      }
+    ],
+    "date": 1985,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000410",
+    "extent": [
+      "120 S",
+      "30 cm"
+    ],
+    "identifier_oclc": [
+      "256143540"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Wissenschaftszentrum Berlin",
+        "place": "Berlin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000368569",
+        "issn": [
+          "0256-7296"
+        ],
+        "title": "IIUG reports / Internationales Institut f\u00fcr Umwelt und Gesellschaft, Wissenschaftszentrum Berlin",
+        "type": "series",
+        "volume": "85-10",
+        "zdb_id": "855956-9"
+      }
+    ],
+    "source_id": "010471006",
+    "source_name": "econis",
+    "title": "Energiesparprogramme f\u00fcr Verbraucher : Bericht \u00fcber eine multi-nationale Studie",
+    "type": "book",
+    "type_genre": [
+      "Forschungsbericht",
+      "Arbeitspapier",
+      "Working Paper"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "48.47",
+        "name": "Waldsch\u00e4den"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE-HH"
+    ],
+    "creator_personal": [
+      {
+        "name": "Meister, Georg"
+      },
+      {
+        "name": "Sch\u00fctze, Christian"
+      },
+      {
+        "name": "Sperber, Georg"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000497",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "352 S.",
+      "zahlr. Ill., graph. Darst., Kt.",
+      "21 cm"
+    ],
+    "identifier_isbn": [
+      "3-570-02141-6",
+      "357021416"
+    ],
+    "identifier_oclc": [
+      "11307341"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "GEO im Verl. Gruner + Jahr",
+        "place": "Hamburg"
+      }
+    ],
+    "series": [
+      {
+        "title": "Geo"
+      }
+    ],
+    "source_id": "010652558",
+    "source_name": "econis",
+    "subject": [
+      "Forst",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4117580-3",
+        "name": "Waldsterben",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/840776918/04"
+    ],
+    "title": "Die Lage des Waldes : ein Atlas der Bundesrepublik ; Daten, Analysen, Konsequenzen",
+    "type": "book",
+    "type_genre": [
+      "Atlas"
+    ]
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Informationsdienst der Sparkassen und Landesbanken/Girozentralen"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Borries, Reyner von"
+      },
+      {
+        "name": "Nowack, Gerd"
+      },
+      {
+        "name": "Wesche, R\u00fcdiger"
+      }
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000589",
+    "extent": [
+      "160 S"
+    ],
+    "identifier_oclc": [
+      "256244421"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Dt. Sparkassenverl.",
+        "place": "Stuttgart"
+      }
+    ],
+    "source_id": "010733167",
+    "source_name": "econis",
+    "subject": [
+      "Agrarkonzentration",
+      "Deutschland"
+    ],
+    "title": "Zusammenarbeit in der Landwirtschaft",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Islam, M. Aminul"
+      },
+      {
+        "name": "Miah, M. Maniruzzaman"
+      },
+      {
+        "name": "Ahmad, Nuruddin"
+      }
+    ],
+    "countryOfPublication": [
+      "XB-BD"
+    ],
+    "date": 1981,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000618",
+    "extent": [
+      "77 S",
+      "\u00fcberw. Kt"
+    ],
+    "identifier_oclc": [
+      "56867717"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "University of Dacca",
+        "place": "Dacca"
+      }
+    ],
+    "source_id": "010769749",
+    "source_name": "econis",
+    "subject": [
+      "L\u00e4nderkunde",
+      "Kartenwerk",
+      "Bangladesh"
+    ],
+    "title": "Bangladesh in maps",
+    "type": "book",
+    "type_genre": [
+      "Atlas"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "338.9/009172/4"
+    ],
+    "conference": [
+      {
+        "date": "1982.12.13-16",
+        "name": "Ad Hoc Panel of Specialists on \"Integrated Application of Emerging and Traditional Technologies for Development\"",
+        "place": "Los Ba\u00f1os, Philippines"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "name": "United Nations"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Weizs\u00e4cker, E. U. von"
+      },
+      {
+        "name": "Swaminathan, M. S."
+      },
+      {
+        "name": "Lemma, Aklilu"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-IE"
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000628",
+    "extent": [
+      "XIV, 271 S",
+      "Ill",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-907567-66-5",
+      "0-907567-67-3"
+    ],
+    "identifier_oclc": [
+      "10606227"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Tycooly",
+        "place": "Dublin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010443892",
+        "issn": [
+          "0790-1437"
+        ],
+        "title": "Science and technology for development series",
+        "type": "series",
+        "volume": "2",
+        "zdb_id": "50746-5"
+      }
+    ],
+    "source_id": "010801987",
+    "source_name": "econis",
+    "subject": [
+      "Technik angepasste",
+      "Entwicklungsl\u00e4nder"
+    ],
+    "title": "New frontiers in technology application : integration of emerging and traditional technologies",
+    "type": "book",
+    "type_genre": [
+      "Konferenzschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.10",
+        "name": "Recht einzelner L\u00e4nder, Gebiete und V\u00f6lker"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Lungwitz, Wolfgang"
+      },
+      {
+        "name": "Heitkam, Barbara"
+      },
+      {
+        "name": "Richter, Horst"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DDDE"
+    ],
+    "creator_corporate": [
+      {
+        "gnd_id": "4395034-6",
+        "name": "Russische SFSR",
+        "type": "geographic"
+      }
+    ],
+    "date": 1980,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000635",
+    "extent": [
+      "67 S.",
+      "21 cm"
+    ],
+    "identifier_oclc": [
+      "20042490"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Akad. f\u00fcr Staats- und Rechtswiss. der DDR, Informationszentrum Staat und Recht, Abt. Publ.",
+        "place": "Potsdam-Babelsberg"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000362148",
+        "issn": [
+          "0568-7551"
+        ],
+        "title": "Aktuelle Beitr\u00e4ge der Staats- und Rechtswissenschaft",
+        "type": "series",
+        "volume": "217",
+        "zdb_id": "505117-4"
+      }
+    ],
+    "source_id": "010808272",
+    "source_name": "econis",
+    "subject": [
+      "UdSSR",
+      "RSFSR",
+      "Staatsverfassungstext der Landesteile"
+    ],
+    "title": "Verfassung (Grundgesetz) der Russischen Sozialistischen F\u00f6derativen Sowjetrepublik : angenommen auf der siebenten Ausserordentlichen Tagung des Obersten Sowjets der RSFSR der neunten Amtsperiode am 12. April 1978",
+    "title_alternative": [
+      "Verfassung <1978.04.12, dt.>"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_corporate": [
+      {
+        "gnd_id": "1019909-3",
+        "name": "Akademija Nauk Kazachskoj SSR",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Kunaev, A. M."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-SUHH"
+    ],
+    "creator_personal": [
+      {
+        "name": "Kuvany\u0161ev, A. K."
+      },
+      {
+        "name": "Maljar, I. I."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000719",
+    "extent": [
+      "173 S",
+      "Ill"
+    ],
+    "identifier_oclc": [
+      "641458130"
+    ],
+    "language": [
+      "rus"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Izdat. Nauka Kazachskoj SSR",
+        "place": "Alma-Ata"
+      }
+    ],
+    "source_id": "010829954",
+    "source_name": "econis",
+    "subject": [
+      "Wissenschaftspflegest\u00e4tten",
+      "UdSSR",
+      "Kasachstan"
+    ],
+    "title": "Akademija Nauk Kazachskoj SSR",
+    "title_alternative": [
+      "Akademija Nauk Kazachskoj Sovetskoj Socialisti\u010deskoj Respubliki"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081",
+      "363.3/7"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "New York City Rand Institute"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Carter, Grace M."
+      },
+      {
+        "name": "Ignall, Edward"
+      },
+      {
+        "name": "Rider, Kenneth Lloyd"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000732",
+    "extent": [
+      "IX, 56 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-8330-0000-4"
+    ],
+    "identifier_oclc": [
+      "3705786"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-1997-NYC",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010832610",
+    "source_name": "econis",
+    "subject": [
+      "Brandschutz",
+      "Vereinigte Staaten"
+    ],
+    "title": "An algorithm for the initial dispatch of fire companies",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "50.00",
+        "name": "Technik allgemein: Allgemeines"
+      },
+      {
+        "code": "50.01",
+        "name": "Technikgeschichte"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Mermann, Wolfgang"
+      },
+      {
+        "name": "Plempe, Heinz"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Assion, Peter"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000741",
+    "extent": [
+      "201 S"
+    ],
+    "identifier_oclc": [
+      "256284147"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Badische Landesstelle f\u00fcr Volkskunde",
+        "place": "Freiburg i. Breisgau"
+      }
+    ],
+    "source_id": "010835296",
+    "source_name": "econis",
+    "subject": [
+      "Handwerksgeschichte",
+      "Industriegeschichte",
+      "Deutschland",
+      "S\u00fcddeutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4078053-3",
+        "name": "S\u00fcdwestdeutschland",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4023299-2",
+        "name": "Handwerk",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4149019-8",
+        "name": "Deindustrialisierung",
+        "type": "topical"
+      }
+    ],
+    "title": "Altes Handwerk und fr\u00fche Industrie im deutschen S\u00fcdwesten : ein Literaturbericht",
+    "type": "book",
+    "type_genre": [
+      "Bibliografie"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "332/.0941"
+    ],
+    "countryOfPublication": [
+      "XA-GB",
+      "XD-US",
+      "XD-CA"
+    ],
+    "creator_personal": [
+      {
+        "name": "Carter, H."
+      },
+      {
+        "name": "Partington, I."
+      },
+      {
+        "name": "Partington, Ian"
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000797",
+    "extent": [
+      "VIII, 374 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-19-877108-8",
+      "0-19-877109-6"
+    ],
+    "identifier_oclc": [
+      "5100960"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Oxford Univ. Press",
+        "place": "Oxford [u.a.]"
+      }
+    ],
+    "source_id": "010846182",
+    "source_name": "econis",
+    "subject": [
+      "Finanzen",
+      "Geld",
+      "Kreditinstitut",
+      "Gro\u00dfbritannien"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Bank",
+        "name_en": "Bank",
+        "stw_id": "13283-4"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      },
+      {
+        "name_de": "Finanzmarkt",
+        "name_en": "Financial market",
+        "stw_id": "13723-2"
+      },
+      {
+        "name_de": "Finanzsektor",
+        "name_en": "Financial sector",
+        "stw_id": "18671-5"
+      },
+      {
+        "name_de": "Wirtschaftswissenschaft",
+        "name_en": "Economics",
+        "stw_id": "10032-2"
+      },
+      {
+        "name_de": "Unternehmensfinanzierung",
+        "name_en": "Corporate finance",
+        "stw_id": "12205-1"
+      }
+    ],
+    "title": "Applied economics in banking and finance",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081 s",
+      "358.4/18/3"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "United States Air Forces"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Marks, Kenneth E."
+      },
+      {
+        "name": "Massey, H. Garrison"
+      },
+      {
+        "name": "Bradley, Brent D."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000799",
+    "extent": [
+      "XVIII, 111 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-8330-0057-8"
+    ],
+    "identifier_oclc": [
+      "4494853"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2287-AF",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010846395",
+    "source_name": "econis",
+    "subject": [
+      "Wehrmachtbeschaffungswesen",
+      "Luftkriegsflotte",
+      "Vereinigte Staaten"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Produktionskosten",
+        "name_en": "Production costs",
+        "stw_id": "12504-5"
+      },
+      {
+        "name_de": "Produktlebenszyklus",
+        "name_en": "Product life cycle",
+        "stw_id": "12807-1"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      }
+    ],
+    "title": "An appraisal of models used in life cycle cost estimation for USAF aircraft systems",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.60",
+        "name": "Raumordnungsrecht, Baurecht"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "5028175-6",
+        "name": "Deutsches Institut f\u00fcr Urbanistik",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Sch\u00e4fer, Rudof"
+      },
+      {
+        "name": "Schirmer, Karsten"
+      },
+      {
+        "name": "Schmidt-Eichstaedt, Gerd"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000812",
+    "extent": [
+      "8 S., 126 Bl.",
+      "graph. Darst.",
+      "4\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-88118-044-3"
+    ],
+    "identifier_oclc": [
+      "74482158"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Dt. Inst. f\u00fcr Urbanistik",
+        "place": "Berlin"
+      }
+    ],
+    "source_id": "010847561",
+    "source_name": "econis",
+    "subject": [
+      "Deutschland",
+      "Recht",
+      "Bau"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4144178-3",
+        "name": "Baunutzungsrecht",
+        "type": "topical"
+      }
+    ],
+    "title": "Arbeitsbl\u00e4tter zur novellierten Baunutzungsverordnung",
+    "title_alternative": [
+      "Arbeitsbl\u00e4tter zur novellierten Baunutzungsverordnung"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081 s",
+      "363.7/05/09794"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Department of Energy"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Ellickson, Phyllis L."
+      },
+      {
+        "name": "Brewer, Saundra"
+      },
+      {
+        "name": "Knight, Kathleen"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000935",
+    "extent": [
+      "XVIII, 152 S"
+    ],
+    "identifier_isbn": [
+      "0-88300-031-4"
+    ],
+    "identifier_oclc": [
+      "4036815"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2274-DOE",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010862471",
+    "source_name": "econis",
+    "subject": [
+      "Geothermische Energie",
+      "Umweltschutz",
+      "Vereinigte Staaten"
+    ],
+    "title": "Balancing energy and the environment : the case of geothermal development",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Deutsche Bibliothek"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Buchbinder, R."
+      },
+      {
+        "name": "Weidem\u00fcller, H.U."
+      },
+      {
+        "name": "Tiedemann, E."
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001065",
+    "edition": [
+      "Als Ms. gedr"
+    ],
+    "extent": [
+      "123 S",
+      "4\u00b0"
+    ],
+    "identifier_oclc": [
+      "256300623"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Fachinformationszentrum Energie, Physik, Mathematik",
+        "place": "Eggenstein-Leopoldshafen"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000364512",
+        "issn": [
+          "0170-8996",
+          "0340-8647"
+        ],
+        "title": "Forschungsbericht / ID / Bundesministerium f\u00fcr Forschung und Technologie",
+        "type": "series",
+        "zdb_id": "558440-1"
+      }
+    ],
+    "source_id": "010879730",
+    "source_name": "econis",
+    "subject": [
+      "Bibliothek",
+      "Frankfurt",
+      "Deutsche Bibliothek",
+      "Datenbank",
+      "Deutschland",
+      "Bibliographie"
+    ],
+    "title": "Biblio-Data, die nationalbibliographische Datenbank der Deutschen Bibliothek: Teil A: Grundlagen von BIBLIO-DATA; Teil B: BIBLIO-DATA in der Sacherschlie\u00dfung der Deutschen Bibliothek; Teil C: BIBLIO-DATA in der bibliographischen Auskunft der Deutshen Bibliothek",
+    "type": "book",
+    "type_genre": [
+      "Forschungsbericht"
+    ]
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "gnd_id": "1033613-8",
+        "name": "Polska Akademia Nauk / Wydzia\u0142 Nauk Rolniczych i Le\u015bnych",
+        "type": "corporate"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-PL"
+    ],
+    "creator_personal": [
+      {
+        "name": "Bieszczad, Stanis\u0142aw"
+      },
+      {
+        "name": "Dzie\u017ayc, J\u00f3zef"
+      },
+      {
+        "name": "Milewska, J\u00f3zefa"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001066",
+    "extent": [
+      "457 S."
+    ],
+    "identifier_oclc": [
+      "5311540"
+    ],
+    "language": [
+      "pol"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "PWN",
+        "place": "Warszawa"
+      }
+    ],
+    "source_id": "010879846",
+    "source_name": "econis",
+    "subject": [
+      "Umweltschutz"
+    ],
+    "title": "Bibliografia polskiego pi\u015bmiennictwa z zakresu ochrony \u015brodowiska przyrodniczo-rolniczego za lata 1945-1974",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081",
+      "362.7/1"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Berryman, Sue E."
+      },
+      {
+        "name": "Bikson, Tora K."
+      },
+      {
+        "name": "Bazemore, Judith S."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001151",
+    "extent": [
+      "XI, 158 S",
+      "Ill"
+    ],
+    "identifier_isbn": [
+      "0-8330-0067-5"
+    ],
+    "identifier_oclc": [
+      "4494548"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2270-NSF",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010893474",
+    "source_name": "econis",
+    "subject": [
+      "Schulunterrichtsmittel",
+      "Rundfunk",
+      "Vereinigte Staaten"
+    ],
+    "title": "Cable, two-way video, and educational programming : the case of daycare",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "333.9/1/009794"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Goodall, Merrill R."
+      },
+      {
+        "name": "Sullivan, John D."
+      },
+      {
+        "name": "Young, Timothy de"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001152",
+    "extent": [
+      "117 S"
+    ],
+    "identifier_isbn": [
+      "0-87663-827-2"
+    ],
+    "identifier_oclc": [
+      "3396491"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Montclair"
+      }
+    ],
+    "series": [
+      {
+        "title": "LandMark Studies"
+      }
+    ],
+    "source_id": "010894012",
+    "source_name": "econis",
+    "subject": [
+      "Wasserwirtschaft",
+      "Vereinigte Staaten",
+      "California"
+    ],
+    "title": "California water",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "National Institutes of Health"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Carter, Grace M."
+      },
+      {
+        "name": "Lai, Clara S."
+      },
+      {
+        "name": "Lee, Carolyn L."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001248",
+    "extent": [
+      "65 S"
+    ],
+    "identifier_oclc": [
+      "4154470"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Santa Monica, Cal."
+      }
+    ],
+    "series": [
+      {
+        "title": "Rand",
+        "volume": "2228"
+      }
+    ],
+    "source_id": "010911367",
+    "source_name": "econis",
+    "subject": [
+      "Gesundheitsforschung"
+    ],
+    "title": "Comparison of large grants and research project grants awarded by the national institutes of health",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081",
+      "610/.7/2073"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "National Institutes of Health"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Carter, Grace M."
+      },
+      {
+        "name": "Lai, Clara S."
+      },
+      {
+        "name": "Lee, Carolyn L."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001249",
+    "extent": [
+      "XIII, 65 S"
+    ],
+    "identifier_isbn": [
+      "0-8330-0071-3"
+    ],
+    "identifier_oclc": [
+      "4492723"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2228-1-NIH",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010911375",
+    "source_name": "econis",
+    "subject": [
+      "Gesundheitsforschung",
+      "Vereinigte Staaten"
+    ],
+    "title": "A comparison of large grants and research project grants awarded by the national institutes of health",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "creator_personal": [
+      {
+        "name": "Cambau, D."
+      },
+      {
+        "name": "Haessig, G."
+      },
+      {
+        "name": "Mazin, J.P."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001288",
+    "extent": [
+      "52 S"
+    ],
+    "identifier_oclc": [
+      "61774728"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Paris"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10008701301",
+        "title": "ITA study / Institut du Transport A\u00e9rien : E",
+        "type": "series",
+        "volume": "1977,4",
+        "zdb_id": "267579-1"
+      }
+    ],
+    "source_id": "010916857",
+    "source_name": "econis",
+    "subject": [
+      "Luftverkehrsbetrieb",
+      "Europa",
+      "Mittelmeergebiet"
+    ],
+    "title": "Contribution to the study of non-scheduled service networks in the Europe-Mediterranean region",
+    "title_alternative": [
+      "Contribution \u00e0 l'\u00e9tude des reseaux des services non-reguliers dans la r\u00e9gion europe-mediteran\u00e9e"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081 s",
+      "526.6/0999/23",
+      "081"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "National Aeronautics and Space Administration"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Davies, Merton E."
+      },
+      {
+        "name": "Katayama, Frank Y."
+      },
+      {
+        "name": "Roth, James A."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001292",
+    "extent": [
+      "VII, 91 S",
+      "Ill"
+    ],
+    "identifier_isbn": [
+      "0-8330-0063-2"
+    ],
+    "identifier_oclc": [
+      "4495532"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2309-NASA",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010917101",
+    "source_name": "econis",
+    "subject": [
+      "Weltraum"
+    ],
+    "title": "Control net of Mars : February 1978",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "081 s",
+      "338.4/3",
+      "081"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Department of Health, Education, and Welfare"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Helms, L. Jay"
+      },
+      {
+        "name": "Newhouse, Joseph P."
+      },
+      {
+        "name": "Phelps, Charles R."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001296",
+    "extent": [
+      "29 S"
+    ],
+    "identifier_isbn": [
+      "0-8330-0005-5"
+    ],
+    "identifier_oclc": [
+      "3748639"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2167-HEW",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010917683",
+    "source_name": "econis",
+    "subject": [
+      "Gesundheits\u00f6konomie Kosten und Nutzen",
+      "Gesundheitspolitik",
+      "Vereinigte Staaten",
+      "California"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Gesundheitskosten",
+        "name_en": "Health care costs",
+        "stw_id": "11555-0"
+      },
+      {
+        "name_de": "Gesetzliche Krankenversicherung",
+        "name_en": "Public health insurance",
+        "stw_id": "13415-6"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "Selbstbeteiligung",
+        "name_en": "Deductible",
+        "stw_id": "21002-0"
+      }
+    ],
+    "title": "Copayments and demand for medical care : the California medicaid experience",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "74.73",
+        "name": "Stadtsanierung, Stadterneuerung"
+      },
+      {
+        "code": "71.83",
+        "name": "Wohnungspolitik <Soziologie>"
+      }
+    ],
+    "classification_ddc": [
+      "301.54094436",
+      "301.5/4/094436"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Castells, Manuel"
+      },
+      {
+        "name": "Cherki, Eddy"
+      },
+      {
+        "name": "Godard, Francis"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-FR"
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001310",
+    "extent": [
+      "594 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "2-7132-0068-7",
+      "2-7193-0446-6"
+    ],
+    "identifier_oclc": [
+      "5241817"
+    ],
+    "language": [
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Mouton \u00c9diteur",
+        "place": "Paris [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010444260",
+        "title": "La Recherche urbaine",
+        "type": "series",
+        "volume": "14",
+        "zdb_id": "186593-6"
+      }
+    ],
+    "source_id": "010919953",
+    "source_name": "econis",
+    "subject": [
+      "Bev\u00f6lkerungsverschiebung",
+      "Wohnungsmarkt",
+      "Frankreich",
+      "Ile de France"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4018145-5",
+        "name": "Frankreich",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4076600-7",
+        "name": "Regionale Mobilit\u00e4t",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/hebis-mainz/toc/050192310.pdf"
+    ],
+    "title": "Crise du logement et mouvements sociaux urbains : enqu\u00eate sur la r\u00e9gion parisienne",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "54.62",
+        "name": "Datenstrukturen"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "M\u00f6hrle, Roland"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Bergmann, Lutz"
+      },
+      {
+        "name": "Moehrle, Roland"
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001323",
+    "extent": [
+      "54 S"
+    ],
+    "identifier_isbn": [
+      "3-921899-05-2"
+    ],
+    "identifier_oclc": [
+      "74472156"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Datakontext-Verl.",
+        "place": "K\u00f6ln"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010448003",
+        "title": "DKT-Schriftenreihe / Stichwort Datensicherung / Datakontext-Verlag",
+        "type": "series",
+        "zdb_id": "566717-3"
+      }
+    ],
+    "source_id": "010924949",
+    "source_name": "econis",
+    "subject": [
+      "Elektronik Rechenzentrum",
+      "Elektronik Datenverarbeitung",
+      "Informationssicherung",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4063317-2",
+        "name": "Verwaltung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4011144-1",
+        "name": "Datensicherung",
+        "type": "topical"
+      }
+    ],
+    "title": "Datensicherung in Rechenzentren : Leitfaden f\u00fcr Wirtschaft und \u00f6ffentliche Verwaltung",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Autzen, Rainer"
+      },
+      {
+        "name": "Kempf, Wolfgang"
+      },
+      {
+        "name": "Voss, Hans Willi"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001350",
+    "extent": [
+      "IX, 239 S",
+      "graph. Darst., Kt",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-7983-0194-8"
+    ],
+    "identifier_oclc": [
+      "74481262"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Berlin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10009539117",
+        "issn": [
+          "0341-1877",
+          "0170-1673"
+        ],
+        "title": "IWOS-Bericht / Institut f\u00fcr Wohnungsbau und Stadtteilplanung (IWOS), Technische Universit\u00e4t Berlin, Fachbereich 8, Bauplanung und -fertigung",
+        "type": "series",
+        "volume": "1",
+        "zdb_id": "533340-4"
+      }
+    ],
+    "source_id": "010930264",
+    "source_name": "econis",
+    "subject": [
+      "Wohnungsbaufinanzierung",
+      "Deutschland"
+    ],
+    "title": "Determinanten der Wohnungsbaufinanzierung",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "331.1/2/09497"
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "36358-3",
+        "name": "Internationales Arbeitsamt",
+        "type": "corporate"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-CH"
+    ],
+    "creator_personal": [
+      {
+        "name": "Ra\u0161evi\u0107, M."
+      },
+      {
+        "name": "Mulina, T."
+      },
+      {
+        "name": "Macura, M."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001353",
+    "extent": [
+      "V, 229 S",
+      "Ill",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "92-2-101900-4"
+    ],
+    "identifier_oclc": [
+      "5834475"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "International Labour Office",
+        "place": "Geneva"
+      }
+    ],
+    "source_id": "010930353",
+    "source_name": "econis",
+    "subject": [
+      "Arbeitsmarkt",
+      "Arbeitskr\u00e4ftepotential",
+      "Jugoslawien"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Arbeitsmarktpolitik",
+        "name_en": "Labour market policy",
+        "stw_id": "11235-4"
+      },
+      {
+        "name_de": "Erwerbst\u00e4tigkeit",
+        "name_en": "Employment",
+        "stw_id": "11272-5"
+      },
+      {
+        "name_de": "Welt",
+        "name_en": "World",
+        "stw_id": "16809-5"
+      },
+      {
+        "name_de": "Jugoslawien (bis 1990)",
+        "name_en": "Yugoslavia (until 1990)",
+        "stw_id": "17176-6"
+      },
+      {
+        "name_de": "Serbien-Montenegro",
+        "name_en": "Serbia-Montenegro",
+        "stw_id": "19087-2"
+      }
+    ],
+    "title": "The determinants of labour force participation in Yugoslavia : a study carried out for the International Labour Organization's World Employment Programme at the Economic Institute, Belgrade",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Engels, Benno"
+      },
+      {
+        "name": "Bauer, Michael"
+      },
+      {
+        "name": "Laaser, Ullrich"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001354",
+    "extent": [
+      "569 S.",
+      "Ill.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-8039-0122-7"
+    ],
+    "identifier_oclc": [
+      "4529192"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Weltforum-Verlag",
+        "place": "M\u00fcnchen"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000364106",
+        "title": "Weltwirtschaft und internationale Beziehungen / Diskussionsbeitr\u00e4ge",
+        "type": "series",
+        "zdb_id": "545269-7"
+      }
+    ],
+    "source_id": "010930825",
+    "source_name": "econis",
+    "subject": [
+      "Schulpolitik",
+      "Bildungspolitik",
+      "Entwicklungsl\u00e4nder",
+      "Entwicklungshilfe",
+      "Deutschland"
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/780419863/04"
+    ],
+    "title": "Deutsche Bildungshilfe in der zweiten Entwicklungsdekade : eine Zwischenbilanz",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Hauser, Richard"
+      },
+      {
+        "name": "Ulbrich, Rudi"
+      },
+      {
+        "name": "Zitzelsberger, Gerd"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001396",
+    "extent": [
+      "115 S",
+      "Tab",
+      "30 cm"
+    ],
+    "identifier_oclc": [
+      "74481532"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Inst. f\u00fcr Wirtschaftswiss. d. Techn. Univ.",
+        "place": "Berlin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000363009",
+        "title": "Diskussionspapier / Institut f\u00fcr Wirtschaftswissenschaften der Technischen Universit\u00e4t Berlin",
+        "type": "series",
+        "volume": "36",
+        "zdb_id": "518729-1"
+      }
+    ],
+    "source_id": "010938966",
+    "source_name": "econis",
+    "subject": [
+      "Wohnungspolitik",
+      "Sozialaufwand",
+      "Wohnungsbaufinanzierung",
+      "Einkommensteuerpolitik",
+      "Deutschland"
+    ],
+    "title": "Distributive und fiskalische Wirkungen eines impliziten Transfers : die Beg\u00fcnstigung von Haushaltsgruppen infolge steuerlicher Unterbewertung eigengenutzten Wohnraums",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "330.9/415/0824"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Gibson, Norman J."
+      },
+      {
+        "name": "Spencer, John E."
+      },
+      {
+        "name": "Black, W."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001435",
+    "extent": [
+      "XX, 272 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-7705-1478-2"
+    ],
+    "identifier_oclc": [
+      "2768081"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Gill and Macmillan",
+        "place": "Dublin"
+      }
+    ],
+    "source_id": "010945881",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaft",
+      "Irland"
+    ],
+    "title": "Economic activity in Ireland : a study of two open economies",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Resources for the Future,"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Rice, Richard E."
+      },
+      {
+        "name": "Fischer, Anthony C."
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Krutilla, John Vasil"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001441",
+    "extent": [
+      "208 S",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-8018-2054-5"
+    ],
+    "identifier_oclc": [
+      "256321157"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Johns Hopkins Univ. Pr. [in Komm.]",
+        "place": "Baltimore u.a."
+      }
+    ],
+    "source_id": "010945997",
+    "source_name": "econis",
+    "subject": [
+      "Energiewirtschaft",
+      "Kohlenpolitik",
+      "Vereinigte Staaten",
+      "Montana"
+    ],
+    "title": "Economic and fiscal impacts of coal development",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Defense Advanced Research Projects Agency"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Petty, Geraldine"
+      },
+      {
+        "name": "Dzirkals, Lilita"
+      },
+      {
+        "name": "Krahenbuhl, Margaret"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001473",
+    "extent": [
+      "184 S"
+    ],
+    "identifier_oclc": [
+      "214314854"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Santa Monica, Cal."
+      }
+    ],
+    "series": [
+      {
+        "title": "Rand",
+        "volume": "2143"
+      }
+    ],
+    "source_id": "010946497",
+    "source_name": "econis",
+    "subject": [
+      "Internationale Wirtschaftshilfe",
+      "Vereinigte Staaten",
+      "Europa"
+    ],
+    "title": "Economic recovery following disaster : a selected, annotated bibliography",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_bk": [
+      {
+        "code": "18.85",
+        "name": "Estnische Sprache und Literatur"
+      },
+      {
+        "code": "17.70",
+        "name": "Literaturwissenschaft: Allgemeines"
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Jansen, E."
+      },
+      {
+        "name": "Kahk, J."
+      },
+      {
+        "name": "Vassar, A."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001508",
+    "extent": [
+      "212 S"
+    ],
+    "identifier_oclc": [
+      "9644389"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Tallinn"
+      }
+    ],
+    "source_id": "010947957",
+    "source_name": "econis",
+    "subject": [
+      "Agrarverfassung",
+      "Agrarsoziologie",
+      "UdSSR",
+      "Estland"
+    ],
+    "title": "Eesti Talurahva sotsiaalseid vaateid XIX sajandil",
+    "title_alternative": [
+      "Social\u0309nye Vzgljady \u0117stonskich krest\u0309jan v XIX v."
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "081",
+      "610/.7/1173"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Rolph, John E."
+      },
+      {
+        "name": "Williams, Albert P."
+      },
+      {
+        "name": "Lee, Carolyn L."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001510",
+    "extent": [
+      "XV, 62 S",
+      "Kt"
+    ],
+    "identifier_oclc": [
+      "4253643"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2014-NIE",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "01094818X",
+    "source_name": "econis",
+    "subject": [
+      "Gesundheitsberuf Arzt",
+      "Vereinigte Staaten"
+    ],
+    "title": "The effect of state of residence on medical school admissions",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.74",
+        "name": "Russland <Geschichte>"
+      },
+      {
+        "code": "89.14",
+        "name": "Sozialismus"
+      },
+      {
+        "code": "89.61",
+        "name": "Politische Parteien"
+      }
+    ],
+    "classification_ddc": [
+      "354.4701"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Meissner, Boris"
+      },
+      {
+        "name": "Brunner, Georg"
+      },
+      {
+        "name": "L\u00f6wenthal, Richard"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001550",
+    "edition": [
+      "Orig.-Ausg."
+    ],
+    "extent": [
+      "320 S.",
+      "24 cm"
+    ],
+    "identifier_oclc": [
+      "256324635"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Markus-Verl.",
+        "place": "K\u00f6ln"
+      }
+    ],
+    "source_id": "010956557",
+    "source_name": "econis",
+    "subject": [
+      "Partei und Staat",
+      "Verwaltungsb\u00fcrokratie",
+      "UdSSR"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4077548-3",
+        "name": "Sowjetunion",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4046584-6",
+        "name": "Politisches System",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4013915-3",
+        "name": "Einparteiensystem",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4008822-4",
+        "name": "B\u00fcrokratie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "2016004-5",
+        "name": "Kommunisti\u010deskaja Partija Sovetskogo Sojuza",
+        "type": "corporate"
+      }
+    ],
+    "title": "Einparteisystem und b\u00fcrokratische Herrschaft in der Sowjetunion",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Deutsches Handwerksinstitut"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "R\u00fchl, G\u00fcnter"
+      },
+      {
+        "name": "Koschnitzki, Klaus"
+      },
+      {
+        "name": "Heitz, Franz"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001551",
+    "extent": [
+      "181 S",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-7780-2631-3"
+    ],
+    "identifier_oclc": [
+      "17171867"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Schorndorf"
+      }
+    ],
+    "series": [
+      {
+        "title": "ITB-Forschungsberichte, Hrsg. vom Institut f\u00fcr Technische Betriebsf\u00fchrung im Handwerk Karlsruhe, Forschungsstelle des Deutschen Handwerksinstituts e. V."
+      }
+    ],
+    "source_id": "010956670",
+    "source_name": "econis",
+    "subject": [
+      "Elektronikanwendung",
+      "Elektronik Hardware",
+      "Deutschland"
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/1080145060/04"
+    ],
+    "title": "Einsatz der mittleren Datentechnik",
+    "title_alternative": [
+      "Einsatz der MDT"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Faber, Rainer"
+      },
+      {
+        "name": "K\u00f6hler, Hans Dirk"
+      },
+      {
+        "name": "Schmitt, J\u00f6rg"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001621",
+    "extent": [
+      "45, 4 S.",
+      "graph. Darst., Tab.",
+      "4\u00b0"
+    ],
+    "identifier_oclc": [
+      "47821130"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Techn. Univ.",
+        "place": "Berlin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000363009",
+        "title": "Diskussionspapier / Institut f\u00fcr Wirtschaftswissenschaften der Technischen Universit\u00e4t Berlin",
+        "type": "series",
+        "volume": "29",
+        "zdb_id": "518729-1"
+      }
+    ],
+    "source_id": "01096763X",
+    "source_name": "econis",
+    "subject": [
+      "Entscheidung"
+    ],
+    "title": "Die Entscheidungstabelle als Organisationsinstrument",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.86",
+        "name": "Europarecht: Allgemeines"
+      }
+    ],
+    "classification_ddc": [
+      "341.24/2"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Gensior, Walter"
+      },
+      {
+        "name": "Krieg, Volker"
+      },
+      {
+        "name": "Grimm, Max"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001707",
+    "extent": [
+      "272 S"
+    ],
+    "identifier_isbn": [
+      "3-555-00121-3"
+    ],
+    "identifier_oclc": [
+      "6649224"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Dt. Gemeindeverl. [u.a.]",
+        "place": "K\u00f6ln [u.a.]"
+      }
+    ],
+    "source_id": "010980032",
+    "source_name": "econis",
+    "subject": [
+      "Parlament",
+      "Wahlrecht",
+      "EG-Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4113482-5",
+        "name": "Europawahl",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4048737-4",
+        "name": "Recht",
+        "type": "topical"
+      }
+    ],
+    "title": "Europawahl '79 : Handbuch s\u00e4mtlicher Texte mit Einf\u00fchrung in die Rechtsgrundlagen der Wahl der Abgeordneten des Europ\u00e4ischen Parlaments aus der Bundesrepublik Deutschland",
+    "type": "book",
+    "type_genre": [
+      "Quelle"
+    ]
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Ebert, Claus"
+      },
+      {
+        "name": "Greil, Wolf-Dieter"
+      },
+      {
+        "name": "Teufel, Norbert"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001730",
+    "extent": [
+      "151 S",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "74448079"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Deutscher Sparkassen Verl.",
+        "place": "Stuttgart"
+      }
+    ],
+    "series": [
+      {
+        "title": "Informationsdienst der Sparkassen und Landesbanken/Girozentralen / Kleines Wirtschaftslexikon"
+      }
+    ],
+    "source_id": "010985816",
+    "source_name": "econis",
+    "subject": [
+      "Betriebswirtschaftliche Enzyklop\u00e4die",
+      "Deutschland"
+    ],
+    "title": "Fachbegriffe der Betriebswirtschaft",
+    "title_alternative": [
+      "Fachbegriffe der Betriebswirtschaft"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081",
+      "959.7043",
+      "959.704/3",
+      "081 s"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Hosmer, Stephen T."
+      },
+      {
+        "name": "Kellen, Konrad"
+      },
+      {
+        "name": "Jenkins, Brian M."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001736",
+    "extent": [
+      "131 S",
+      "Kt"
+    ],
+    "identifier_isbn": [
+      "0-8330-0045-4"
+    ],
+    "identifier_oclc": [
+      "4135351"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2208-OSD (HIST)",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010986847",
+    "source_name": "econis",
+    "subject": [
+      "Kriegsbeendigung",
+      "Vietnam"
+    ],
+    "title": "The fall of South Vietnam : statements by Vietnamese military and civilian leaders",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "301.31"
+    ],
+    "conference": [
+      {
+        "date": "1975.12.",
+        "name": "Conference held at the Institut of Development Studies"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Epstein, Trude Scarlett"
+      },
+      {
+        "name": "Jackson, Darrel"
+      },
+      {
+        "name": "Epstein, Trude S."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB",
+      "XD-US",
+      "XD-CA"
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001744",
+    "edition": [
+      "1. ed."
+    ],
+    "extent": [
+      "VIII, 244 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-08-021452-5",
+      "0-08-021837-7",
+      "0-08-021827-7"
+    ],
+    "identifier_oclc": [
+      "2912170"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Pergamon Press",
+        "place": "Oxford"
+      }
+    ],
+    "source_id": "010988742",
+    "source_name": "econis",
+    "subject": [
+      "Bev\u00f6lkerungsfruchtbarkeit",
+      "Entwicklungsl\u00e4nder"
+    ],
+    "title": "The feasibility of fertility planning : micro perspectives",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Schade, Horst"
+      },
+      {
+        "name": "Gliwa, H."
+      },
+      {
+        "name": "Gliwa, Horst"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001761",
+    "extent": [
+      "368 S",
+      "graph. Darst",
+      "21 cm"
+    ],
+    "identifier_isbn": [
+      "3-17-003143-0"
+    ],
+    "identifier_oclc": [
+      "4651899"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Kohlhammer",
+        "place": "[Stuttgart] [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000364344",
+        "issn": [
+          "1614-2918"
+        ],
+        "title": "Materialien zur Umweltforschung",
+        "type": "series",
+        "volume": "3",
+        "zdb_id": "553920-1"
+      }
+    ],
+    "source_id": "010990682",
+    "source_name": "econis",
+    "subject": [
+      "Deutschland",
+      "Luft Verunreinigung",
+      "Nordrhein-Westfalen"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4011889-7",
+        "name": "Deutschland <Bundesrepublik>",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4154204-6",
+        "name": "Feststoff",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4014573-6",
+        "name": "Emission",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4042570-8",
+        "name": "Nordrhein-Westfalen",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4074381-0",
+        "name": "Luftverschmutzung",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/780344286/04"
+    ],
+    "title": "Die Feststoffemissionen in der Bundesrepublik Deutschland und im Lande Nordrhein-Westfalen in den Jahren 1965, 1970, 1973 und 1974",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081 s",
+      "363.3/7",
+      "081"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Ignall, Edward"
+      },
+      {
+        "name": "Rider, Kenneth L."
+      },
+      {
+        "name": "Urbach, Richard"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001772",
+    "extent": [
+      "IX, 25 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-8330-0114-0"
+    ],
+    "identifier_oclc": [
+      "4804344"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2013-NYC",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "010992871",
+    "source_name": "econis",
+    "subject": [
+      "Brandschutz",
+      "Vereinigte Staaten",
+      "New York City"
+    ],
+    "title": "Fire severity and response distance : initial findings",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "creator_personal": [
+      {
+        "name": "Voigt, F."
+      },
+      {
+        "name": "D\u00fcssel, M."
+      },
+      {
+        "name": "Heuskel, D."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001795",
+    "extent": [
+      "46 Bl",
+      "4\u00b0"
+    ],
+    "identifier_oclc": [
+      "251800819"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "K\u00f6nigswinter"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010447926",
+        "title": "Diskussionspapiere zur Entwicklungspolitik : Berichte \u00fcber d. Forschungst\u00e4tigkeit d. Gesellschaft f\u00fcr Wirtschafts- und Verkehrswissenschaftliche Forschung e.V. u. d. Instituts f\u00fcr Industrie- und Verkehrspolitik der Universit\u00e4t Bonn",
+        "type": "series",
+        "volume": "1",
+        "zdb_id": "556590-X"
+      }
+    ],
+    "source_id": "010997113",
+    "source_name": "econis",
+    "subject": [
+      "Aussenwirtschaft",
+      "Weltwirtschaftspolitik",
+      "Entwicklungsl\u00e4nder"
+    ],
+    "title": "Die Forderungen der Entwicklungsl\u00e4nder nach einer Neuordnung der Weltwirtschaft",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_bk": [
+      {
+        "code": "74.10",
+        "name": "Politische Geographie"
+      }
+    ],
+    "classification_ddc": [
+      "911/.5"
+    ],
+    "countryOfPublication": [
+      "XE-AU"
+    ],
+    "creator_personal": [
+      {
+        "name": "Prescott, John Robert Victor"
+      },
+      {
+        "name": "Collier, Harold John"
+      },
+      {
+        "name": "Prescott, Dorothy Francis"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001840",
+    "edition": [
+      "1st publ."
+    ],
+    "extent": [
+      "XI, 106 S.",
+      "zahlr. Kt.",
+      "4\""
+    ],
+    "identifier_isbn": [
+      "0-522-84116-3"
+    ],
+    "identifier_oclc": [
+      "3598780"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Melbourne Univ. Press",
+        "place": "Carlton"
+      }
+    ],
+    "source_id": "011003995",
+    "source_name": "econis",
+    "subject": [
+      "Staatsgebietsgrenze",
+      "S\u00fcdostasien"
+    ],
+    "title": "Frontiers of Asia and southeast Asia",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "307.7/64/09439"
+    ],
+    "creator_personal": [
+      {
+        "name": "Lack\u00f3, L."
+      },
+      {
+        "name": "Enyedi, G."
+      },
+      {
+        "name": "Koszegfalvi, G."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001847",
+    "extent": [
+      "32 S",
+      "Fig. u. Tab"
+    ],
+    "identifier_oclc": [
+      "4865768"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Laxenburg"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010448194",
+        "title": "Conference proceedings / International Institute for Applied Systems Analysis",
+        "type": "journal",
+        "volume": "78-4",
+        "zdb_id": "593820-X"
+      }
+    ],
+    "source_id": "011005300",
+    "source_name": "econis",
+    "subject": [
+      "Stadtraum",
+      "Entwicklung",
+      "Standort",
+      "Ungarn"
+    ],
+    "title": "Functional urban Regions in Hungary",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Mesch, Erich"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-RO"
+    ],
+    "creator_personal": [
+      {
+        "name": "Tism\u0103neanu, Leonte"
+      },
+      {
+        "name": "Zaharia, Rolic\u0103"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001866",
+    "extent": [
+      "186 S., [1] gef. Bl.",
+      "Ill., Kt.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "602805407"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Meridiane",
+        "place": "Bukarest"
+      }
+    ],
+    "source_id": "01100973X",
+    "source_name": "econis",
+    "subject": [
+      "Politische L\u00e4nderkunde",
+      "Wirtschaftsbericht",
+      "Bildungspolitik",
+      "Wirtschaftspolitik",
+      "Rum\u00e4nien"
+    ],
+    "title": "Gegenwart und Perspektiven der sozialen und \u00f6konomischen Entwicklung Rum\u00e4niens",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_personal": [
+      {
+        "name": "Petrov, V. S."
+      },
+      {
+        "name": "Korolev, A. I."
+      },
+      {
+        "name": "Ioffe, O. S."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-SUHH"
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001949",
+    "extent": [
+      "471 S."
+    ],
+    "identifier_oclc": [
+      "64257754"
+    ],
+    "language": [
+      "rus"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Izd. Leningradskogo univ.",
+        "place": "Leningrad"
+      }
+    ],
+    "source_id": "011024143",
+    "source_name": "econis",
+    "subject": [
+      "Staatsrecht",
+      "UdSSR"
+    ],
+    "title": "Gosudarstvo i pravo razvitogo socializma v SSSR : (k 60-letiju Velikoj Oktjabr'skoj socialisti\u010deskoj revoljucii)",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "627.8 UKP",
+      "627/.8/0968"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Vorster, B. J."
+      },
+      {
+        "name": "Lyra da Silva, T. H."
+      }
+    ],
+    "creator_personal": [
+      {
+        "name": "Olivier, Henry"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001961",
+    "extent": [
+      "232 S",
+      "Kt., graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-86843-004-8"
+    ],
+    "identifier_oclc": [
+      "3765701"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Purnell",
+        "place": "Cape Town"
+      }
+    ],
+    "source_id": "011025913",
+    "source_name": "econis",
+    "subject": [
+      "Wasserbau",
+      "Wasserkraft",
+      "Elektrizit\u00e4t",
+      "Bildband",
+      "S\u00fcdafrika"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4058393-4",
+        "name": "S\u00fcdafrika <Kontinent>",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4057020-4",
+        "name": "Staudamm",
+        "type": "topical"
+      }
+    ],
+    "title": "Great dams in Southern Africa",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "016.9684"
+    ],
+    "countryOfPublication": [
+      "XC-ZA"
+    ],
+    "creator_personal": [
+      {
+        "name": "Duminy, A.H."
+      },
+      {
+        "name": "Honnet, M.L."
+      },
+      {
+        "name": "King, R.J.H."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002011",
+    "extent": [
+      "IV,103 S"
+    ],
+    "identifier_isbn": [
+      "0-86980-108-2"
+    ],
+    "identifier_oclc": [
+      "6200540"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "University of Natal",
+        "place": "Durban"
+      }
+    ],
+    "series": [
+      {
+        "title": "University of Natal. Department of History and PoliticalSciences. Research Monograph",
+        "volume": "4"
+      }
+    ],
+    "source_id": "011031182",
+    "source_name": "econis",
+    "subject": [
+      "Geschichtsquellensammlung",
+      "S\u00fcdafrikanische Republik",
+      "Natal"
+    ],
+    "title": "A guide for unofficial sources relating to the history of Natal",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "338.4/7/66581"
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Dickson, E.M."
+      },
+      {
+        "name": "Ryan, J.W."
+      },
+      {
+        "name": "Smulyan, M.H."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002091",
+    "extent": [
+      "305 S",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-275-24290-0"
+    ],
+    "identifier_oclc": [
+      "2646275"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Praeger",
+        "place": "New York"
+      }
+    ],
+    "series": [
+      {
+        "title": "Praeger Special Studies in U.S. Economic, Social, and Political Issues"
+      }
+    ],
+    "source_id": "011050330",
+    "source_name": "econis",
+    "subject": [
+      "Energiewirtschaft",
+      "Energiepolitik",
+      "Vereinigte Staaten"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Energiepolitik",
+        "name_en": "Energy policy",
+        "stw_id": "11810-3"
+      },
+      {
+        "name_de": "Energiequelle",
+        "name_en": "Energy source",
+        "stw_id": "14176-0"
+      },
+      {
+        "name_de": "Wasserstofftechnik",
+        "name_en": "Hydrogen technology",
+        "stw_id": "14634-3"
+      },
+      {
+        "name_de": "Welt",
+        "name_en": "World",
+        "stw_id": "16809-5"
+      },
+      {
+        "name_de": "Brennstoffzelle",
+        "name_en": "Fuel cell",
+        "stw_id": "18250-1"
+      },
+      {
+        "name_de": "Energiekonsum",
+        "name_en": "Energy consumption",
+        "stw_id": "18989-2"
+      }
+    ],
+    "title": "The hydrogen energy economy",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "330.9/54/04"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Brahmananda, P. R."
+      },
+      {
+        "name": "Nanjundappa, D. M."
+      }
+    ],
+    "countryOfPublication": [
+      "XB-IN"
+    ],
+    "creator_personal": [
+      {
+        "name": "D'Souza, V. L."
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002115",
+    "extent": [
+      "352 S",
+      "III., graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-7069-0683-7"
+    ],
+    "identifier_oclc": [
+      "218983386"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Vikas Publ.",
+        "place": "New Delhi [u.a.]"
+      }
+    ],
+    "source_id": "011057726",
+    "source_name": "econis",
+    "subject": [
+      "Entwicklungspolitik",
+      "Wirtschaftspolitik",
+      "Indien"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Entwicklung",
+        "name_en": "Economic development",
+        "stw_id": "10513-0"
+      },
+      {
+        "name_de": "Wirtschaftspolitik",
+        "name_en": "Economic policy",
+        "stw_id": "10987-4"
+      },
+      {
+        "name_de": "Indien",
+        "name_en": "India",
+        "stw_id": "17602-1"
+      }
+    ],
+    "title": "Indian economic development and policy : essays in honour of Professor V. L. D'Souza",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "331.892941",
+      "331.89/2941"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Evans, Eric Wyn"
+      },
+      {
+        "name": "Creigh, S. W."
+      },
+      {
+        "name": "Evans, Eric W."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002126",
+    "edition": [
+      "1. publ."
+    ],
+    "extent": [
+      "292 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-7146-3023-3"
+    ],
+    "identifier_oclc": [
+      "3365652"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Cass",
+        "place": "London [u.a.]"
+      }
+    ],
+    "source_id": "01105882X",
+    "source_name": "econis",
+    "subject": [
+      "Gro\u00dfbritannien",
+      "Streik"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4022153-2",
+        "name": "Gro\u00dfbritannien",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4058029-5",
+        "name": "Streik",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4002702-8",
+        "name": "Arbeitskampf",
+        "type": "topical"
+      }
+    ],
+    "title": "Industrial conflict in Britain",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081 s",
+      "355.4/2",
+      "081"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Defense Advanced Research Projects Agency"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Paxson, Edwin W."
+      },
+      {
+        "name": "Weiner, Milton Gershwin"
+      },
+      {
+        "name": "Wise, Richard Albert"
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002186",
+    "extent": [
+      "VII, 42 S",
+      "Ill., graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-8330-0088-8"
+    ],
+    "identifier_oclc": [
+      "4592968"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2377-ARPA",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "011064315",
+    "source_name": "econis",
+    "subject": [
+      "Wehrr\u00fcstung",
+      "Vereinigte Staaten"
+    ],
+    "title": "Interactions between tactics and technology in ground warfare",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "382.17",
+      "382.1/7",
+      "332.6/328"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Schachter, Oscar"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US",
+      "XA-GB",
+      "XE-AU"
+    ],
+    "creator_personal": [
+      {
+        "name": "Reynolds, Paul D."
+      },
+      {
+        "name": "Reynolds, Paul Donovan"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002192",
+    "extent": [
+      "XV, 233 S.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-03-044266-4"
+    ],
+    "identifier_oclc": [
+      "4036897"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Praeger Publ.",
+        "place": "New York [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Praeger special studies"
+      }
+    ],
+    "source_id": "011065133",
+    "source_name": "econis",
+    "subject": [
+      "Rohstoffpolitik internationale"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4050420-7",
+        "name": "Rohstoffabkommen",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4065365-1",
+        "name": "Welthandel",
+        "type": "topical"
+      }
+    ],
+    "title": "International commodity agreements and the Common Fund : a legal and financial analysis",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "658.1/5"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Henning, Charles N."
+      },
+      {
+        "name": "Pigott, William"
+      },
+      {
+        "name": "Scott, Robert Haney"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002195",
+    "extent": [
+      "576 S"
+    ],
+    "identifier_isbn": [
+      "0-07-028175-0"
+    ],
+    "identifier_oclc": [
+      "3186313"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "New York u.a."
+      }
+    ],
+    "series": [
+      {
+        "title": "McGraw-Hill Series in Finance"
+      }
+    ],
+    "source_id": "011065370",
+    "source_name": "econis",
+    "subject": [
+      "Unternehmung internationale",
+      "Geldpolitik internationale",
+      "Investition ausl\u00e4ndische",
+      "Devisenkurs"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Internationaler Finanzmarkt",
+        "name_en": "International financial market",
+        "stw_id": "10807-4"
+      },
+      {
+        "name_de": "Multinationales Unternehmen",
+        "name_en": "Transnational corporation",
+        "stw_id": "12062-4"
+      },
+      {
+        "name_de": "Betriebliche Finanzwirtschaft",
+        "name_en": "Managerial finance",
+        "stw_id": "12215-5"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "W\u00e4hrungsmanagement",
+        "name_en": "Foreign exchange management",
+        "stw_id": "18539-5"
+      }
+    ],
+    "title": "International financial management",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "331.1/27/094"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Development Centre of the Orgabisation for Economic Co-operation and Development"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-FR"
+    ],
+    "creator_personal": [
+      {
+        "name": "Bourguignon, Fran\u00e7ois"
+      },
+      {
+        "name": "Gallais-Hamonno, Georges"
+      },
+      {
+        "name": "Fernet, Bernard"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002197",
+    "extent": [
+      "294 p",
+      "ill"
+    ],
+    "identifier_isbn": [
+      "92-64-11632-X"
+    ],
+    "identifier_oclc": [
+      "3342220"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Paris"
+      }
+    ],
+    "series": [
+      {
+        "title": "Document"
+      },
+      {
+        "title": "Development Centre Studies"
+      }
+    ],
+    "source_id": "011065427",
+    "source_name": "econis",
+    "subject": [
+      "Arbeiterwanderung",
+      "Kapital",
+      "Auslandskapital",
+      "Europa"
+    ],
+    "title": "International labour migrations and economic choices",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "332.15",
+      "332.4/5"
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Angelini, Anthony"
+      },
+      {
+        "name": "Eng, Maximo"
+      },
+      {
+        "name": "Lees, Francis A."
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002198",
+    "extent": [
+      "XI, 213 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-333-23787-0"
+    ],
+    "identifier_oclc": [
+      "5361504"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Macmillian Press",
+        "place": "London [u.a.]"
+      }
+    ],
+    "source_id": "011065486",
+    "source_name": "econis",
+    "subject": [
+      "Kapitalmarkt internationaler",
+      "Kapitalanlage ausl\u00e4ndische",
+      "Entwicklungsfinanzierung"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4210785-4",
+        "name": "Auslandsanleihe",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4114309-7",
+        "name": "Kreditrisiko",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4015696-5",
+        "name": "Eurogeldmarkt",
+        "type": "topical"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Internationaler Finanzmarkt",
+        "name_en": "International financial market",
+        "stw_id": "10807-4"
+      },
+      {
+        "name_de": "Internationaler Kredit",
+        "name_en": "International credit",
+        "stw_id": "10812-4"
+      },
+      {
+        "name_de": "Kreditrisiko",
+        "name_en": "Credit risk",
+        "stw_id": "13777-0"
+      },
+      {
+        "name_de": "Europa",
+        "name_en": "Europe",
+        "stw_id": "16815-3"
+      }
+    ],
+    "title": "International lending, risk and the Euromarkets",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "021/.00952"
+    ],
+    "conference": [
+      {
+        "date": "1975.10.28-31",
+        "name": "Japan-U.S. conference on libraries and information science in higher education",
+        "numbering": "3",
+        "place": "Kyoto"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Stevens, Robert D."
+      },
+      {
+        "name": "Swank, Raynard C."
+      },
+      {
+        "name": "Welch, Theodore F."
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002271",
+    "extent": [
+      "240 S",
+      "diagr"
+    ],
+    "identifier_isbn": [
+      "0-8108-1028-X"
+    ],
+    "identifier_oclc": [
+      "256362148"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Scarecrow Pr.",
+        "place": "Metuchen, N.J."
+      }
+    ],
+    "source_id": "01107566X",
+    "source_name": "econis",
+    "subject": [
+      "Japan",
+      "Vereinigte Staaten",
+      "Bibliothek"
+    ],
+    "title": "Japanese and U.S. Research libraries at the turning point : Proceedings",
+    "title_alternative": [
+      "Japanese and United States Research Libraries at the turning point : Proceedings"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "342/.546/029"
+    ],
+    "countryOfPublication": [
+      "XB-IN"
+    ],
+    "creator_personal": [
+      {
+        "name": "Teng, Mohan Krishen"
+      },
+      {
+        "name": "Bhatt, Ram Krishen Kaul"
+      },
+      {
+        "name": "Kaul, Santosh"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002310",
+    "edition": [
+      "1. ed"
+    ],
+    "extent": [
+      "689 S"
+    ],
+    "identifier_oclc": [
+      "4497018"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Light & Life Publ.",
+        "place": "New Delhi [u.a.]"
+      }
+    ],
+    "source_id": "011081899",
+    "source_name": "econis",
+    "subject": [
+      "Staatsverfassungsgeschichte",
+      "Politische Dokumentensammlung",
+      "Indien",
+      "Kaschmir <Jammu und Kaschmir>"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Geschichte",
+        "name_en": "History",
+        "stw_id": "15690-2"
+      },
+      {
+        "name_de": "Wirtschaftsgeschichte",
+        "name_en": "Economic history",
+        "stw_id": "15706-6"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "L\u00e4nderbericht",
+        "name_en": "Country report",
+        "stw_id": "29600-3"
+      }
+    ],
+    "title": "Kashmir : constitutional history and documents",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "G\u00fcttler, Erich"
+      },
+      {
+        "name": "Below, Fritz von"
+      },
+      {
+        "name": "Z\u00fclch, Gert"
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002329",
+    "extent": [
+      "V, 134 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-531-02837-5"
+    ],
+    "identifier_oclc": [
+      "35352301"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Westdt. Verl.",
+        "place": "Opladen"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010447148",
+        "issn": [
+          "0367-2492"
+        ],
+        "title": "Forschungsberichte des Landes Nordrhein-Westfalen",
+        "type": "series",
+        "volume": "2837",
+        "zdb_id": "526591-5"
+      }
+    ],
+    "source_id": "011086777",
+    "source_name": "econis",
+    "subject": [
+      "Arbeitsplatz",
+      "Statistische Methoden",
+      "Statistik",
+      "Gruppenbildung"
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE0044987525B2E6972E0C125794A0068CBFE.pdf"
+    ],
+    "title": "Klassifikation von Arbeitsplatzanforderungen durch Clusteranalyse",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_personal": [
+      {
+        "name": "Siemie\u0144ski, Opracowali Feliks"
+      },
+      {
+        "name": "Skrzyd\u0142o, Wies\u0142aw"
+      },
+      {
+        "name": "Ziembi\u0144ski, Jan"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-PL"
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002366",
+    "extent": [
+      "513 S"
+    ],
+    "identifier_oclc": [
+      "251740080"
+    ],
+    "language": [
+      "pol"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Warszawa"
+      }
+    ],
+    "source_id": "011093455",
+    "source_name": "econis",
+    "subject": [
+      "Gesetzsammlung",
+      "Polen"
+    ],
+    "title": "Konstytucja i podstawowe akty ustrojowe polskiej rzeczypospolitej Ludowej",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "331.12/53/09593"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Capellari, Gregory"
+      },
+      {
+        "name": "Goericke, Fred von"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Fuhs, Friedrich W."
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002441",
+    "extent": [
+      "XVI, 371 p",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-515-03001-8"
+    ],
+    "identifier_oclc": [
+      "6163775"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Steiner",
+        "place": "Wiesbaden"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000353861",
+        "issn": [
+          "0170-3137"
+        ],
+        "title": "Beitr\u00e4ge zur S\u00fcdasienforschung",
+        "type": "series",
+        "volume": "48",
+        "zdb_id": "193993-2"
+      }
+    ],
+    "source_id": "011101121",
+    "source_name": "econis",
+    "subject": [
+      "Agrararbeitsmarkt",
+      "Agrarbetriebsintensit\u00e4t",
+      "Agrareinkommen",
+      "Thailand"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4078228-1",
+        "name": "Thailand",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4034402-2",
+        "name": "Landwirtschaft",
+        "type": "topical"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Landwirtschaft",
+        "name_en": "Agriculture",
+        "stw_id": "12945-3"
+      },
+      {
+        "name_de": "Thailand",
+        "name_en": "Thailand",
+        "stw_id": "17590-3"
+      },
+      {
+        "name_de": "L\u00e4ndliches Einkommen",
+        "name_en": "Rural income",
+        "stw_id": "18982-2"
+      },
+      {
+        "name_de": "Agrareinkommen",
+        "name_en": "Farm income",
+        "stw_id": "18983-0"
+      },
+      {
+        "name_de": "L\u00e4ndlicher Arbeitsmarkt",
+        "name_en": "Rural labour market",
+        "stw_id": "19462-2"
+      }
+    ],
+    "title": "Labour utilization and farm income in rural Thailand : results of case studies in rural villages (1969/70)",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "creator_personal": [
+      {
+        "name": "Punekar, S.D."
+      },
+      {
+        "name": "Deodhar, S.B."
+      },
+      {
+        "name": "Sankaran, Saraswathi"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002442",
+    "extent": [
+      "173, 84, 84 S",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "7483333"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Bombay"
+      }
+    ],
+    "source_id": "01110113X",
+    "source_name": "econis",
+    "subject": [
+      "Betriebliche Sozialleistung",
+      "Arbeitergewerkschaft",
+      "Arbeitsbeziehung",
+      "Indien"
+    ],
+    "title": "Labour welfare, trade unionism and industrial relations",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "338.4/3"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Department of Water and Power"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Acton, Jan Paul"
+      },
+      {
+        "name": "Manning, Willard G."
+      },
+      {
+        "name": "Mitchell, Bridger M."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002488",
+    "extent": [
+      "XI, 40 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-8330-0050-5"
+    ],
+    "identifier_oclc": [
+      "4114585"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2113-DWP",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "011109211",
+    "source_name": "econis",
+    "subject": [
+      "Elektrizit\u00e4tstarif",
+      "Vereinigte Staaten",
+      "Los Angeles"
+    ],
+    "title": "Lessons to be learned from the Los Angeles rate experiment in electricity",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "countryOfPublication": [
+      "XA-FI"
+    ],
+    "creator_personal": [
+      {
+        "name": "Hallikainen, Pekka"
+      },
+      {
+        "name": "Tervola, Veikko"
+      },
+      {
+        "name": "V\u00e4linoro, Tapio"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002599",
+    "extent": [
+      "19 S.",
+      "graph. Darst., Kt."
+    ],
+    "identifier_isbn": [
+      "951-38-0419-4"
+    ],
+    "identifier_oclc": [
+      "44524348"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Technical Research Centre of Finland",
+        "place": "Espoo"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010444350",
+        "issn": [
+          "0355-337X"
+        ],
+        "title": "Building technology and community development",
+        "type": "series",
+        "volume": "12",
+        "zdb_id": "189533-3"
+      }
+    ],
+    "source_id": "011127139",
+    "source_name": "econis",
+    "subject": [
+      "Freizeitwohnung",
+      "Finnland"
+    ],
+    "title": "A mathematical programming model for planning regional holiday housing",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "creator_personal": [
+      {
+        "name": "Keyes, W.F."
+      },
+      {
+        "name": "Sondermayer, R.V."
+      },
+      {
+        "name": "Huvos, J.B."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002660",
+    "extent": [
+      "57 S"
+    ],
+    "identifier_oclc": [
+      "252333048"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Washington"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010445911",
+        "issn": [
+          "0270-9473"
+        ],
+        "title": "Mineral perspectives : MP",
+        "type": "journal",
+        "volume": "4",
+        "zdb_id": "424489-8"
+      }
+    ],
+    "source_id": "011140666",
+    "source_name": "econis",
+    "subject": [
+      "Bodensch\u00e4tze",
+      "Bergbau",
+      "Europa"
+    ],
+    "title": "Mineral Industries of western Europe",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "332.2"
+    ],
+    "creator_personal": [
+      {
+        "name": "Koubek, Peter"
+      },
+      {
+        "name": "Widl, Leander"
+      },
+      {
+        "name": "Zucha, Rudolf"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002671",
+    "extent": [
+      "77 S",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "5335613"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Wien"
+      }
+    ],
+    "series": [
+      {
+        "title": "\u00d6sterreichisches Forschungsinstitut f\u00fcr Sparkassenwesen. Vierteljahresschriftenreihe",
+        "volume": "1978,1"
+      }
+    ],
+    "source_id": "011142235",
+    "source_name": "econis",
+    "subject": [
+      "Betriebswirtschaftliche Ausbildung",
+      "Bankpersonal",
+      "\u00d6sterreich"
+    ],
+    "title": "Mitarbeitertraining in der Kreditwirtschaft",
+    "title_alternative": [
+      "Mitarbeitertraining in der Kreditwirtschaft"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "332.4943",
+      "332.4/943"
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Frowen, S. F."
+      },
+      {
+        "name": "Courakis, A. S."
+      },
+      {
+        "name": "Miller, M. H."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002715",
+    "extent": [
+      "xviii, 268 p",
+      "ill"
+    ],
+    "identifier_isbn": [
+      "0-903384-20-5"
+    ],
+    "identifier_oclc": [
+      "4463497"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Surrey Univ. Pr. in assoc. with International Textbook Co.",
+        "place": "London"
+      }
+    ],
+    "source_id": "011147083",
+    "source_name": "econis",
+    "subject": [
+      "Geldpolitik",
+      "Wirtschaftspolitik",
+      "Deutschland"
+    ],
+    "title": "Monetary policy and economic activity in West Germany",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "31.70",
+        "name": "Wahrscheinlichkeitsrechnung"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Gl\u00e4ss, Siegfried"
+      },
+      {
+        "name": "Glaess, Siegfried"
+      },
+      {
+        "name": "Bamesreiter, Andreas"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002773",
+    "extent": [
+      "163 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "3-7844-7006-8"
+    ],
+    "identifier_oclc": [
+      "3706875"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Wirtschaftsverl. Langen-M\u00fcller/Herbig",
+        "place": "M\u00fcnchen"
+      }
+    ],
+    "source_id": "011157755",
+    "source_name": "econis",
+    "subject": [
+      "Projektplanung"
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/770208312/04"
+    ],
+    "title": "Netz, Plan, Technik : die Kunst, einen Plan zu \"buchstabieren\"",
+    "title_alternative": [
+      "Netz-Plan-Technik"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "330.94110857",
+      "330.9/411/0857"
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Lewis, T. M."
+      },
+      {
+        "name": "MacNicoll, Iain Hugh"
+      },
+      {
+        "name": "MacNicoll, Iain H."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002823",
+    "extent": [
+      "147 S",
+      "Kt",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-85664-578-8"
+    ],
+    "identifier_oclc": [
+      "4150087"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Croom Helm",
+        "place": "London"
+      }
+    ],
+    "source_id": "011165022",
+    "source_name": "econis",
+    "subject": [
+      "Mineral\u00f6llagerst\u00e4tte im Meeresboden",
+      "Gro\u00dfbritannien",
+      "Nordsee",
+      "Wirtschaftserwartung",
+      "Schottland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4053233-1",
+        "name": "Schottland",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4066399-1",
+        "name": "Wirtschaft",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4042579-4",
+        "name": "Nordsee",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4015179-7",
+        "name": "Erd\u00f6l",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4015186-4",
+        "name": "Erd\u00f6lindustrie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4066438-7",
+        "name": "Wirtschaftsentwicklung",
+        "type": "topical"
+      }
+    ],
+    "title": "North sea oil and Scotland's economic prospects",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Kar",
+    "classification_bk": [
+      {
+        "code": "38.48",
+        "name": "Marine Geologie"
+      },
+      {
+        "code": "38.52",
+        "name": "Geologie der Erze"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "name": "U.S. Department of State, Office of the Geographer"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Rawson, Martine Dreyfus"
+      },
+      {
+        "name": "Ryan, William B.F."
+      },
+      {
+        "name": "Biscaye, Pierre E."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002842",
+    "extent": [
+      "1 Kt",
+      "mehrfarb",
+      "190 x 105 cm"
+    ],
+    "identifier_oclc": [
+      "256385747"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Lamont-Doherty Geological Observatory of Columbia University",
+        "place": "Palisades, N.Y."
+      }
+    ],
+    "source_id": "011169613",
+    "source_name": "econis",
+    "subject": [
+      "Meeresboden",
+      "Meeresbergbau"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Meeresbergbau",
+        "name_en": "Marine mining",
+        "stw_id": "12987-1"
+      },
+      {
+        "name_de": "Umwelt\u00f6konomik",
+        "name_en": "Environmental economics",
+        "stw_id": "15767-0"
+      },
+      {
+        "name_de": "Welt",
+        "name_en": "World",
+        "stw_id": "16809-5"
+      }
+    ],
+    "title": "Ocean floor sediment and polymetallic nodules",
+    "type": "book",
+    "type_genre": [
+      "Kartenmaterial",
+      "Karte"
+    ]
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Willeke, Rainer"
+      },
+      {
+        "name": "J\u00e4ger, Wilhelm"
+      },
+      {
+        "name": "Lindenlaub, Heinz"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002888",
+    "extent": [
+      "130 S",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "256388230"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Frankfurt am Main"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000358350",
+        "issn": [
+          "0507-6692"
+        ],
+        "title": "Schriftenreihe des Verbandes der Automobilindustrie",
+        "type": "series",
+        "volume": "25",
+        "zdb_id": "252535-5"
+      }
+    ],
+    "source_id": "011177047",
+    "source_name": "econis",
+    "subject": [
+      "Verkehrssicherheit",
+      "Deutschland",
+      "Verkehrsunfall",
+      "Kosten"
+    ],
+    "title": "Ein Optimum an Sicherheit",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Rydell, C. Peter"
+      },
+      {
+        "name": "Mulford, John E."
+      },
+      {
+        "name": "Kozimor, Lawrence"
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002944",
+    "extent": [
+      "21 S.",
+      "graph. Darst."
+    ],
+    "identifier_oclc": [
+      "256389912"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000369019",
+        "issn": [
+          "0092-2803"
+        ],
+        "title": "P / the Rand Corporation",
+        "type": "series",
+        "volume": "P-6187",
+        "zdb_id": "864049-X"
+      }
+    ],
+    "source_id": "011185260",
+    "source_name": "econis",
+    "subject": [
+      "Mietpreis",
+      "Vereinigte Staaten",
+      "Brown County",
+      "South Bend"
+    ],
+    "title": "Participation rates in government transfer programs",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "353.008/5"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Cole, S."
+      },
+      {
+        "name": "Rubin, L."
+      },
+      {
+        "name": "Cole, J. R."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002961",
+    "extent": [
+      "XV, 193 S."
+    ],
+    "identifier_isbn": [
+      "0-309-02788-8"
+    ],
+    "identifier_oclc": [
+      "4453950"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "National Acad. of Sciences",
+        "place": "Washington, DC"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010449172",
+        "issn": [
+          "0547-8464"
+        ],
+        "title": "Publication / National Academy of Sciences ; National Research Council",
+        "type": "series",
+        "volume": "2788",
+        "zdb_id": "964656-5"
+      }
+    ],
+    "source_id": "011187522",
+    "source_name": "econis",
+    "subject": [
+      "Wissenschaftspflege",
+      "Vereinigte Staaten"
+    ],
+    "title": "Peer review in the National Science Foundation ; phase one of a study",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "362.5/0973"
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Gr\u00f8nbjerg, Kirsten A."
+      },
+      {
+        "name": "Street, David"
+      },
+      {
+        "name": "Suttles, Gerald D."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003097",
+    "extent": [
+      "248 S."
+    ],
+    "identifier_isbn": [
+      "0-226-30962-2"
+    ],
+    "identifier_oclc": [
+      "3627340"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "The Univ. of Chicago Press",
+        "place": "Chicago [u.a.]"
+      }
+    ],
+    "source_id": "011205709",
+    "source_name": "econis",
+    "subject": [
+      "Sozialhilfebed\u00fcrftigkeit",
+      "Sozialpolitik",
+      "Sozialstruktur",
+      "Vereinigte Staaten"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Armut",
+        "name_en": "Poverty",
+        "stw_id": "10488-1"
+      },
+      {
+        "name_de": "Sozialer Wandel",
+        "name_en": "Social change",
+        "stw_id": "15720-5"
+      },
+      {
+        "name_de": "Armutsbek\u00e4mpfung",
+        "name_en": "Poverty reduction",
+        "stw_id": "16533-6"
+      },
+      {
+        "name_de": "Sozialpolitik",
+        "name_en": "Social policy",
+        "stw_id": "16545-6"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      }
+    ],
+    "title": "Poverty and social change",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "329/.01",
+      "329/.023/730925"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Bishop, George F."
+      },
+      {
+        "name": "Meadow, Robert G."
+      },
+      {
+        "name": "Jackson-Beeck, Marilyn"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003125",
+    "extent": [
+      "321 S"
+    ],
+    "identifier_isbn": [
+      "0-03-044271-0"
+    ],
+    "identifier_oclc": [
+      "5103075"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "New York u.a."
+      }
+    ],
+    "series": [
+      {
+        "title": "Praeger Special Studies"
+      }
+    ],
+    "source_id": "011209364",
+    "source_name": "econis",
+    "subject": [
+      "Wahlpsychologie",
+      "Staatsoberhauptwahl",
+      "Politische Rede",
+      "Rundfunk",
+      "Vereinigte Staaten"
+    ],
+    "title": "The presidential debates : Media, electoral, and policy perspectives",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "658.155",
+      "658.1/55"
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "White, J.A."
+      },
+      {
+        "name": "Agee, M.H."
+      },
+      {
+        "name": "Case, K.E."
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003139",
+    "extent": [
+      "480 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-471-01773-6"
+    ],
+    "identifier_oclc": [
+      "2874417"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Wiley",
+        "place": "New York, N.Y."
+      }
+    ],
+    "source_id": "011210907",
+    "source_name": "econis",
+    "subject": [
+      "Investitionstheorie",
+      "Betriebsfinanzwirtschaft",
+      "Betriebswirtschaftliche Einf\u00fchrungsschriften",
+      "Vereinigte Staaten"
+    ],
+    "title": "Principles of engineering economic analysis",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "081 s",
+      "338.4/36213"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Department of Energy"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Acton, Jan Paul"
+      },
+      {
+        "name": "Mitchell, Bridger M."
+      },
+      {
+        "name": "Manning, Willard G."
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003206",
+    "extent": [
+      "IX, 21 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-8330-0054-3"
+    ],
+    "identifier_oclc": [
+      "4135250"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Rand",
+        "place": "Santa Monica, Calif."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367274",
+        "issn": [
+          "0192-3692"
+        ],
+        "title": "R / Rand Corporation",
+        "type": "series",
+        "volume": "R-2179-DOE",
+        "zdb_id": "754386-4"
+      }
+    ],
+    "source_id": "011218010",
+    "source_name": "econis",
+    "subject": [
+      "Elektrizit\u00e4tstarif",
+      "Energiepolitik",
+      "Vereinigte Staaten"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Lastmanagement",
+        "name_en": "Demand-side management",
+        "stw_id": "10211-2"
+      },
+      {
+        "name_de": "Energieeinsparung",
+        "name_en": "Energy conservation",
+        "stw_id": "11811-1"
+      },
+      {
+        "name_de": "Elektrizit\u00e4tswirtschaft",
+        "name_en": "Electric power industry",
+        "stw_id": "12974-3"
+      },
+      {
+        "name_de": "Gro\u00dfbritannien",
+        "name_en": "United Kingdom",
+        "stw_id": "17374-2"
+      },
+      {
+        "name_de": "Strompreis",
+        "name_en": "Electricity price",
+        "stw_id": "18163-3"
+      },
+      {
+        "name_de": "Energiekonsum",
+        "name_en": "Energy consumption",
+        "stw_id": "18989-2"
+      }
+    ],
+    "title": "Projected nationwide energy and capacity savings from peak-load pricing of electricity in the industrial sector",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "countryOfPublication": [
+      "XA-AT"
+    ],
+    "creator_personal": [
+      {
+        "name": "Binder, Josef"
+      },
+      {
+        "name": "Ortner, Karl M."
+      },
+      {
+        "name": "Schewczik, Richard"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003207",
+    "extent": [
+      "132 S",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-7040-0585-1"
+    ],
+    "identifier_oclc": [
+      "17143892"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Inst.",
+        "place": "Wien"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000435620",
+        "title": "Schriftenreihe / Agrarwirtschaftliches Institut des Bundesministers f\u00fcr Land- und Forstwirtschaft",
+        "type": "series",
+        "volume": "24",
+        "zdb_id": "406607-8"
+      }
+    ],
+    "source_id": "011218177",
+    "source_name": "econis",
+    "subject": [
+      "\u00d6sterreich",
+      "Agrarwirtschaft",
+      "Bodennutzung",
+      "Ertrag",
+      "Prognose"
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/AT001B155180A1C89B723C1257070003CE5B0.pdf"
+    ],
+    "title": "Projektion der Bodennutzung und der Ertr\u00e4ge in \u00d6sterreich bis 1985",
+    "title_alternative": [
+      "Projection of yields and crop acreage in Austria for 1985",
+      "Projection of yields and crop acreage in Austria for 1985"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "conference": [
+      {
+        "date": "1976.12.03",
+        "name": "Sitzung. Arbeitsgruppe Verkehr, AGR"
+      },
+      {
+        "date": "1977.05.26",
+        "name": "Sitzung. Arbeitsgruppe Verkehr, AGR"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "2004397-1",
+        "name": "Arbeitsgemeinschaft f\u00fcr Rationalisierung des Landes Nordrhein-Westfalen",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Topp, Hartmut H."
+      },
+      {
+        "name": "Zemlin, Hermann"
+      },
+      {
+        "name": "Henning, Dirk"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003259",
+    "extent": [
+      "95 S",
+      "graph. Darst.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "251427920"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Sander",
+        "place": "Dortmund"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000360066",
+        "issn": [
+          "0402-8066"
+        ],
+        "title": "Schriftenreihe der Arbeitsgemeinschaft f\u00fcr Rationalisierung des Landes Nordrhein-Westfalen",
+        "type": "series",
+        "volume": "181",
+        "zdb_id": "408875-X"
+      }
+    ],
+    "source_id": "011228334",
+    "source_name": "econis",
+    "subject": [
+      "Agrarraum",
+      "Verkehr",
+      "Deutschland"
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/tib-ub-hannover/011228334.pdf"
+    ],
+    "title": "Rationelle Erschlie\u00dfung des l\u00e4ndlichen Raums durch den \u00f6ffentlichen Verkehr",
+    "type": "book",
+    "type_genre": [
+      "Konferenzschrift"
+    ]
+  }
+]

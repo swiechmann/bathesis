@@ -1,0 +1,8958 @@
+[
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "343/.436/099"
+    ],
+    "conference": [
+      {
+        "date": "1977.02.28-03.04",
+        "name": "Arbeitstagung der Wissenschaftlichen Asisstenten der Fachrichtung \u00d6ffentliches Recht",
+        "numbering": "17",
+        "place": "Linz"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "5506454-1",
+        "name": "Tagung der Wissenschaftlichen Mitarbeiter der Fachrichtung \u00d6ffentliches Recht <17, 1977, Linz>",
+        "type": "conference"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Popper, Hans"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-AT",
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Wolny, Erich"
+      },
+      {
+        "gnd_id": "128355808",
+        "name": "Funk, Bernd-Christian",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "120211971",
+        "name": "Pr\u00fcmm, Hans Paul",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118072587",
+        "name": "Jarass, Hans D.",
+        "type": "personal"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:27Z",
+    "econbiz_id": "10000000984",
+    "extent": [
+      "VII, 144 S."
+    ],
+    "identifier_isbn": [
+      "3-211-81471-X",
+      "0-387-81471-X"
+    ],
+    "identifier_oclc": [
+      "4439143"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Springer",
+        "place": "Wien [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000364130",
+        "issn": [
+          "0720-8790"
+        ],
+        "title": "Linzer Universit\u00e4tsschriften / Monographien : Festschr., Monographien, Studientexte",
+        "type": "series",
+        "zdb_id": "546076-1"
+      }
+    ],
+    "source_id": "010869514",
+    "source_name": "econis",
+    "subject": [
+      "Informationsrecht",
+      "Massenunterrichtung"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4074661-6",
+        "name": "Medienrecht",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4047171-8",
+        "name": "Presserecht",
+        "type": "topical"
+      }
+    ],
+    "title": "Beitr\u00e4ge zum Medienrecht",
+    "title_alternative": [
+      "\u00d6ffentlich-rechtliche Fragen des Kabelfernsehens in \u00d6sterreich",
+      "Pressefreiheit statt Verlegerfreiheit",
+      "In wessen Hand geh\u00f6rt das Bildungsfernsehen?"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Konferenzschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "305.50941",
+      "305.5/0941",
+      "301.44/0941"
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "170429237",
+        "name": "Roberts, Kenneth",
+        "type": "personal"
+      },
+      {
+        "name": "Cook, F. G."
+      },
+      {
+        "name": "Clark, S. C."
+      },
+      {
+        "name": "Semeonoff, Elizabeth"
+      },
+      {
+        "gnd_id": "118789139",
+        "name": "Roberts, Kenneth L.",
+        "type": "personal"
+      }
+    ],
+    "date": 1977,
+    "econbiz_created": "2010-09-15T15:34:31Z",
+    "econbiz_id": "10000001819",
+    "extent": [
+      "VIII, 200 S",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-435-82765-0",
+      "0-435-82766-9"
+    ],
+    "identifier_oclc": [
+      "3438231"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Heinemann",
+        "place": "London [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Modern revivals in sociology"
+      }
+    ],
+    "source_id": "011000422",
+    "source_name": "econis",
+    "subject": [
+      "Sozialstruktur",
+      "Gro\u00dfbritannien"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Entwicklung",
+        "name_en": "Economic development",
+        "stw_id": "10513-0"
+      },
+      {
+        "name_de": "Sozialstruktur",
+        "name_en": "Social structure",
+        "stw_id": "16597-1"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      }
+    ],
+    "title": "The fragmentary class structure",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "81.51",
+        "name": "Lernproze\u00df"
+      }
+    ],
+    "conference": [
+      {
+        "date": "1979.06.",
+        "name": "Konferenz. Club of Rome",
+        "place": "Salzburg"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "1020953-0",
+        "name": "Club of Rome",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118592327",
+        "name": "Peccei, Aurelio",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "130196312",
+        "name": "Mali\u0163a, Mircea",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-AT",
+      "XA-DE",
+      "XA-CH"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "171985958",
+        "name": "Botkin, James W.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "12390966X",
+        "name": "Elmandjra, Mahdi",
+        "type": "personal"
+      },
+      {
+        "name": "Malitza, Mircea"
+      }
+    ],
+    "date": 1979,
+    "description_url": [
+      "http://www.gbv.de/dms/faz-rez/791109_FAZ_0009_9_0001.pdf"
+    ],
+    "econbiz_created": "2010-09-15T15:34:36Z",
+    "econbiz_id": "10000002623",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "208 S",
+      "19 cm"
+    ],
+    "identifier_isbn": [
+      "3-217-01040-X"
+    ],
+    "identifier_oclc": [
+      "247795814"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Molden",
+        "place": "Wien [u.a.]"
+      }
+    ],
+    "source_id": "011132566",
+    "source_name": "econis",
+    "subject": [
+      "Bildungspolitik",
+      "Sozialer Wandel",
+      "Technischer Fortschritt"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4026828-7",
+        "name": "Industriegesellschaft",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4027089-0",
+        "name": "Innovation",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4035408-8",
+        "name": "Lernen",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4068097-6",
+        "name": "Zukunft",
+        "type": "topical"
+      }
+    ],
+    "title": "Das menschliche Dilemma : Zukunft und Lernen",
+    "title_alternative": [
+      "Club of Rome, Bericht f\u00fcr die achtziger Jahre",
+      "No limits to learning <dt.>"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "338.9599"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "International Labour Office"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Szal, Richard"
+      },
+      {
+        "name": "Szal, Richard"
+      },
+      {
+        "gnd_id": "170333930",
+        "name": "Szal, Richard J.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-CH"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "1011782936",
+        "name": "Standing, Guy",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1011782936",
+        "name": "Standing, Guy",
+        "type": "personal"
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003094",
+    "extent": [
+      "VIII, 154 S.",
+      "graph. Darst.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "92-2-102034-7"
+    ],
+    "identifier_oclc": [
+      "4974464"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Internat. Labour Off.",
+        "place": "Geneva"
+      }
+    ],
+    "source_id": "011205679",
+    "source_name": "econis",
+    "subject": [
+      "Lebenshaltungsminimum",
+      "Entwicklungspolitik",
+      "Guayana <Republik>",
+      "Philippinen"
+    ],
+    "title": "Poverty and basic needs : evidence from Guyana and the Philippines",
+    "title_alternative": [
+      "Socialism and basic needs in Guyana",
+      "The distribution of the benefits of growth, basic needs in the Philippines"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "71.14",
+        "name": "St\u00e4dtische Gesellschaft"
+      },
+      {
+        "code": "74.72",
+        "name": "Stadtplanung, kommunale Planung"
+      },
+      {
+        "code": "74.73",
+        "name": "Stadtsanierung, Stadterneuerung"
+      }
+    ],
+    "classification_ddc": [
+      "307.76"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Cammarota, Antonella"
+      },
+      {
+        "name": "Mayer, Margit"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Mayer, Margrit"
+      },
+      {
+        "gnd_id": "134184327",
+        "name": "Roth, Roland",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118832905",
+        "name": "Brandes, Volkhard",
+        "type": "personal"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003625",
+    "extent": [
+      "263 S",
+      "graph. Darst",
+      "21 cm"
+    ],
+    "identifier_isbn": [
+      "3-434-30179-8"
+    ],
+    "identifier_oclc": [
+      "6944598"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Europaeische Verlagsanstalt",
+        "place": "K\u00f6ln"
+      }
+    ],
+    "series": [
+      {
+        "title": "Politische \u00d6konomie / Geschichte und Kritik"
+      }
+    ],
+    "source_id": "011281243",
+    "source_name": "econis",
+    "subject": [
+      "Stadt",
+      "Stadtbau",
+      "Stadtsoziologie"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4022233-0",
+        "name": "Gro\u00dfstadt",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4077811-3",
+        "name": "Stadtsoziologie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4056795-3",
+        "name": "St\u00e4dtebau",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4077624-4",
+        "name": "Soziologie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4158303-6",
+        "name": "Gro\u00dfstadtsoziologie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4008767-0",
+        "name": "B\u00fcrgerbeteiligung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4182741-7",
+        "name": "Stadtforschung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4055707-8",
+        "name": "Soziale Bewegung",
+        "type": "topical"
+      }
+    ],
+    "title": "Stadtkrise und soziale Bewegungen : Texte zur internationalen Entwicklung",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "43.63",
+        "name": "Umweltbelastung durch Industrie, Bergbau und Energieerzeugung"
+      },
+      {
+        "code": "52.55",
+        "name": "Kerntechnik, Reaktortechnik"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118558846",
+        "name": "Jungk, Robert",
+        "type": "personal"
+      },
+      {
+        "name": "Breuer, Georg"
+      },
+      {
+        "name": "Abbotts, John"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE-BY"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "119350653",
+        "name": "Nader, Ralph",
+        "type": "personal"
+      },
+      {
+        "name": "Abbots, John"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:34:43Z",
+    "econbiz_id": "10000003834",
+    "extent": [
+      "XIII, 342 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "3-463-00731-2"
+    ],
+    "identifier_oclc": [
+      "53237057"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Kindler",
+        "place": "M\u00fcnchen"
+      }
+    ],
+    "source_id": "011317043",
+    "source_name": "econis",
+    "subject": [
+      "Atomenergiekraftwerk",
+      "Atomenergieschaden",
+      "Vereinigte Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4030318-4",
+        "name": "Kernenergie",
+        "type": "topical"
+      }
+    ],
+    "title": "T\u00f6dlicher Fortschritt : Atomenergie und ihre Folgen",
+    "title_alternative": [
+      "The menace of atomic energy <dt.>"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_corporate": [
+      {
+        "gnd_id": "2079966-4",
+        "name": "Frankfurter Institut f\u00fcr Wirtschaftspolitische Forschung / Kronberger Kreis",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118684868",
+        "name": "Engels, Wolfram",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "105431052",
+        "name": "Gutowski, Armin",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "123291372",
+        "name": "St\u00fctzel, Wolfgang",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "12085306X",
+        "name": "Weizs\u00e4cker, Carl Christian von",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "119144735",
+        "name": "Willgerodt, Hans",
+        "type": "personal"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:34:50Z",
+    "econbiz_id": "10000004607",
+    "extent": [
+      "47 S",
+      "5 Tab.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-89015-004-7"
+    ],
+    "identifier_oclc": [
+      "74735266"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Frankfurter Inst. f\u00fcr Wirtschaftspolit. Forschung",
+        "place": "Bad Homburg v.d.H."
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000367035",
+        "title": "Schriftenreihe / Frankfurter Institut f\u00fcr Wirtschaftspolitische Forschung, Kronberger Kreis",
+        "type": "series",
+        "volume": "4",
+        "zdb_id": "741950-8"
+      }
+    ],
+    "source_id": "011749598",
+    "source_name": "econis",
+    "subject": [
+      "Verkehrspolitik",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4011889-7",
+        "name": "Deutschland <Bundesrepublik>",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4062955-7",
+        "name": "Verkehrspolitik",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4037653-9",
+        "name": "Marktwirtschaft",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE0042A170B9398C228F5C125790B00564114.pdf"
+    ],
+    "title": "Mehr Markt im Verkehr : Reformen in der Verkehrspolitik",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Riedel, Walter"
+      },
+      {
+        "name": "Cribbin, James"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Hanan, Mack"
+      },
+      {
+        "gnd_id": "108947483",
+        "name": "Cribbin, James J.",
+        "type": "personal"
+      },
+      {
+        "name": "Berrian, Howard"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:35:04Z",
+    "econbiz_id": "10000006025",
+    "extent": [
+      "168 S"
+    ],
+    "identifier_isbn": [
+      "3-7938-7647-0"
+    ],
+    "identifier_oclc": [
+      "74457053"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Sauer",
+        "place": "Heidelberg"
+      }
+    ],
+    "series": [
+      {
+        "title": "Heidelberger Fachb\u00fccher f\u00fcr Praxis und Studium"
+      }
+    ],
+    "source_id": "012331902",
+    "source_name": "econis",
+    "subject": [
+      "Absatzpolitik"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4129047-1",
+        "name": "Verkaufstechnik",
+        "type": "topical"
+      }
+    ],
+    "title": "Verhandlungsstrategien im Verkauf : wie sie Kunden zu Partnern machen",
+    "title_alternative": [
+      "Sales negotiation strategies. New York 1977",
+      "Sales negotiation strategies <dt.>"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Ratgeber"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "338/.09"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Blake, Noel"
+      },
+      {
+        "name": "Clark, Audrey N."
+      },
+      {
+        "name": "Chrisholm, George G."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB",
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118798421",
+        "name": "Stamp, Laurence Dudley",
+        "type": "personal"
+      },
+      {
+        "name": "Chisholm, George Goudie"
+      }
+    ],
+    "date": 1980,
+    "econbiz_created": "2010-09-15T15:35:04Z",
+    "econbiz_id": "10000006708",
+    "edition": [
+      "20. ed., rev. by G. Noel Blake ; Andrey N. Clark"
+    ],
+    "extent": [
+      "XXXII, 984 S.",
+      "graph. Darst., Kt.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-582-30015-0",
+      "0-582-48332-8"
+    ],
+    "identifier_oclc": [
+      "5777410"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Longman",
+        "place": "London [u.a.]"
+      }
+    ],
+    "source_id": "012492507",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsgeographie",
+      "Bibliographien"
+    ],
+    "title": "Chisholm's handbook of commercial geography",
+    "title_alternative": [
+      "Handbook of commercial geography",
+      "Handbook of commencial geography"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_bk": [
+      {
+        "code": "15.92",
+        "name": "Afrika s\u00fcdlich der Sahara <Geschichte>"
+      }
+    ],
+    "classification_ddc": [
+      "016.968"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Jaarsfeld, F. A. van"
+      },
+      {
+        "name": "Muller, Christoffel F."
+      }
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "128219270",
+        "name": "Muller, Christoffel Frederik Jakobus",
+        "type": "personal"
+      },
+      {
+        "name": "Wijk, Theo van"
+      },
+      {
+        "gnd_id": "138012423",
+        "name": "Boucher, Maurice",
+        "type": "personal"
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:35:04Z",
+    "econbiz_id": "10000006910",
+    "extent": [
+      "XV, 411 S"
+    ],
+    "identifier_isbn": [
+      "0-86981-158-4"
+    ],
+    "identifier_oclc": [
+      "6815488"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Univ. of South Africa",
+        "place": "Pretoria"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010453287",
+        "title": "Documenta / UNISA",
+        "type": "series",
+        "volume": "21",
+        "zdb_id": "1085430-7"
+      }
+    ],
+    "source_id": "012555258",
+    "source_name": "econis",
+    "subject": [
+      "Geschichte der Gegenwart",
+      "Pers\u00f6nlichkeiten Politik",
+      "S\u00fcdafrikanische Republik"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4078012-0",
+        "name": "S\u00fcdafrika",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4025098-2",
+        "name": "Historiker",
+        "type": "topical"
+      }
+    ],
+    "title": "South African history and historians : a bibliography",
+    "title_alternative": [
+      "A select bibliography of South-African history"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Bibliografie"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "341.24/22"
+    ],
+    "conference": [
+      {
+        "date": "1980.02.21-31",
+        "name": "Tagung des Arbeitskreises Europ\u00e4ische Integration e.V.",
+        "place": "W\u00fcrzburg"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "1024916-3",
+        "name": "Arbeitskreis Europ\u00e4ische Integration",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "133431185",
+        "name": "Fu\u00df, Ernst-Werner",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "171301706",
+        "name": "Pipkorn, J\u00f6rn",
+        "type": "personal"
+      },
+      {
+        "name": "Zuleeg, Manfred"
+      },
+      {
+        "name": "Roth, Wulf-Henning"
+      },
+      {
+        "name": "Wohlfahrt, J\u00fcrgen"
+      }
+    ],
+    "date": 1981,
+    "econbiz_created": "2010-09-15T15:35:10Z",
+    "econbiz_id": "10000007079",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "109 S."
+    ],
+    "identifier_isbn": [
+      "3-7890-0648-3"
+    ],
+    "identifier_oclc": [
+      "7837868"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Nomos-Verlagsgesellschaft",
+        "place": "Baden-Baden"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000364391",
+        "issn": [
+          "0344-2748"
+        ],
+        "title": "Schriftenreihe des Arbeitskreises Europ\u00e4ische Integration e.V",
+        "type": "series",
+        "volume": "11",
+        "zdb_id": "554993-0"
+      }
+    ],
+    "source_id": "012620467",
+    "source_name": "econis",
+    "subject": [
+      "Rechtsentscheidung",
+      "Integration",
+      "EG-Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "5103273-9",
+        "name": "Europ\u00e4ischer Gerichtshof",
+        "type": "corporate"
+      },
+      {
+        "gnd_id": "35433-8",
+        "name": "Europ\u00e4ische Wirtschaftsgemeinschaft",
+        "type": "corporate"
+      }
+    ],
+    "title": "Der Beitrag des Gerichtshofes der Europ\u00e4ischen Gemeinschaften zur Verwirklichung des gemeinsamen Marktes : Referate und Diskussionsberichte der Tagung des Arbeitskreises Europ\u00e4ische Integration e.V. in W\u00fcrzburg, 21.-23. Februar 1980",
+    "type": "book",
+    "type_genre": [
+      "Konferenzschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "949.801",
+      "949.8/01"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "13062036X",
+        "name": "Teodor, Pompiliu",
+        "type": "personal"
+      },
+      {
+        "name": "Dun\u0103reanu, Lucian"
+      },
+      {
+        "name": "Florescu-Gligore, Ana-Maria"
+      },
+      {
+        "gnd_id": "1070879649",
+        "name": "Rathbun, John Wilbert",
+        "type": "personal"
+      },
+      {
+        "name": "Trifu, Sever"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-RO"
+    ],
+    "date": 1980,
+    "econbiz_created": "2010-09-15T15:35:10Z",
+    "econbiz_id": "10000007123",
+    "extent": [
+      "280 Seiten"
+    ],
+    "identifier_oclc": [
+      "7617170"
+    ],
+    "language": [
+      "fra",
+      "deu",
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Editura Dacia",
+        "place": "Cluj-Napoca"
+      }
+    ],
+    "source_id": "012636614",
+    "source_name": "econis",
+    "subject": [
+      "Aufkl\u00e4rung",
+      "Nationalismus",
+      "Rum\u00e4nien",
+      "\u00d6sterreich-Ungarn",
+      "Siebenb\u00fcrgen"
+    ],
+    "title": "Enlightenment and Romanian society",
+    "title_alternative": [
+      "Iluminismul \u015fi societatea rom\u00e2neasc\u0103"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_corporate": [
+      {
+        "gnd_id": "2042204-0",
+        "name": "Institut f\u00fcr Afrika-Kunde",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "107307901",
+        "name": "Hofmeier, Rolf",
+        "type": "personal"
+      },
+      {
+        "name": "Schattner, Susanne"
+      },
+      {
+        "name": "Wagner, Wolfgang"
+      },
+      {
+        "name": "Harms, Uwe"
+      },
+      {
+        "name": "Pommerening, Gerd"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1981,
+    "econbiz_created": "2010-09-15T15:35:10Z",
+    "econbiz_id": "10000007766",
+    "extent": [
+      "XXIX, 506 Seiten"
+    ],
+    "identifier_oclc": [
+      "251820051"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Institut f\u00fcr Afrika-Kunde im Verbund der Stiftung Deutsches \u00dcbersee-Institut",
+        "place": "Hamburg"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000363813",
+        "issn": [
+          "0945-3601"
+        ],
+        "title": "Arbeiten aus dem Institut f\u00fcr Afrika-Kunde",
+        "type": "series",
+        "volume": "27",
+        "zdb_id": "535856-5"
+      }
+    ],
+    "source_id": "012851221",
+    "source_name": "econis",
+    "subject": [
+      "Aussenwirtschaftsbeziehung",
+      "Rohstoffmarkt",
+      "Afrika",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4000695-5",
+        "name": "Afrika",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4050419-0",
+        "name": "Rohstoff",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4011889-7",
+        "name": "Deutschland <Bundesrepublik>",
+        "type": "geographic"
+      }
+    ],
+    "title": "Die wirtschaftliche und rohstoffpolitische Bedeutung Afrikas und seiner einzelnen Regionen (S\u00fcdafrika, Schwarzafrika, Nordafrika) f\u00fcr die Bundesrepublik Deutschland",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.50",
+        "name": "Geld, Inflation, Kapitalmarkt"
+      }
+    ],
+    "classification_ddc": [
+      "330.983/0647"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "170469433",
+        "name": "Calder\u00f3n Merino, Hugo L.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170387186",
+        "name": "Rivera Urrutia, Eugenio",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Calder\u00f3n, Hugo"
+      },
+      {
+        "gnd_id": "170531457",
+        "name": "Ensignia, Jaime",
+        "type": "personal"
+      },
+      {
+        "name": "Rivera, Eugenio"
+      }
+    ],
+    "date": 1981,
+    "econbiz_created": "2010-09-15T15:35:10Z",
+    "econbiz_id": "10000007769",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "164 S",
+      "21 cm",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-88506-115-5"
+    ],
+    "identifier_oclc": [
+      "8284472"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Junius-Verl.",
+        "place": "Hamburg"
+      }
+    ],
+    "source_id": "012854166",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftspolitik",
+      "Chile",
+      "Sozialstruktur",
+      "Arbeitergewerkschaft",
+      "Parteibeschreibung"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4009929-5",
+        "name": "Chile",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4040050-5",
+        "name": "Monetarismus",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4066493-4",
+        "name": "Wirtschaftspolitik",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE00481298CD441977D97C125793B005C2100.pdf"
+    ],
+    "title": "Chile : der Monetarismus an der Macht",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "330"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Findlay, Christopher"
+      },
+      {
+        "name": "Piggott, John"
+      }
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "170015599",
+        "name": "Findlay, Christopher Charles",
+        "type": "personal"
+      },
+      {
+        "name": "Milne, Frank"
+      },
+      {
+        "name": "Piggott, John R."
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:35:10Z",
+    "econbiz_id": "10000007932",
+    "extent": [
+      "19 S",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-86831-102-2"
+    ],
+    "identifier_oclc": [
+      "11827505"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Australian National Univ., Faculty of Economics and Research School of Social Sciences",
+        "place": "Canberra"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000464317",
+        "title": "Working papers in economics and econometrics",
+        "type": "series",
+        "volume": "102",
+        "zdb_id": "863099-9"
+      }
+    ],
+    "source_id": "012930660",
+    "source_name": "econis",
+    "subject": [
+      "Preisbildung",
+      "Wohnung",
+      "Eingenheim",
+      "Steuer",
+      "Politik",
+      "Welfare economics"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Steuerwirkung",
+        "name_en": "Tax effects",
+        "stw_id": "11696-3"
+      },
+      {
+        "name_de": "Steuerverg\u00fcnstigung",
+        "name_en": "Tax incentive",
+        "stw_id": "11702-6"
+      },
+      {
+        "name_de": "Lebenszyklus",
+        "name_en": "Life cycle",
+        "stw_id": "12057-4"
+      },
+      {
+        "name_de": "Wohneigentum",
+        "name_en": "Homeownership",
+        "stw_id": "13840-5"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "Immobilienpreis",
+        "name_en": "Real estate price",
+        "stw_id": "18745-2"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      }
+    ],
+    "title": "Price distortions from homeowner tax concessions : A life cycle analysis",
+    "type": "book",
+    "type_genre": [
+      "Arbeitspapier",
+      "Working Paper"
+    ]
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_personal": [
+      {
+        "name": "Schmal, Helga"
+      },
+      {
+        "name": "Killing, Werner"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "108101525",
+        "name": "Bollerey, Franziska",
+        "type": "personal"
+      },
+      {
+        "name": "Hartmann, Kristina"
+      },
+      {
+        "name": "Petz, Ursula von"
+      }
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:35:17Z",
+    "econbiz_id": "10000008140",
+    "edition": [
+      "2. Aufl"
+    ],
+    "extent": [
+      "Getr. Pag",
+      "Ill."
+    ],
+    "identifier_isbn": [
+      "3-88211-034-1"
+    ],
+    "identifier_oclc": [
+      "81643553"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Inst. f. Raumplanung, Abt. Raumplanung, Univ.",
+        "place": "Dortmund"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010447790",
+        "title": "Dortmunder Beitr\u00e4ge zur Raumplanung / Bibliographien",
+        "type": "series",
+        "volume": "2",
+        "zdb_id": "543738-6"
+      }
+    ],
+    "source_id": "012967610",
+    "source_name": "econis",
+    "subject": [
+      "Wohnung Wohnsiedlung",
+      "Wohnungsbau",
+      "Wohnungswesen",
+      "Rheinisch-Westf\u00e4lisches Industriegebiet",
+      "Deutschland <bis 1945>"
+    ],
+    "title": "Bibliographie zum Arbeiterwohnungsbau im Ruhrgebiet : <1850 - 1933>",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "85.01",
+        "name": "Geschichte der Betriebswirtschaft"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118845543",
+        "name": "Potthoff, Erich",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "120398370",
+        "name": "Sieben, G\u00fcnter",
+        "type": "personal"
+      },
+      {
+        "name": "Lutz, Harald"
+      },
+      {
+        "name": "Cordes, Walter"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Kruk, Max"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:35:24Z",
+    "econbiz_id": "10000009240",
+    "extent": [
+      "XVII, 478 S.",
+      "graph. Darst.",
+      "25 cm"
+    ],
+    "identifier_isbn": [
+      "3-8202-0295-1"
+    ],
+    "identifier_oclc": [
+      "12537314"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Fachverl. f\u00fcr Wirtschafts- und Steuerrecht Sch\u00e4ffer",
+        "place": "Stuttgart"
+      }
+    ],
+    "source_id": "013377663",
+    "source_name": "econis",
+    "subject": [
+      "Pers\u00f6nlichkeiten Wissenschaft",
+      "Betriebswirtschaftslehre",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118608452",
+        "name": "Eugen Schmalenbach",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "4069402-1",
+        "name": "Betriebswirtschaftslehre",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/840921438/04"
+    ],
+    "title": "Eugen Schmalenbach : der Mann - sein Werk - die Wirkung",
+    "title_alternative": [
+      "Eugen Schmalenbach"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Biografie"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "85.30",
+        "name": "Investition, Finanzierung"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "2080564-0",
+        "name": "Universit\u00e4t zu K\u00f6ln / Projektgruppe Gr\u00fcndungsforschung",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "124855547",
+        "name": "Nathusius, Klaus",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118758217",
+        "name": "Szyperski, Norbert",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "120528134",
+        "name": "Klandt, Heinz",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118542338",
+        "name": "Grochla, Erwin",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170093034",
+        "name": "Kirschbaum, G\u00fcnter",
+        "type": "personal"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:35:24Z",
+    "econbiz_id": "10000009608",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "291 S",
+      "Ill",
+      "21 cm"
+    ],
+    "identifier_isbn": [
+      "3-89012-016-4"
+    ],
+    "identifier_oclc": [
+      "13028472"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Eul",
+        "place": "Bergisch Gladbach"
+      }
+    ],
+    "source_id": "013438123",
+    "source_name": "econis",
+    "subject": [
+      "Unternehmungsgr\u00fcndung",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4078599-3",
+        "name": "Unternehmensgr\u00fcndung",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/850062713/04"
+    ],
+    "title": "Unternehmungsgr\u00fcndung : Konfrontation von Forschung und Praxis ; Festschrift gewidmet Herrn Prof. Dr. Norbert Szyperski aus Anlass des 10-j\u00e4hrigen Bestehens der Projektgruppe Gr\u00fcndungsforschung am Planungsseminar der Universit\u00e4t zu K\u00f6ln",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Festschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "338.973"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Adam, Charles Francis"
+      },
+      {
+        "name": "Brandeis, Louis D."
+      },
+      {
+        "name": "Landis, James M."
+      },
+      {
+        "name": "Kahn, Alfred E."
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US",
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "129734799",
+        "name": "McCraw, Thomas K.",
+        "type": "personal"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:35:24Z",
+    "econbiz_id": "10000009636",
+    "extent": [
+      "IX, 387 S",
+      "Ill., graph. Darst",
+      "25 cm"
+    ],
+    "identifier_isbn": [
+      "0-674-71607-8",
+      "0-674-71608-6"
+    ],
+    "identifier_oclc": [
+      "10349878"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Belknap Pr. of Harvard Univ. Pr.",
+        "place": "Cambridge, Mass. [u.a.]"
+      }
+    ],
+    "source_id": "013441930",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftskonzentrationspolitik",
+      "Wirtschaft und Staat",
+      "Pers\u00f6nlichkeiten",
+      "Deregulierung",
+      "Vereinigte Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4078704-7",
+        "name": "USA",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4201190-5",
+        "name": "Regulierung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4066399-1",
+        "name": "Wirtschaft",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "118913980",
+        "name": "Charles Francis Adams",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118659790",
+        "name": "Louis Dembitz Brandeis",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "128517042",
+        "name": "James McCauley Landis",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "124252729",
+        "name": "Alfred E. Kahn",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "4065839-9",
+        "name": "Wettbewerbspolitik",
+        "type": "topical"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Wirtschaftsgeschichte",
+        "name_en": "Economic history",
+        "stw_id": "15706-6"
+      },
+      {
+        "name_de": "\u00d6konomische Ideengeschichte",
+        "name_en": "History of economic thought",
+        "stw_id": "16745-5"
+      },
+      {
+        "name_de": "Gro\u00dfbritannien",
+        "name_en": "United Kingdom",
+        "stw_id": "17374-2"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE0064C85B769F31C9D5EC1257A3600441272.pdf"
+    ],
+    "title": "Prophets of regulation : Charles Francis Adams, Louis D. Brandeis, James M. Landis, Alfred E. Khan",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "304.2/09",
+      "333.7'2"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Pekings, John"
+      },
+      {
+        "name": "Youngs, Martyn"
+      },
+      {
+        "name": "Colverson, Tom"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB",
+      "XE-AU",
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "171476468",
+        "name": "Pepper, David",
+        "type": "personal"
+      },
+      {
+        "name": "Perkins, John"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:35:24Z",
+    "econbiz_id": "10000009751",
+    "extent": [
+      "X, 246 S",
+      "graph. Darst",
+      "23 cm"
+    ],
+    "identifier_isbn": [
+      "0-7099-2064-4"
+    ],
+    "identifier_oclc": [
+      "11113613"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Croom Helm",
+        "place": "London [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "The Croom Helm natural environment / problems and management series"
+      }
+    ],
+    "source_id": "013462016",
+    "source_name": "econis",
+    "subject": [
+      "Umweltschutz"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4115439-3",
+        "name": "\u00d6kologische Bewegung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4061644-7",
+        "name": "Umweltschutz",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4043207-5",
+        "name": "\u00d6kologie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4194166-4",
+        "name": "\u00d6kologische Philosophie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4115348-0",
+        "name": "Naturschutz",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4078520-8",
+        "name": "Umweltethik",
+        "type": "topical"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Umwelt\u00f6konomik",
+        "name_en": "Environmental economics",
+        "stw_id": "15767-0"
+      },
+      {
+        "name_de": "Umweltpolitik",
+        "name_en": "Environmental policy",
+        "stw_id": "15768-5"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      },
+      {
+        "name_de": "Einheitswurzeltest",
+        "name_en": "Unit root test",
+        "stw_id": "19575-3"
+      }
+    ],
+    "title": "The roots of modern environmentalism",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Mollay, Karl"
+      },
+      {
+        "name": "Z\u00e1vodszky, Levente"
+      },
+      {
+        "name": "Keszeg, Zsuza"
+      },
+      {
+        "name": "Friedrich, Albrecht"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-AT"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "172111161",
+        "name": "Gy\u00f6rffy, Gy\u00f6rgy",
+        "type": "personal"
+      }
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:35:45Z",
+    "econbiz_id": "10000012993",
+    "extent": [
+      "330 S",
+      "Ill., Kt",
+      "Kt"
+    ],
+    "identifier_isbn": [
+      "3-205-00545-7"
+    ],
+    "identifier_oclc": [
+      "12329216"
+    ],
+    "language": [
+      "deu",
+      "lat"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "B\u00f6hlau",
+        "place": "Wien [u.a.]"
+      }
+    ],
+    "source_id": "014076675",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsgeschichte",
+      "Sozialgeschichte",
+      "Gesetzsammlung",
+      "Ungarn"
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/830947531/04"
+    ],
+    "title": "Wirtschaft und Gesellschaft der Ungarn um die Jahrtausendwende ; mit einem Anhang: Gesetze und Synodalbeschl\u00fcsse Ungarns aus dem 11. Jahrhundert nach der Textausgabe von Levente Z\u00e1vodszky",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "331.1"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Barkin, Solomon"
+      },
+      {
+        "name": "Dymond, William"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Kassalow, Everett M."
+      },
+      {
+        "name": "Meyers, Frederic"
+      },
+      {
+        "gnd_id": "17011449X",
+        "name": "Myers, Charles A.",
+        "type": "personal"
+      }
+    ],
+    "date": 1967,
+    "econbiz_created": "2010-09-15T15:35:52Z",
+    "econbiz_id": "10000013290",
+    "extent": [
+      "VII,278 S"
+    ],
+    "identifier_oclc": [
+      "5507982"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Harper [and] Row",
+        "place": "New York, N.Y. u.a."
+      }
+    ],
+    "series": [
+      {
+        "title": "Industrial Relations Research Association series",
+        "volume": "1967"
+      }
+    ],
+    "source_id": "014132230",
+    "source_name": "econis",
+    "subject": [
+      "Arbeitergewerkschaft internationale",
+      "Arbeit",
+      "Arbeitergewerkschaft",
+      "Arbeitsbeziehungen",
+      "Europa",
+      "Vereinigte Staaten"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Arbeitsmarkt",
+        "name_en": "Labour market",
+        "stw_id": "11183-4"
+      },
+      {
+        "name_de": "Interner Arbeitsmarkt",
+        "name_en": "Internal labour market",
+        "stw_id": "11231-5"
+      },
+      {
+        "name_de": "Arbeitsmigranten",
+        "name_en": "Migrant workers",
+        "stw_id": "11268-3"
+      },
+      {
+        "name_de": "Welt",
+        "name_en": "World",
+        "stw_id": "16809-5"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      },
+      {
+        "name_de": "Sozialstandards",
+        "name_en": "Labour standards",
+        "stw_id": "19509-2"
+      }
+    ],
+    "title": "International labor",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "333.7/099423"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Nance, Christopher"
+      },
+      {
+        "name": "Speight, Desmond Lawrence"
+      }
+    ],
+    "countryOfPublication": [
+      "XE-AU"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "173196276",
+        "name": "Matheson, Bill",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1026818710",
+        "name": "Barker, Susan",
+        "type": "personal"
+      },
+      {
+        "name": "Aslin, Heather"
+      }
+    ],
+    "date": 1986,
+    "description": [
+      "Reich illustrierte Studie \u00fcber die Umweltver\u00e4nderungen im S\u00fcden Australiens. Die Autoren nehmen das 150j\u00e4hrige Jubil\u00e4um der ehemaligen Kolonie S\u00fcdaustralien zum Anla\u00df, die Ver\u00e4nderungen dieser Region in bezug auf \u00d6kologie, nat\u00fcrliche Ressourcen, Geographie, Biologie und Landwirtschaft kritisch zu untersuchen. Sie legen dar, da\u00df die Europ\u00e4er seit 1836 grundlegendere und weiterreichende Ver\u00e4nderungen bewirkten als die Ureinwohner in vielen Tausend Jahren. (D\u00dcI-Xyl)"
+    ],
+    "econbiz_created": "2010-09-15T15:35:52Z",
+    "econbiz_id": "10000013461",
+    "extent": [
+      "IV,236 S",
+      "ill. (some col.), maps",
+      "zahlr. graph. Darst., zahlr. Kt., zahlr. Tab., Reg., Gloss., zahlr. Lit.Hinw.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-582-87232-4"
+    ],
+    "identifier_oclc": [
+      "16874721"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Longman Cheshire",
+        "place": "Melbourne u.a."
+      }
+    ],
+    "source_id": "014170523",
+    "source_name": "econis",
+    "subject": [
+      "Rohstoffvorkommen",
+      "\u00d6kologie",
+      "Australien",
+      "S\u00fcdaustralien",
+      "Geologie"
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Landnutzung",
+        "name_en": "Land use",
+        "stw_id": "11859-1"
+      },
+      {
+        "name_de": "Umweltpolitik",
+        "name_en": "Environmental policy",
+        "stw_id": "15768-5"
+      },
+      {
+        "name_de": "Umweltschutz",
+        "name_en": "Environmental protection",
+        "stw_id": "15770-4"
+      },
+      {
+        "name_de": "Australien",
+        "name_en": "Australia",
+        "stw_id": "17935-2"
+      },
+      {
+        "name_de": "Agrarboden",
+        "name_en": "Agricultural soil",
+        "stw_id": "19339-1"
+      }
+    ],
+    "title": "A land transformed : environmental change in South Australia",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "305.5/0941",
+      "301.44/4/0941"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Prandy, K."
+      },
+      {
+        "name": "Blackburn, R. M."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Stewart, Alexander"
+      },
+      {
+        "name": "Prandy, Kenneth"
+      },
+      {
+        "gnd_id": "171413121",
+        "name": "Blackburn, Robert M.",
+        "type": "personal"
+      }
+    ],
+    "date": 1980,
+    "econbiz_created": "2010-09-15T15:36:05Z",
+    "econbiz_id": "10000015150",
+    "extent": [
+      "XIII, 302 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-333-24329-3",
+      "0-333-24330-7"
+    ],
+    "identifier_oclc": [
+      "7345064"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Macmillan",
+        "place": "London [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Cambridge Studies in Sociology"
+      }
+    ],
+    "source_id": "014990105",
+    "source_name": "econis",
+    "subject": [
+      "Sozialstruktur",
+      "Beruf",
+      "Gro\u00dfbritannien"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4077574-4",
+        "name": "Soziale Schichtung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4005857-8",
+        "name": "Beruf",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4002025-3",
+        "name": "Angestellter",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4022153-2",
+        "name": "Gro\u00dfbritannien",
+        "type": "geographic"
+      }
+    ],
+    "title": "Social stratification and occupations",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "303.4094"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118678612",
+        "name": "Dahrendorf, Ralf",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "121698491",
+        "name": "Brauchlin, Emil",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-CH",
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Giersch, Herbert"
+      },
+      {
+        "name": "Leuenberger, Theodor"
+      },
+      {
+        "name": "Niederer, Erich"
+      }
+    ],
+    "date": 1980,
+    "econbiz_created": "2010-09-15T15:36:12Z",
+    "econbiz_id": "10000016089",
+    "extent": [
+      "127 S.",
+      "23 cm"
+    ],
+    "identifier_isbn": [
+      "3-258-02999-7"
+    ],
+    "identifier_oclc": [
+      "15281886"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Haupt",
+        "place": "Bern, Stuttgart"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000441215",
+        "title": "St.-Galler Studien zur Politikwissenschaft",
+        "type": "series",
+        "volume": "8",
+        "zdb_id": "519621-8"
+      }
+    ],
+    "source_id": "015578534",
+    "source_name": "econis",
+    "subject": [
+      "Aussenpolitik",
+      "Futurologie"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4079237-7",
+        "name": "Westliche Welt",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4068097-6",
+        "name": "Zukunft",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4079215-8",
+        "name": "Westeuropa",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4113450-3",
+        "name": "Entwicklung",
+        "type": "topical"
+      }
+    ],
+    "title": "Die Zukunft der westlichen Gesellschaft",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "85.62",
+        "name": "Personalwesen"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118570056",
+        "name": "Lattmann, Charles",
+        "type": "personal"
+      },
+      {
+        "name": "Benz, Peter"
+      },
+      {
+        "gnd_id": "12219683X",
+        "name": "Domsch, Michel E.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "108779823",
+        "name": "Krulis-Randa, Jan S.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "139730222",
+        "name": "Bergmann, Alexander",
+        "type": "personal"
+      }
+    ],
+    "date": 1989,
+    "description_url": [
+      "http://swbplus.bsz-bw.de/bsz019450419cov.htm"
+    ],
+    "econbiz_created": "2010-09-15T15:36:12Z",
+    "econbiz_id": "10000016476",
+    "extent": [
+      "IX, 239 S",
+      "Ill., graph. Darst",
+      "25 cm"
+    ],
+    "identifier_isbn": [
+      "3-7908-0448-7"
+    ],
+    "identifier_oclc": [
+      "22209365"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Physica-Verl.",
+        "place": "Heidelberg"
+      }
+    ],
+    "series": [
+      {
+        "title": "Management Forum"
+      }
+    ],
+    "source_id": "016010213",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "4076000-5",
+        "name": "Personalwesen",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4071497-4",
+        "name": "F\u00fchrungskraft",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE022546EDE679130EDAFC1257B98004A6DB0.pdf"
+    ],
+    "title": "Die Aufgaben der Personalabteilung in einer sich wandelnden Umwelt : Festgabe f\u00fcr Peter Benz zum 60. Geburtstag",
+    "type": "book",
+    "type_genre": [
+      "Festschrift",
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.43",
+        "name": "Deutsche Geschichte des 19. Jahrhunderts bis zur Gegenwart"
+      },
+      {
+        "code": "15.24",
+        "name": "Zweiter Weltkrieg"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "101267932",
+        "name": "Picht, Werner",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "124988512",
+        "name": "Tippelskirch, Kurt von",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118722050",
+        "name": "Kesselring, Albert",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118543156",
+        "name": "Guderian, Heinz",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "12941381X",
+        "name": "Renduli\u0107, Lothar",
+        "type": "personal"
+      }
+    ],
+    "date": 1953,
+    "econbiz_created": "2010-09-15T15:36:12Z",
+    "econbiz_id": "10000016553",
+    "extent": [
+      "472 S.",
+      "graph. Darst., Kt."
+    ],
+    "identifier_oclc": [
+      "1050439"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Stalling",
+        "place": "Oldenburg [u.a.]"
+      }
+    ],
+    "source_id": "016094891",
+    "source_name": "econis",
+    "subject": [
+      "Kriegsgeschichte",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4057952-9",
+        "name": "Strategie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4079167-1",
+        "name": "Weltkrieg <1939-1945>",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4143413-4",
+        "name": "Aufsatzsammlung",
+        "type": "topical"
+      }
+    ],
+    "title": "Bilanz des Zweiten Weltkrieges : Erkenntnisse und Verpflichtungen f\u00fcr die Zukunft",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.43",
+        "name": "Deutsche Geschichte des 19. Jahrhunderts bis zur Gegenwart"
+      },
+      {
+        "code": "89.51",
+        "name": "Parlament"
+      },
+      {
+        "code": "15.36",
+        "name": "Europ\u00e4ische Geschichte 1815-1914"
+      }
+    ],
+    "classification_ddc": [
+      "342.43"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118656155",
+        "name": "Bergstr\u00e4sser, Ludwig",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "116405759",
+        "name": "Hallbauer, Gustav Moritz",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118511947",
+        "name": "Blum, Robert",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DXDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "116297530",
+        "name": "Ambrosch, Julius Athanasius",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "116697490",
+        "name": "R\u00fcmelin, Gustav",
+        "type": "personal"
+      }
+    ],
+    "date": 1929,
+    "econbiz_created": "2010-09-15T15:36:19Z",
+    "econbiz_id": "10000017564",
+    "extent": [
+      "467 S."
+    ],
+    "identifier_oclc": [
+      "1277239"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Frankfurter Societ\u00e4ts-Dr.",
+        "place": "Frankfurt a.M."
+      }
+    ],
+    "source_id": "016285638",
+    "source_name": "econis",
+    "subject": [
+      "Parlamentsgeschichte",
+      "Pers\u00f6nlichkeiten des politischen Lebens",
+      "Deutschland <bis 1945> <Politik>"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4018128-5",
+        "name": "Frankfurter Nationalversammlung",
+        "type": "corporate"
+      },
+      {
+        "gnd_id": "4000135-0",
+        "name": "Abgeordneter",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "118511947",
+        "name": "Robert Blum",
+        "type": "personal"
+      }
+    ],
+    "title": "Das Frankfurter Parlament in Briefen und Tageb\u00fcchern : Ambrosch, R\u00fcmelin, Hallbauer, Blum",
+    "type": "book",
+    "type_genre": [
+      "Briefsammlung",
+      "Tagebuch"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Kramer, Dieter"
+      },
+      {
+        "gnd_id": "170134822",
+        "name": "Meyer, Gert",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118567462",
+        "name": "Kuczynski, J\u00fcrgen",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "115384324",
+        "name": "Deppe, Frank",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "120793695",
+        "name": "F\u00fclberth, Georg",
+        "type": "personal"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:36:19Z",
+    "econbiz_id": "10000017950",
+    "extent": [
+      "141 S"
+    ],
+    "identifier_isbn": [
+      "3-921630-49-5"
+    ],
+    "identifier_oclc": [
+      "11974919"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Verlag Arbeiterbewegung u. Gesellschaftswiss.",
+        "place": "Marburg"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000350763",
+        "title": "Schriftenreihe der Studiengesellschaft f\u00fcr Sozialgeschichte und Arbeiterbewegung",
+        "type": "series",
+        "volume": "48",
+        "zdb_id": "17825-1"
+      }
+    ],
+    "source_id": "016395395",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "118567462",
+        "name": "J\u00fcrgen Kuczynski",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "4011882-4",
+        "name": "Deutschland",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4002581-0",
+        "name": "Arbeiterbewegung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4037764-7",
+        "name": "Marxismus",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4079351-5",
+        "name": "Wirtschaftstheorie",
+        "type": "topical"
+      }
+    ],
+    "title": "Ein Gespr\u00e4ch mit J\u00fcrgen Kuczynski \u00fcber Arbeiterklasse, Alltag, Geschichte, Kultur und vor allem \u00fcber Krieg und Frieden",
+    "type": "book",
+    "type_genre": [
+      "Interview"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "330.1"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Institute of Economic Affairs"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Barry, Norman"
+      },
+      {
+        "name": "Hayek, Friedrich August von"
+      },
+      {
+        "name": "Seldon, Arthur"
+      },
+      {
+        "name": "Burton, John"
+      },
+      {
+        "gnd_id": "135703514",
+        "name": "Barry, Norman P.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:36:26Z",
+    "econbiz_id": "10000018060",
+    "edition": [
+      "1. publ."
+    ],
+    "extent": [
+      "XXXII, 142 S",
+      "19 cm"
+    ],
+    "identifier_isbn": [
+      "0-255-36174-2"
+    ],
+    "identifier_oclc": [
+      "11330907"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "The Institute of Economic Affairs",
+        "place": "London"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000427853",
+        "issn": [
+          "0309-1783"
+        ],
+        "title": "Hobart paperback",
+        "type": "series",
+        "volume": "18",
+        "zdb_id": "17965-6"
+      }
+    ],
+    "source_id": "016429818",
+    "source_name": "econis",
+    "subject": [
+      "Staatsform autorit\u00e4rer Staat",
+      "Wirtschaftslenkung"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4572056-3",
+        "name": "The road to serfdom",
+        "type": "work"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "\u00d6konomische Ideengeschichte",
+        "name_en": "History of economic thought",
+        "stw_id": "16745-5"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      },
+      {
+        "name_de": "Wirtschaftsliberalismus",
+        "name_en": "Economic liberalism",
+        "stw_id": "10986-6"
+      },
+      {
+        "name_de": "Wirtschaftswissenschaft",
+        "name_en": "Economics",
+        "stw_id": "10032-2"
+      }
+    ],
+    "title": "Hayek's \"Serfdom\" revisited : essays by economists, philosophers and political scientists on \"The road to serfdom\" after 40 years",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.72",
+        "name": "Verkehrswirtschaft"
+      }
+    ],
+    "classification_ddc": [
+      "380.5/0941"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Stubbs, P. C."
+      },
+      {
+        "gnd_id": "171449169",
+        "name": "Tyson, W. J.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB",
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Stubbs, Peter C."
+      },
+      {
+        "name": "Tyson, William J."
+      },
+      {
+        "gnd_id": "170313921",
+        "name": "Dalvi, M. Q.",
+        "type": "personal"
+      }
+    ],
+    "date": 1980,
+    "econbiz_created": "2010-09-15T15:36:33Z",
+    "econbiz_id": "10000019590",
+    "extent": [
+      "VIII, 216 S",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-04-338088-3",
+      "0-04-338089-1",
+      "0-04-388089-1"
+    ],
+    "identifier_oclc": [
+      "6943796"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Allen & Unwin",
+        "place": "London [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000360341",
+        "title": "Studies in economics",
+        "type": "series",
+        "volume": "15",
+        "zdb_id": "413900-8"
+      }
+    ],
+    "source_id": "017555566",
+    "source_name": "econis",
+    "subject": [
+      "Verkehrswissenschaft"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4022492-2",
+        "name": "G\u00fcterverkehr",
+        "type": "topical"
+      }
+    ],
+    "title": "Transport economics",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "338.09895"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "115534989",
+        "name": "E\u00dfer, Klaus",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE-BE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Almer, Gerhard"
+      },
+      {
+        "gnd_id": "171155661",
+        "name": "Greischel, Peter",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "105742692X",
+        "name": "Kurzinger-Wiemman, Edith",
+        "type": "personal"
+      },
+      {
+        "name": "Weber, Sonnfried"
+      }
+    ],
+    "date": 1983,
+    "description_url": [
+      "http://www.gbv.de/dms/spk/iai/cov/017851327.jpg"
+    ],
+    "econbiz_created": "2010-09-15T15:36:39Z",
+    "econbiz_id": "10000020265",
+    "extent": [
+      "II, 168 S.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-88985-029-4"
+    ],
+    "identifier_oclc": [
+      "10439894"
+    ],
+    "language": [
+      "spa"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Instituto Alem\u00e1n de Desarrollo",
+        "place": "Berlin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000359972",
+        "title": "Schriften des Deutschen Instituts f\u00fcr Entwicklungspolitik",
+        "type": "series",
+        "volume": "75",
+        "zdb_id": "406545-1"
+      }
+    ],
+    "source_id": "017851327",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftspolitik",
+      "Industrie",
+      "Uruguay <Staat>"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4062186-8",
+        "name": "Uruguay",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4040050-5",
+        "name": "Monetarismus",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/spk/iai/toc/017851327.pdf"
+    ],
+    "title": "Monetarismo en Uruguay : efectos sobre el sector industrial",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_corporate": [
+      {
+        "name": "Institut f\u00fcr Orts-, Regional- und Landesplanung, ETH Z\u00fcrich"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Huber, J."
+      },
+      {
+        "name": "Schmid, B."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-CH"
+    ],
+    "creator_personal": [
+      {
+        "name": "Huber, Jakob"
+      },
+      {
+        "name": "Z\u00e4ngerle, Rudolf"
+      },
+      {
+        "gnd_id": "125448678",
+        "name": "Schmid, Beat",
+        "type": "personal"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:36:39Z",
+    "econbiz_id": "10000020342",
+    "extent": [
+      "VI, 154, 28 S",
+      "graph. Darst., Kt.",
+      "4\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-7281-1463-4"
+    ],
+    "identifier_oclc": [
+      "21159369"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Verlag der Fachvereine an d. Schweizer. Hochsch. u. Techniken",
+        "place": "Z\u00fcrich"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010448590",
+        "title": "Berichte zur Orts-, Regional- und Landesplanung",
+        "type": "series",
+        "volume": "47",
+        "zdb_id": "742180-1"
+      }
+    ],
+    "source_id": "017898927",
+    "source_name": "econis",
+    "subject": [
+      "Energiewirtschaft",
+      "Raumordnungspolitik",
+      "Schweiz"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4053881-3",
+        "name": "Schweiz",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4014736-8",
+        "name": "Energieversorgung",
+        "type": "topical"
+      }
+    ],
+    "title": "Perspektiven des Energiewesens in der Schweiz und r\u00e4umliche Konsequenzen",
+    "title_alternative": [
+      "Perspektiven des Energiewesens in der Schweiz und r\u00e4umliche Konsequenzen"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "950"
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118771035",
+        "name": "Waldschmidt, Ernst",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118976427",
+        "name": "Alsdorf, Ludwig",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118805215",
+        "name": "Spuler, Bertold",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "117210250",
+        "name": "Stange, Hans O. H.",
+        "type": "personal"
+      },
+      {
+        "name": "Kressler, Oskar"
+      }
+    ],
+    "date": 1950,
+    "econbiz_created": "2010-09-15T15:36:46Z",
+    "econbiz_id": "10000021394",
+    "extent": [
+      "VIII, 767 S.",
+      "Kt."
+    ],
+    "identifier_oclc": [
+      "299605812"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Bruckmann",
+        "place": "M\u00fcnchen"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010453556",
+        "title": "Weltgeschichte in Einzeldarstellungen",
+        "type": "series",
+        "volume": "[7]",
+        "zdb_id": "1173479-6"
+      }
+    ],
+    "source_id": "01856500X",
+    "source_name": "econis",
+    "subject": [
+      "Geschichte",
+      "Vorgeschichte",
+      "Asien China Japan Indien",
+      "Islam",
+      "Indien"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4003217-6",
+        "name": "Asien",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4020517-4",
+        "name": "Geschichte",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/451504569/04"
+    ],
+    "title": "Geschichte Asiens",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "74.08",
+        "name": "Wirtschaftsgeographie"
+      },
+      {
+        "code": "74.20",
+        "name": "Deutschland, \u00d6sterreich, Schweiz <Geographie>"
+      },
+      {
+        "code": "89.14",
+        "name": "Sozialismus"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DDDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "132357364",
+        "name": "Kohl, Horst",
+        "type": "personal"
+      },
+      {
+        "name": "Jacob, G."
+      },
+      {
+        "name": "Kramm, H. J."
+      },
+      {
+        "name": "Roubitschek, W."
+      },
+      {
+        "gnd_id": "118609092",
+        "name": "Schmidt-Renner, Gerhard",
+        "type": "personal"
+      }
+    ],
+    "date": 1969,
+    "econbiz_created": "2010-09-15T15:36:46Z",
+    "econbiz_id": "10000021597",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "614 S.",
+      "zahlr. graph. Darst., zahlr. Kt.",
+      "5 Kt.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "250948069"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Haack",
+        "place": "Gotha [u. a.]"
+      }
+    ],
+    "source_id": "018585086",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsgeographie",
+      "DDR"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4011890-3",
+        "name": "Deutschland <DDR>",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4066446-6",
+        "name": "Wirtschaftsgeografie",
+        "type": "topical"
+      }
+    ],
+    "title": "\u00d6konomische Geographie der Deutschen Demokratischen Republik : Bev\u00f6lkerung, Siedlungen, Wirtschaftsbereiche",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.46",
+        "name": "Staatsrecht, Verfassungsrecht: Sonstiges"
+      },
+      {
+        "code": "86.10",
+        "name": "Recht einzelner L\u00e4nder, Gebiete und V\u00f6lker"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Ballreich, Hans"
+      },
+      {
+        "gnd_id": "118666363",
+        "name": "Doehring, Karl",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118711385",
+        "name": "Jaenicke, G\u00fcnther",
+        "type": "personal"
+      },
+      {
+        "name": "Strebel, Helmut"
+      },
+      {
+        "name": "Weiss, G\u00fcnther"
+      }
+    ],
+    "date": 1955,
+    "econbiz_created": "2010-09-15T15:37:00Z",
+    "econbiz_id": "10000023723",
+    "extent": [
+      "VIII, 268 S."
+    ],
+    "identifier_oclc": [
+      "164728859"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Heymann",
+        "place": "K\u00f6ln [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000362037",
+        "issn": [
+          "0172-4770"
+        ],
+        "title": "Beitr\u00e4ge zum ausl\u00e4ndischen \u00f6ffentlichen Recht und V\u00f6lkerrecht",
+        "type": "series",
+        "volume": "31",
+        "zdb_id": "504033-4"
+      }
+    ],
+    "source_id": "019161042",
+    "source_name": "econis",
+    "subject": [
+      "Staatsnotstandsrecht",
+      "Belgien Grossbritannien Frankreich Italien Niederlande Schweiz Vereinigte Staaten"
+    ],
+    "title": "Das Staatsnotrecht in Belgien, Frankreich, Gro\u00dfbritannien, Italien, den Niederlanden, der Schweiz und den Vereinigten Staaten von Amerika",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_corporate": [
+      {
+        "gnd_id": "24461-2",
+        "name": "Evangelisch-Sozialer Kongre\u00df",
+        "type": "conference"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "137806868",
+        "name": "Herz, Johannes",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DXDE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Rade, Martin"
+      },
+      {
+        "name": "Voelter, I."
+      },
+      {
+        "name": "Goetz, W."
+      },
+      {
+        "name": "Schlemmer, Hans"
+      }
+    ],
+    "date": 1940,
+    "econbiz_created": "2010-09-15T15:37:07Z",
+    "econbiz_id": "10000024402",
+    "extent": [
+      "151 S"
+    ],
+    "identifier_oclc": [
+      "256270953"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Hinrichs [u.a.]",
+        "place": "Leipzig"
+      }
+    ],
+    "source_id": "019791704",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "24461-2",
+        "name": "Evangelisch-Sozialer Kongre\u00df",
+        "type": "conference"
+      }
+    ],
+    "title": "Evangelisches Ringen um soziale Gemeinschaft : f\u00fcnfzig Jahre Evangelisch-Sozialer Kongre\u00df ; 1890 - 1940",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Haslinger, Franz Heinz"
+      },
+      {
+        "gnd_id": "11869104X",
+        "name": "Firnberg, Hertha",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-AT",
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Haslinger, Franz H."
+      },
+      {
+        "name": "Hietler, Karlheinz"
+      },
+      {
+        "gnd_id": "107927438",
+        "name": "Orosel, Gerhard O.",
+        "type": "personal"
+      }
+    ],
+    "date": 1973,
+    "description_url": [
+      "http://swbplus.bsz-bw.de/bsz005381495cov.htm"
+    ],
+    "econbiz_created": "2010-09-15T15:37:14Z",
+    "econbiz_id": "10000025802",
+    "extent": [
+      "184 S",
+      "Ill",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-211-81158-3",
+      "0-387-81158-3"
+    ],
+    "identifier_oclc": [
+      "1036533"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Springer",
+        "place": "Wien [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Ver\u00f6ffentlichung des Bundesministeriums f\u00fcr Wissenschaft und Forschung"
+      }
+    ],
+    "source_id": "019887760",
+    "source_name": "econis",
+    "subject": [
+      "Technischer Fortschritt",
+      "Industrieforschung",
+      "Bildungs\u00f6konomie",
+      "\u00d6sterreich"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4017897-3",
+        "name": "Forschung und Entwicklung",
+        "type": "topical"
+      }
+    ],
+    "title": "Forschungs\u00f6konomie : Stand und Entwicklung",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "330.182"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Rossier, Edouard"
+      }
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "17001679X",
+        "name": "Ritschard, Gilbert",
+        "type": "personal"
+      },
+      {
+        "name": "Auray, Jean-Paul"
+      },
+      {
+        "name": "Royer, Daniel"
+      },
+      {
+        "gnd_id": "170893952",
+        "name": "Tschopp, Peter",
+        "type": "personal"
+      }
+    ],
+    "date": 1985,
+    "econbiz_created": "2010-09-15T15:37:21Z",
+    "econbiz_id": "10000026341",
+    "extent": [
+      "247 S"
+    ],
+    "identifier_isbn": [
+      "2-7178-0841-8"
+    ],
+    "identifier_oclc": [
+      "15209559"
+    ],
+    "language": [
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Ed. Economica",
+        "place": "Paris"
+      }
+    ],
+    "source_id": "019926561",
+    "source_name": "econis",
+    "subject": [
+      "\u00d6konometrische Makromodelle",
+      "Modell",
+      "Wirtschaftstheorie"
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE006F910894381A03A3FC1257AA80066908B.pdf"
+    ],
+    "title": "Optimalit\u00e9 et structures : en hommage \u00e0 Edouard Rossier",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.00",
+        "name": "Volkswirtschaft: Allgemeines"
+      }
+    ],
+    "classification_ddc": [
+      "330.8"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "117445029",
+        "name": "Wolf, Julius",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DXDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "101265956",
+        "name": "Kardorff, Siegfried von",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118748300",
+        "name": "Sch\u00e4ffer, Hans",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118674064",
+        "name": "Briefs, Goetz",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1020732253",
+        "name": "Kr\u00f6ner, Hans",
+        "type": "personal"
+      }
+    ],
+    "date": 1932,
+    "econbiz_created": "2010-09-15T15:37:21Z",
+    "econbiz_id": "10000026595",
+    "extent": [
+      "XXVII, 383 S.",
+      "Ill., graph. Darst.",
+      "26 cm"
+    ],
+    "identifier_oclc": [
+      "238784131"
+    ],
+    "language": [
+      "deu",
+      "fra",
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Enke",
+        "place": "Stuttgart"
+      }
+    ],
+    "source_id": "019946589",
+    "source_name": "econis",
+    "title": "Der internationale Kapitalismus und die Krise : Festschrift f\u00fcr Julius Wolf zum 20. April 1932",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "name": "Juncker, Klaus"
+      },
+      {
+        "gnd_id": "1050693604",
+        "name": "Krahnen, Hans Joachim",
+        "type": "personal"
+      },
+      {
+        "name": "Krahnen, Hans J."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Amelung, Hans J\u00fcrgen"
+      },
+      {
+        "name": "Schlegelmilch, Klaus"
+      }
+    ],
+    "date": 1976,
+    "econbiz_created": "2010-09-15T15:37:21Z",
+    "econbiz_id": "10000026785",
+    "extent": [
+      "152 S",
+      "graph. Darst.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-7819-0170-X"
+    ],
+    "identifier_oclc": [
+      "3015929"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Knapp",
+        "place": "Frankfurt am Main"
+      }
+    ],
+    "source_id": "019964412",
+    "source_name": "econis",
+    "subject": [
+      "Unternehmungsfinanzierungsunternehmung"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4163263-1",
+        "name": "Kapitalbeteiligungsgesellschaft",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/770028055/04",
+      "http://swbplus.bsz-bw.de/bsz005726239inh.htm"
+    ],
+    "title": "Die Kapitalbeteiligungsgesellschaft in Theorie und Praxis : zum 60. Geburtstag von Prof. Dr. H. Joachim Krahnen",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Festschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "138473900",
+        "name": "F\u00e9aux de la Croix, Ernst",
+        "type": "personal"
+      },
+      {
+        "name": "Beyss, Peter"
+      },
+      {
+        "name": "Tr\u00f6ger, G\u00fcnter"
+      },
+      {
+        "name": "Fischer, Horst"
+      },
+      {
+        "name": "Schindelwick, Heinrich"
+      }
+    ],
+    "date": 1959,
+    "econbiz_created": "2010-09-15T15:37:28Z",
+    "econbiz_id": "10000027247",
+    "extent": [
+      "XII, 789 S.",
+      "21 cm"
+    ],
+    "identifier_oclc": [
+      "38057728"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Kohlhammer",
+        "place": "Stuttgart"
+      }
+    ],
+    "series": [
+      {
+        "title": "Kohlhammer-Kommentare"
+      }
+    ],
+    "source_id": "019997159",
+    "source_name": "econis",
+    "subject": [
+      "Kriegssch\u00e4den",
+      "Kriegsfolgeerscheinungen",
+      "Deutschland",
+      "Verm\u00f6gensverlustausgleich",
+      "Kriegsopfer",
+      "Vertriebene"
+    ],
+    "title": "Kommentar zum allgemeinen Kriegsfolgengesetz : Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Sch\u00e4den",
+    "title_alternative": [
+      "Allgemeines Kriegsfolgengesetz"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.79",
+        "name": "China <Geschichte>"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118160443",
+        "name": "Kalmar, Fritz",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118023985",
+        "name": "Opitz, Peter J.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "107645807",
+        "name": "North, Robert Carver",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE",
+      "XA-AT"
+    ],
+    "creator_personal": [
+      {
+        "name": "Siao-yu"
+      },
+      {
+        "gnd_id": "107926393",
+        "name": "Hsiao, Y\u00fc",
+        "type": "personal"
+      }
+    ],
+    "date": 1973,
+    "econbiz_created": "2010-09-15T15:37:28Z",
+    "econbiz_id": "10000027497",
+    "extent": [
+      "286 S",
+      "Ill"
+    ],
+    "identifier_isbn": [
+      "3-570-05724-0"
+    ],
+    "identifier_oclc": [
+      "20407224"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Bertelsmann",
+        "place": "G\u00fctersloh [u.a.]"
+      }
+    ],
+    "source_id": "020012187",
+    "source_name": "econis",
+    "subject": [
+      "Pers\u00f6nlichkeit Politik",
+      "China"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118577425",
+        "name": "Zedong Mao",
+        "type": "personal"
+      }
+    ],
+    "title": "Maos Lehr- und Wanderjahre : Erinnerungen des Siao-yu",
+    "title_alternative": [
+      "Mao Tse-tung and I were beggars <dt.>",
+      "Mao Tse-Tung and i were beggars <dt.>"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "89.57",
+        "name": "Politische Beteiligung"
+      }
+    ],
+    "classification_ddc": [
+      "324.943/47"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "109523849",
+        "name": "Biege, Hans-Peter",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Fabritius, G."
+      },
+      {
+        "name": "Siewert, H.-J."
+      },
+      {
+        "name": "Wehling, H.-G."
+      },
+      {
+        "gnd_id": "132426757",
+        "name": "Schiele, Siegfried",
+        "type": "personal"
+      }
+    ],
+    "date": 1978,
+    "econbiz_created": "2010-09-15T15:37:28Z",
+    "econbiz_id": "10000027855",
+    "extent": [
+      "236 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "3-445-01583-X"
+    ],
+    "identifier_oclc": [
+      "6156849"
+    ],
+    "language": [
+      "deu"
+    ],
+    "note_dissertation": [
+      "Kapitel 5 - 11 zugl.: T\u00fcbingen, Univ., Diss., 1978 von Hans-Peter Biege"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Hain",
+        "place": "Meisenheim, Koenigstein/Ts. [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010447836",
+        "issn": [
+          "0344-3450"
+        ],
+        "title": "Sozialwissenschaftliche Studien zur Stadt- und Regionalpolitik",
+        "type": "series",
+        "volume": "11",
+        "zdb_id": "549568-4"
+      }
+    ],
+    "source_id": "020033311",
+    "source_name": "econis",
+    "subject": [
+      "Deutschland",
+      "Reutlingen",
+      "Gemeindewahl"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4514749-8",
+        "name": "Oberb\u00fcrgermeisterwahl",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4079009-5",
+        "name": "Wahlverhalten",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE004330BD05ED7ACEDFEC12578AC004B2E42.pdf",
+      "https://d-nb.info/790752204/04"
+    ],
+    "title": "Zwischen Pers\u00f6nlichkeitswahl und Parteientscheidung : kommunales Wahlverhalten im Lichte einer Oberb\u00fcrgermeisterwahl",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Hochschulschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.03",
+        "name": "Methoden und Techniken der Volkswirtschaft"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Kunze, Marian"
+      },
+      {
+        "name": "F\u00f6rster, Wolfgang"
+      },
+      {
+        "name": "Piesch, Walter"
+      },
+      {
+        "name": "Behr, Johannes"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE",
+      "XA-PL"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118569384",
+        "name": "Lange, Oskar",
+        "type": "personal"
+      }
+    ],
+    "date": 1968,
+    "econbiz_created": "2010-09-15T15:37:35Z",
+    "econbiz_id": "10000028027",
+    "extent": [
+      "VIII, 304 S.",
+      "graph. Darst.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "5127277"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Mohr [u.a.]",
+        "place": "T\u00fcbingen"
+      }
+    ],
+    "source_id": "020042027",
+    "source_name": "econis",
+    "subject": [
+      "\u00d6konometrik Einf\u00fchrungsschrift",
+      "Deutschland",
+      "Konjunkturstatistik und -prognose",
+      "Programming",
+      "Input-Output",
+      "Marktforschung"
+    ],
+    "title": "Einf\u00fchrung in die \u00d6konometrie",
+    "title_alternative": [
+      "Wste\u031cp do ekonometrii <dt.>"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Einf\u00fchrung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "320.10942"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118554735",
+        "name": "Hume, David",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118509187",
+        "name": "Bentham, Jeremy",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118582461",
+        "name": "Mill, John Stuart",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118806378",
+        "name": "Webb, Beatrice Potter",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "171146077",
+        "name": "Letwin, Shirley Robin",
+        "type": "personal"
+      }
+    ],
+    "date": 1965,
+    "econbiz_created": "2010-09-15T15:37:35Z",
+    "econbiz_id": "10000028265",
+    "extent": [
+      "VI, 391 S"
+    ],
+    "identifier_oclc": [
+      "85966803"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Cambridge Univ. Press",
+        "place": "London"
+      }
+    ],
+    "source_id": "020057334",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftswissenschaftliche Dogmengeschichte",
+      "Gro\u00dfbritannien"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118554735",
+        "name": "David Hume",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118509187",
+        "name": "Jeremy Bentham",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118582461",
+        "name": "John Stuart Mill",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118806378",
+        "name": "Beatrice Potter Webb",
+        "type": "personal"
+      }
+    ],
+    "title": "The pursuit of certainty : David Hume, Jeremy Bentham, John Stuart Mill, Beatrice Webb",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.09",
+        "name": "Wirtschaftsgeschichte"
+      },
+      {
+        "code": "15.40",
+        "name": "Deutsche Geschichte: Allgemeines"
+      }
+    ],
+    "classification_ddc": [
+      "330.9"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118646494",
+        "name": "Abel, Wilhelm",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "119182963",
+        "name": "Borchardt, Knut",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118561049",
+        "name": "Kellenbenz, Hermann",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "119066963",
+        "name": "Zorn, Wolfgang",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "122795784",
+        "name": "L\u00fctge, Friedrich",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1966,
+    "econbiz_created": "2010-09-15T15:37:35Z",
+    "econbiz_id": "10000028351",
+    "extent": [
+      "VII, 437 Seiten",
+      "Illustrationen",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "19732762"
+    ],
+    "language": [
+      "deu",
+      "ita",
+      "fra",
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Fischer",
+        "place": "Stuttgart"
+      }
+    ],
+    "source_id": "020062206",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsgeschichte"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4066399-1",
+        "name": "Wirtschaft",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "122795784",
+        "name": "Friedrich L\u00fctge",
+        "type": "personal"
+      }
+    ],
+    "title": "Wirtschaft, Geschichte und Wirtschaftsgeschichte : Festschrift zum 65. Geburtstag von Friedrich L\u00fctge",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Bibliografie"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.14",
+        "name": "Einkommen, Besch\u00e4ftigung, Arbeitsmarkt"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "2018657-5",
+        "name": "Ludwig-Erhard-Stiftung",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Br\u00fcss, Kurt"
+      },
+      {
+        "name": "Hagemeyer, Bernhard"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE",
+      "XA-AT"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "119144735",
+        "name": "Willgerodt, Hans",
+        "type": "personal"
+      },
+      {
+        "name": "Bartel, Karl"
+      },
+      {
+        "name": "Schillert, Ullrich"
+      }
+    ],
+    "date": 1971,
+    "econbiz_created": "2010-09-15T15:37:35Z",
+    "econbiz_id": "10000028514",
+    "extent": [
+      "452 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "256352032"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "ECON",
+        "place": "D\u00fcsseldorf [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010443987",
+        "title": "Schriftenreihe der Ludwig-Erhard-Stiftung",
+        "type": "series",
+        "volume": "11",
+        "zdb_id": "121032-4"
+      }
+    ],
+    "source_id": "020072325",
+    "source_name": "econis",
+    "subject": [
+      "Arbeitereigentum",
+      "Verm\u00f6gensverteilung",
+      "Wirtschaftsliberalismus",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4011889-7",
+        "name": "Deutschland <Bundesrepublik>",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4063074-2",
+        "name": "Verm\u00f6gensbildung",
+        "type": "topical"
+      }
+    ],
+    "title": "Verm\u00f6gen f\u00fcr alle : Probleme der Bildung, Verteilung und Werterhaltung des Verm\u00f6gens in der Marktwirtschaft ; eine Studie",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "gnd_id": "1145345158",
+        "name": "Altfelder, Klaus",
+        "type": "personal"
+      },
+      {
+        "name": "Metze, Heinrich-Theodor"
+      },
+      {
+        "gnd_id": "107220628",
+        "name": "Bartels, Hans G.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Bartells, Hans G."
+      },
+      {
+        "name": "Horn, Joachim-Hans"
+      }
+    ],
+    "date": 1973,
+    "econbiz_created": "2010-09-15T15:37:35Z",
+    "econbiz_id": "10000028573",
+    "extent": [
+      "292 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-470-56191-5"
+    ],
+    "identifier_oclc": [
+      "36212998"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Kiehl",
+        "place": "Ludwigshafen (Rhein)"
+      }
+    ],
+    "source_id": "020076126",
+    "source_name": "econis",
+    "subject": [
+      "Betriebsf\u00fchrung",
+      "Wirtschaftswissenschaftliche Enzyklop\u00e4die",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4037278-9",
+        "name": "Management",
+        "type": "topical"
+      }
+    ],
+    "title": "Lexikon der Unternehmensf\u00fchrung : Zielsetzen, Planen, Entscheiden, Realisieren, Kontrollieren",
+    "title_alternative": [
+      "Unternehmensf\u00fchrung Lexikon"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Enzyklop\u00e4die",
+      "W\u00f6rterbuch"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "89.73",
+        "name": "Europapolitik, Europ\u00e4ische Union"
+      }
+    ],
+    "classification_ddc": [
+      "320.94"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "116176113",
+        "name": "Domes, Alfred",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118600168",
+        "name": "Rhode, Gotthold",
+        "type": "personal"
+      },
+      {
+        "name": "Wenzel, Jaksch"
+      },
+      {
+        "gnd_id": "118819054",
+        "name": "Meissner, Boris",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118530658",
+        "name": "Epstein, Fritz T.",
+        "type": "personal"
+      }
+    ],
+    "date": 1965,
+    "econbiz_created": "2010-09-15T15:37:35Z",
+    "econbiz_id": "10000028677",
+    "extent": [
+      "239 S.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "2167505"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Verl. Wissenschaft und Politik",
+        "place": "K\u00f6ln"
+      }
+    ],
+    "source_id": "020081375",
+    "source_name": "econis",
+    "subject": [
+      "Gro\u00dfbritannien",
+      "Ostblockstaaten",
+      "EWG-Staaten",
+      "Aussenpolitische Beziehungen",
+      "Aussenwirtschaftsbeziehungen"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4071013-0",
+        "name": "Europ\u00e4ische Integration",
+        "type": "topical"
+      }
+    ],
+    "title": "Westintegration und Osteuropa",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "335.4/1"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Arenz, Horst"
+      },
+      {
+        "gnd_id": "118502298",
+        "name": "Althusser, Louis",
+        "type": "personal"
+      },
+      {
+        "name": "Lewis, John"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Bischoff, J."
+      },
+      {
+        "name": "Jaeggi, U."
+      }
+    ],
+    "date": 1973,
+    "econbiz_created": "2010-09-15T15:37:42Z",
+    "econbiz_id": "10000029001",
+    "extent": [
+      "LXIV, 117 S."
+    ],
+    "identifier_isbn": [
+      "3-87975-018-1"
+    ],
+    "identifier_oclc": [
+      "3221537"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "VSA, Verl. f\u00fcr das Studium der Arbeiterbewegung",
+        "place": "Berlin, West"
+      }
+    ],
+    "source_id": "020101597",
+    "source_name": "econis",
+    "subject": [
+      "Sozialismus"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4037764-7",
+        "name": "Marxismus",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4049680-6",
+        "name": "Revolution",
+        "type": "topical"
+      }
+    ],
+    "title": "Was ist revolution\u00e4rer Marxismus? : Kontroverse \u00fcber Grundfragen marxistischer Theorie zwischen Louis Althusser und John Lewis",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.94",
+        "name": "Kriegsrecht, Kriegsverh\u00fctungsrecht"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118561340",
+        "name": "Kempner, Robert M. W.",
+        "type": "personal"
+      },
+      {
+        "name": "Haensel, Carl"
+      },
+      {
+        "name": "Tuerck, C. H."
+      },
+      {
+        "name": "Galewski, Walter"
+      },
+      {
+        "name": "Kerr, Julia"
+      }
+    ],
+    "date": 1950,
+    "econbiz_created": "2010-09-15T15:37:42Z",
+    "econbiz_id": "10000029292",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "XXXIII, 346 S.",
+      "4\u00b0"
+    ],
+    "identifier_oclc": [
+      "221756260"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "B\u00fcrger",
+        "place": "Schw\u00e4bisch Gm\u00fcnd"
+      }
+    ],
+    "source_id": "02011611X",
+    "source_name": "econis",
+    "subject": [
+      "Kriegsrechtsverletzungen",
+      "Kriegsvorgeschichte",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4189911-8",
+        "name": "Wilhelmstra\u00dfenprozess",
+        "type": "topical"
+      }
+    ],
+    "title": "Das Urteil im Wilhelmstrassen-Prozess : der amtliche Wortlaut der Entscheidung im Fall Nr. 11 des N\u00fcrnberger Milit\u00e4rtribunals gegen von Weizs\u00e4cker und andere, mit abweichender Urteilsbegr\u00fcndung, Berichtigungsbeschl\u00fcssen, den grundlegenden Gesetzesbestimmungen, einem Verzeichnis der Gerichtspersonen und Zeugen",
+    "type": "book",
+    "type_genre": [
+      "Quelle"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "06.44",
+        "name": "IuD-Einrichtungen"
+      },
+      {
+        "code": "06.70",
+        "name": "Katalogisierung, Bestandserschlie\u00dfung"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "2117754-5",
+        "name": "Max-Planck-Institut f\u00fcr Bildungsforschung",
+        "type": "corporate"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "13596427X",
+        "name": "Guhde, Edgar",
+        "type": "personal"
+      },
+      {
+        "name": "Neuhaus, Rolf"
+      },
+      {
+        "name": "Hegelheimer, Barbara"
+      },
+      {
+        "name": "Rick, Matthias"
+      },
+      {
+        "name": "Voswinkel, Elke"
+      }
+    ],
+    "date": 1972,
+    "econbiz_created": "2010-09-15T15:37:42Z",
+    "econbiz_id": "10000029664",
+    "extent": [
+      "XVI, 471 S."
+    ],
+    "identifier_isbn": [
+      "3-7940-3204-7"
+    ],
+    "identifier_oclc": [
+      "51715753"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Verl. Dokumentation",
+        "place": "M\u00fcnchen-Pullach"
+      }
+    ],
+    "source_id": "020140908",
+    "source_name": "econis",
+    "subject": [
+      "Bibliothekskatalogisierung",
+      "Dokumentation",
+      "Deutschland",
+      "Beruf"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4006681-2",
+        "name": "Bildungswesen",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4122926-5",
+        "name": "Bildungsforschung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4185172-9",
+        "name": "Thesaurus",
+        "type": "topical"
+      }
+    ],
+    "title": "Thesaurus Bildungsforschung : Verzeichnis der Deskriptoren und Nichtdeskriptoren in der Literaturdokumentation des Max-Planck-Institutes f\u00fcr Bildungsforschung",
+    "type": "book",
+    "type_genre": [
+      "Thesaurus"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.33",
+        "name": "Konjunktur"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118578537",
+        "name": "Marx, Karl",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118561804",
+        "name": "Keynes, John Maynard",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "140211837",
+        "name": "Diederich, Reiner",
+        "type": "personal"
+      },
+      {
+        "name": "Hermann, Klaus"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "116841850",
+        "name": "Mattick, Paul",
+        "type": "personal"
+      }
+    ],
+    "date": 1974,
+    "econbiz_created": "2010-09-15T15:37:42Z",
+    "econbiz_id": "10000029808",
+    "edition": [
+      "2., unver\u00e4nd. Aufl."
+    ],
+    "extent": [
+      "349 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "3-434-30117-8"
+    ],
+    "identifier_oclc": [
+      "74221593"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Europ\u00e4ische Verlagsanstalt",
+        "place": "Frankfurt (am Main) [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Politische \u00d6konomie / Geschichte und Kritik"
+      }
+    ],
+    "source_id": "020149905",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsordnung"
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE004D1B144DE968B73EEC12579300043F0C5.pdf"
+    ],
+    "title": "Marx und Keynes : die Grenzen des \"gemischten Wirtschaftssystems\"",
+    "title_alternative": [
+      "Marx and Keynes <dt.>",
+      "Marx and Keynes <dt.>"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "658.15",
+      "658.1/5"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Anthony, Robert N."
+      },
+      {
+        "name": "Belford, Norton M."
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "124289835",
+        "name": "Anthony, Robert Newton",
+        "type": "personal"
+      },
+      {
+        "name": "Dearden, John"
+      },
+      {
+        "gnd_id": "132981769",
+        "name": "Bedford, Norton M.",
+        "type": "personal"
+      }
+    ],
+    "date": 1984,
+    "econbiz_created": "2010-09-15T15:37:42Z",
+    "econbiz_id": "10000029920",
+    "edition": [
+      "5. ed."
+    ],
+    "extent": [
+      "XIII, 853 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-256-02961-X"
+    ],
+    "identifier_oclc": [
+      "10564213"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Irwin",
+        "place": "Homewood, Ill."
+      }
+    ],
+    "series": [
+      {
+        "title": "The Robert N. Anthony / Willard J. Graham series in accounting"
+      }
+    ],
+    "source_id": "020158076",
+    "source_name": "econis",
+    "subject": [
+      "Betriebsf\u00fchrung",
+      "Betriebsorganisation",
+      "Vereinigte Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4037278-9",
+        "name": "Management",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4032312-2",
+        "name": "Kontrolle",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4070102-5",
+        "name": "Controlling",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/ilmenau/toc/020158076.PDF",
+      "http://www.gbv.de/dms/bowker/toc/9780256029611.pdf"
+    ],
+    "title": "Management control systems",
+    "type": "book",
+    "type_genre": [
+      "Fallstudiensammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.76",
+        "name": "Vorderer und mittlerer Orient <Geschichte>"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "1158853262",
+        "name": "Mer\u1e25a\u1e07, Pere\u1e63",
+        "type": "personal"
+      },
+      {
+        "name": "Heydorn, Heinz-Joachim"
+      },
+      {
+        "name": "Schwab, J\u00fcrgen"
+      },
+      {
+        "name": "Schwarting, Arno"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Merchav, Peretz"
+      }
+    ],
+    "date": 1972,
+    "econbiz_created": "2010-09-15T15:37:49Z",
+    "econbiz_id": "10000030035",
+    "extent": [
+      "325 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "3-434-00170-0",
+      "3-434-00171-9"
+    ],
+    "identifier_oclc": [
+      "74062882"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Europ\u00e4ische Verlagsanstalt",
+        "place": "Frankfurt am Main"
+      }
+    ],
+    "source_id": "020165978",
+    "source_name": "econis",
+    "subject": [
+      "Arbeiterbewegung",
+      "Judenheimatbewegung",
+      "Israel"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4027808-6",
+        "name": "Israel",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4002581-0",
+        "name": "Arbeiterbewegung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4067864-7",
+        "name": "Zionismus",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/720185807/04"
+    ],
+    "title": "Die israelische Linke : Zionismus und Arbeiterbewegung in der Geschichte Israels",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.91",
+        "name": "Nordafrika <Geschichte>"
+      },
+      {
+        "code": "83.30",
+        "name": "Wirtschaftsentwicklung, Wirtschaftsstruktur: Allgemeines"
+      }
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "2013060-0",
+        "name": "Hamburgisches Welt-Wirtschafts-Archiv",
+        "type": "corporate"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "1015540708",
+        "name": "Decken, Hans von der",
+        "type": "personal"
+      },
+      {
+        "name": "Henning, Franz"
+      },
+      {
+        "name": "Franken, A. Wilhelm-Gerd"
+      },
+      {
+        "gnd_id": "118559834",
+        "name": "Kapferer, Clodwig",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Billerbeck, Klaus"
+      }
+    ],
+    "date": 1956,
+    "econbiz_created": "2010-09-15T15:37:49Z",
+    "econbiz_id": "10000030065",
+    "extent": [
+      "VI, 294 S.",
+      "4\u00b0"
+    ],
+    "identifier_oclc": [
+      "52335887"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "place": "Hamburg"
+      }
+    ],
+    "source_id": "020167202",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsstruktur",
+      "\u00c4gypten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4000556-2",
+        "name": "\u00c4gypten",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4129504-3",
+        "name": "Wirtschaftsstruktur",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4066438-7",
+        "name": "Wirtschaftsentwicklung",
+        "type": "topical"
+      }
+    ],
+    "title": "Struktur und Entwicklung der \u00e4gyptischen Wirtschaft",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "31.73",
+        "name": "Mathematische Statistik"
+      },
+      {
+        "code": "83.03",
+        "name": "Methoden und Techniken der Volkswirtschaft"
+      }
+    ],
+    "classification_ddc": [
+      "330.0182",
+      "330/.01/82"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "128224940",
+        "name": "Lyttkens, Ejnar",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170953491",
+        "name": "\u00c5gren, Anders",
+        "type": "personal"
+      },
+      {
+        "name": "Bodin, Lennard"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-NL",
+      "XA-GB",
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Mosbaek, Ernest J."
+      },
+      {
+        "gnd_id": "117727148",
+        "name": "Wold, Herman",
+        "type": "personal"
+      }
+    ],
+    "date": 1970,
+    "econbiz_created": "2010-09-15T15:37:49Z",
+    "econbiz_id": "10000030416",
+    "extent": [
+      "XXII, 542 S",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-7204-3042-9",
+      "0-444-10051-2"
+    ],
+    "identifier_oclc": [
+      "209889"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "North-Holland Publ. Comp.",
+        "place": "Amsterdam"
+      }
+    ],
+    "source_id": "020190166",
+    "source_name": "econis",
+    "subject": [
+      "Programming",
+      "Statistiktheorie",
+      "Modell",
+      "\u00d6konometrik"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4132280-0",
+        "name": "\u00d6konometrie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4193791-0",
+        "name": "Sch\u00e4tzung",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/hbz/toc/ht000727233.pdf",
+      "http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2286040&custom_att_2=simple_viewer"
+    ],
+    "title": "Interdependent systems : structure and estimation",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "330.1"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118615033",
+        "name": "Smith, Adam",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118600214",
+        "name": "Ricardo, David",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118578537",
+        "name": "Marx, Karl",
+        "type": "personal"
+      },
+      {
+        "name": "Gee, J. M."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "119466147",
+        "name": "Napoleoni, Claudio",
+        "type": "personal"
+      }
+    ],
+    "date": 1975,
+    "econbiz_created": "2010-09-15T15:37:49Z",
+    "econbiz_id": "10000030597",
+    "extent": [
+      "198 S",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-631-16410-3"
+    ],
+    "identifier_oclc": [
+      "2031007"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Blackwell",
+        "place": "Oxford"
+      }
+    ],
+    "source_id": "020202504",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftswissenschaftliche Dogmengeschichte"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118578537",
+        "name": "Karl Marx",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "4079351-5",
+        "name": "Wirtschaftstheorie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "118600214",
+        "name": "David Ricardo",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118615033",
+        "name": "Adam Smith",
+        "type": "personal"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Klassische \u00d6konomie",
+        "name_en": "Classical economics",
+        "stw_id": "10041-1"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      },
+      {
+        "name_de": "\u00d6konomische Ideengeschichte",
+        "name_en": "History of economic thought",
+        "stw_id": "16745-5"
+      }
+    ],
+    "title": "Smith, Ricardo, Marx",
+    "title_alternative": [
+      "Smith, Ricardo, Marx <engl.>"
+    ],
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.79",
+        "name": "China <Geschichte>"
+      }
+    ],
+    "classification_ddc": [
+      "327.470951"
+    ],
+    "contributor_corporate": [
+      {
+        "name": "Council of Foreign Relations"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "143794566",
+        "name": "Boorman, Howard L.",
+        "type": "personal"
+      },
+      {
+        "name": "Eckstein, Alexander"
+      },
+      {
+        "name": "Mosley, Philip E."
+      },
+      {
+        "gnd_id": "118967835",
+        "name": "Schwartz, Benjamin Isadore",
+        "type": "personal"
+      },
+      {
+        "name": "Dean, Arthur H."
+      }
+    ],
+    "date": 1957,
+    "econbiz_created": "2010-09-15T15:38:03Z",
+    "econbiz_id": "10000032034",
+    "extent": [
+      "21, 227 S.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "256404703"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Harper in Komm.",
+        "place": "New York"
+      }
+    ],
+    "source_id": "020294034",
+    "source_name": "econis",
+    "subject": [
+      "Aussenpolitische Beziehungen",
+      "Wirtschaftsbeziehungen",
+      "Russland China"
+    ],
+    "title": "Moscow-Peking axis : strengths and strains",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "02.15",
+        "name": "Wissenschaftspolitik, Kulturpolitik"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "name": "Riehle, Rainer"
+      },
+      {
+        "gnd_id": "120145286",
+        "name": "Narr, Wolf-Dieter",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "133005917",
+        "name": "Koch, Claus",
+        "type": "personal"
+      },
+      {
+        "name": "Albrecht, Ulrich"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Schmitz, Karl M."
+      }
+    ],
+    "date": 1976,
+    "econbiz_created": "2010-09-15T15:38:03Z",
+    "econbiz_id": "10000032479",
+    "extent": [
+      "VIII, 574 Seiten",
+      "Diagramme"
+    ],
+    "identifier_isbn": [
+      "3-509-00918-5"
+    ],
+    "identifier_oclc": [
+      "3210175"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Verlag Otto Schwartz & Co.",
+        "place": "G\u00f6ttingen"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010444191",
+        "title": "Schriften der Kommission f\u00fcr Wirtschaftlichen und Sozialen Wandel",
+        "type": "series",
+        "volume": "110",
+        "zdb_id": "185189-5"
+      }
+    ],
+    "source_id": "020320116",
+    "source_name": "econis",
+    "subject": [
+      "Deutschland",
+      "Forschungspolitik"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "2028808-6",
+        "name": "Deutschland <Bundesrepublik> / Bundesregierung",
+        "type": "corporate"
+      },
+      {
+        "gnd_id": "4184587-0",
+        "name": "Technologiepolitik",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4125050-3",
+        "name": "Forschungspolitik",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE00469223048E88FCBE8C1257919003DB277.pdf"
+    ],
+    "title": "Der Staat und die Steuerung der Wissenschaft : Analyse der Forschungs- und Technologiepolitik der Bundesregierung",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "18.08",
+        "name": "Deutsche Sprache und Literatur"
+      },
+      {
+        "code": "89.56",
+        "name": "Politische Kommunikation"
+      }
+    ],
+    "classification_ddc": [
+      "320"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118617931",
+        "name": "Sternberger, Dolf",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118535870",
+        "name": "Friedrich, Carl J.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "11874402X",
+        "name": "Reifenberg, Benno",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "115446303",
+        "name": "Bermbach, Udo",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "105651826",
+        "name": "Haungs, Peter",
+        "type": "personal"
+      }
+    ],
+    "date": 1968,
+    "description_url": [
+      "http://www.gbv.de/dms/faz-rez/690315_FAZ_0133_BuZ5_0004.pdf"
+    ],
+    "econbiz_created": "2010-09-15T15:38:03Z",
+    "econbiz_id": "10000032508",
+    "extent": [
+      "545 Seiten"
+    ],
+    "identifier_oclc": [
+      "1006669"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Verlag Lambert Schneider",
+        "place": "Heidelberg"
+      }
+    ],
+    "source_id": "020322429",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "4046559-7",
+        "name": "Politische Sprache",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "118617931",
+        "name": "Dolf Sternberger",
+        "type": "personal"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/hbz/toc/ht000570090.pdf"
+    ],
+    "title": "Sprache und Politik : Festgabe f\u00fcr Dolf Sternberger zum sechzigsten Geburtstag",
+    "type": "book",
+    "type_genre": [
+      "Bibliografie",
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "71.00",
+        "name": "Soziologie: Allgemeines"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DXDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "119554380",
+        "name": "Hertz, Friedrich",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "117262943",
+        "name": "Steinmetz, Sebald Rudolf",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118660675",
+        "name": "Boehm, Max Hildebert",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1029609659",
+        "name": "Roffenstein, Gaston",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1157619916",
+        "name": "K\u00e1rm\u00e1n, Elem\u00e9r von",
+        "type": "personal"
+      }
+    ],
+    "date": 1927,
+    "econbiz_created": "2010-09-15T15:38:09Z",
+    "econbiz_id": "10000033499",
+    "extent": [
+      "X, 217 S"
+    ],
+    "identifier_oclc": [
+      "256002075"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Braun",
+        "place": "Karlsruhe"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000356830",
+        "title": "Jahrbuch f\u00fcr Soziologie / Erg\u00e4nzungsband : eine internat. Sammlung",
+        "type": "series",
+        "zdb_id": "217964-7"
+      }
+    ],
+    "source_id": "020386389",
+    "source_name": "econis",
+    "title": "Nation und Nationalit\u00e4t",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "1068385863",
+        "name": "Gerasimov, Sergej A.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1187668494",
+        "name": "Sizov, Nikolaj",
+        "type": "personal"
+      },
+      {
+        "name": "Rosanow, German"
+      },
+      {
+        "name": "Jeshow, Wsewolod"
+      },
+      {
+        "gnd_id": "118509314",
+        "name": "Bere\u017ekov, Valentin M.",
+        "type": "personal"
+      }
+    ],
+    "date": 1967,
+    "econbiz_created": "2010-09-15T15:38:16Z",
+    "econbiz_id": "10000034040",
+    "extent": [
+      "89 S"
+    ],
+    "identifier_oclc": [
+      "256022905"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Stimme Verl.",
+        "place": "Frankfurt/M."
+      }
+    ],
+    "series": [
+      {
+        "title": "Kleine Antworten-Reihe"
+      }
+    ],
+    "source_id": "020437846",
+    "source_name": "econis",
+    "subject": [
+      "Auslandskritik an Deutschland",
+      "UdSSR"
+    ],
+    "title": "Was Sowjetb\u00fcrger von uns denken : f\u00fcnf sowjetische Pers\u00f6nlichkeiten des \u00f6ffentlichen Lebens, Sergej Gerassimow ..., berichten von ihren Eindr\u00fccken und Erfahrungen in der Bundesrepublik Deutschland",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "89.15",
+        "name": "Kommunismus <Politologie>"
+      },
+      {
+        "code": "15.62",
+        "name": "Skandinavien, Nordeuropa <Geschichte>"
+      }
+    ],
+    "classification_ddc": [
+      "335.430948",
+      "335.43/0948"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "1053258151",
+        "name": "Gottlieb, Roland Hermann Adalbert",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "1053258194",
+        "name": "Sparring, \u00c5ke",
+        "type": "personal"
+      },
+      {
+        "name": "Holmgaard, Bergholt"
+      },
+      {
+        "gnd_id": "120966417",
+        "name": "Johansen, Jahn Otto",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1053258143",
+        "name": "Matti, Bengt",
+        "type": "personal"
+      }
+    ],
+    "date": 1966,
+    "econbiz_created": "2010-09-15T15:38:16Z",
+    "econbiz_id": "10000034369",
+    "extent": [
+      "167 S."
+    ],
+    "identifier_oclc": [
+      "8894304"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Verl. Wiss. und Politik",
+        "place": "K\u00f6ln"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010447008",
+        "issn": [
+          "0435-7175"
+        ],
+        "title": "Aktuelle Studien / Bundesinstitut f\u00fcr Ostwissenschaftliche und Internationale Studien",
+        "type": "series",
+        "volume": "Bd. 6",
+        "zdb_id": "521454-3"
+      }
+    ],
+    "source_id": "020471629",
+    "source_name": "econis",
+    "subject": [
+      "Kommunismus",
+      "Nordeuropa",
+      "Parteibeschreibung"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4055209-3",
+        "name": "Skandinavien",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4031900-3",
+        "name": "Kommunistische Partei",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/ub-kiel/020471629.pdf"
+    ],
+    "title": "Kommunisten im Norden",
+    "title_alternative": [
+      "Schweden",
+      "D\u00e4nemark",
+      "Norwegen",
+      "Finnland",
+      "Kommunismen i norden <dt.>"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_corporate": [
+      {
+        "gnd_id": "2014261-4",
+        "name": "Goethe-Universit\u00e4t Frankfurt am Main / Institut f\u00fcr Sozialforschung",
+        "type": "corporate"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-LU",
+      "XP"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "122016254",
+        "name": "Lutz, Burkart",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "116791950",
+        "name": "Friedeburg, Ludwig von",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170042537",
+        "name": "Teschner, Manfred",
+        "type": "personal"
+      },
+      {
+        "name": "Welteke, Reinhart"
+      },
+      {
+        "gnd_id": "170109100",
+        "name": "Weltz, Friedrich",
+        "type": "personal"
+      }
+    ],
+    "date": 1958,
+    "econbiz_created": "2010-09-15T15:38:16Z",
+    "econbiz_id": "10000034481",
+    "extent": [
+      "IV, 281 Bl",
+      "graph. Darst"
+    ],
+    "identifier_oclc": [
+      "256037139"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Johann-Wolfgang-Goethe-Univ., Inst. f\u00fcr Sozialforschung",
+        "place": "Frankfurt/Main"
+      }
+    ],
+    "series": [
+      {
+        "title": "Dok.",
+        "volume": "Nr 6684/58 d."
+      }
+    ],
+    "source_id": "020487223",
+    "source_name": "econis",
+    "subject": [
+      "Rationalisierung",
+      "Eisenh\u00fcttenarbeiter",
+      "Arbeitslohnformen",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4011889-7",
+        "name": "Deutschland <Bundesrepublik>",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4014005-2",
+        "name": "Eisen- und Stahlindustrie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4038177-8",
+        "name": "Mechanisierung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4168068-6",
+        "name": "Lohnform",
+        "type": "topical"
+      }
+    ],
+    "title": "Mechanisierungsgrad und Entlohnungsform : soziologische Untersuchung in der Eisen- und Stahlindustrie ; [Bundesrepublik Deutschland]",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "01.40",
+        "name": "Allgemeine Sammelwerke"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118562053",
+        "name": "Kiesinger, Kurt Georg",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118575015",
+        "name": "L\u00fcbke, Heinrich",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118550578",
+        "name": "Heuss, Theodor",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118530755",
+        "name": "Erhard, Ludwig",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "11850066X",
+        "name": "Adenauer, Konrad",
+        "type": "personal"
+      }
+    ],
+    "date": 1964,
+    "econbiz_created": "2010-09-15T15:38:16Z",
+    "econbiz_id": "10000034534",
+    "extent": [
+      "498 S.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "256039392"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Dt. Verl.-Anst.",
+        "place": "Stuttgart"
+      }
+    ],
+    "source_id": "020492294",
+    "source_name": "econis",
+    "tableOfContents_url": [
+      "https://d-nb.info/451404726/04"
+    ],
+    "title": "F\u00fchrung und Bildung in der heutigen Welt",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "gnd_id": "118500155",
+        "name": "Abendroth, Wolfgang",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118866087",
+        "name": "Ridder, Helmut",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "115739998",
+        "name": "Hannover, Heinrich",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118013815",
+        "name": "Seifert, J\u00fcrgen",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118713566",
+        "name": "Kogon, Eugen",
+        "type": "personal"
+      }
+    ],
+    "date": 1965,
+    "econbiz_created": "2010-09-15T15:38:16Z",
+    "econbiz_id": "10000034665",
+    "extent": [
+      "70 Seiten",
+      "1 Beilage"
+    ],
+    "identifier_oclc": [
+      "256043874"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Stimme-Verlag",
+        "place": "Frankfurt/M."
+      }
+    ],
+    "series": [
+      {
+        "title": "Kleine Antworten-Reihe"
+      }
+    ],
+    "source_id": "020505159",
+    "source_name": "econis",
+    "subject": [
+      "Staatsnotstand",
+      "Staatsnotstandsrecht",
+      "Deutschland"
+    ],
+    "title": "Der totale Notstandsstaat",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "327"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "1055266313",
+        "name": "Sprout, Harold Hance",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1055266321",
+        "name": "Sprout, Margaret",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US",
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "130360112",
+        "name": "Rosenau, James N.",
+        "type": "personal"
+      },
+      {
+        "name": "Davis, Vincent"
+      },
+      {
+        "name": "East, Maurice A."
+      }
+    ],
+    "date": 1972,
+    "econbiz_created": "2010-09-15T15:38:16Z",
+    "econbiz_id": "10000034976",
+    "extent": [
+      "XI, 397 S"
+    ],
+    "identifier_oclc": [
+      "602778"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Free Press [u.a.]",
+        "place": "New York"
+      }
+    ],
+    "source_id": "020535627",
+    "source_name": "econis",
+    "subject": [
+      "Aussenpolitik",
+      "Vereinigte Staaten",
+      "Aussenpolitikwissenschaft"
+    ],
+    "title": "The analysis of international politics : essays in honor of Harold and Margaret Sprout",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.30",
+        "name": "Wirtschaftsentwicklung, Wirtschaftsstruktur: Allgemeines"
+      }
+    ],
+    "classification_ddc": [
+      "309.25"
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "141631554",
+        "name": "Biehl, Dieter",
+        "type": "personal"
+      },
+      {
+        "name": "Hussmann, Eibe"
+      },
+      {
+        "name": "Rautenberg, Kord"
+      },
+      {
+        "name": "Schnyder, Sebastian"
+      },
+      {
+        "name": "S\u00fcdmeyer, Volker"
+      }
+    ],
+    "date": 1975,
+    "econbiz_created": "2010-09-15T15:38:30Z",
+    "econbiz_id": "10000036110",
+    "extent": [
+      "X, 199 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "3-16-337531-6",
+      "3-16-337532-4"
+    ],
+    "identifier_oclc": [
+      "2005707"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Mohr",
+        "place": "T\u00fcbingen"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000363515",
+        "issn": [
+          "0340-6989"
+        ],
+        "title": "Kieler Studien : Forschungsberichte des Instituts f\u00fcr Weltwirtschaft an der Universit\u00e4t Kiel",
+        "type": "series",
+        "volume": "133",
+        "zdb_id": "530280-8"
+      }
+    ],
+    "source_id": "020621043",
+    "source_name": "econis",
+    "subject": [
+      "Raumplanung",
+      "Infrastruktur",
+      "Wirtschaftsstruktur",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4076605-6",
+        "name": "Regionalentwicklung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4121573-4",
+        "name": "Regionale Wirtschaftsstruktur",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4049043-9",
+        "name": "Regionalpolitik",
+        "type": "topical"
+      }
+    ],
+    "title": "Bestimmungsgr\u00fcnde des regionalen Entwicklungspotentials : Infrastruktur, Agglomeration und sektorale Wirtschaftsstruktur",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "08.45",
+        "name": "Politische Philosophie"
+      },
+      {
+        "code": "86.43",
+        "name": "\u00d6ffentliches Recht: Allgemeines"
+      },
+      {
+        "code": "89.35",
+        "name": "Demokratie"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "116529245",
+        "name": "Erbe, Walter",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118573543",
+        "name": "Litt, Theodor",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118729330",
+        "name": "Luchtenberg, Paul",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118750291",
+        "name": "R\u00fcstow, Alexander",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "11728629X",
+        "name": "Wenke, Hans",
+        "type": "personal"
+      }
+    ],
+    "date": 1960,
+    "econbiz_created": "2010-09-15T15:38:37Z",
+    "econbiz_id": "10000037210",
+    "extent": [
+      "149 S"
+    ],
+    "identifier_oclc": [
+      "4353749"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "DVA",
+        "place": "Stuttgart"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010445028",
+        "title": "Schriftenreihe der Friedrich-Naumann-Stiftung zur Politik und Zeitgeschichte",
+        "type": "series",
+        "volume": "1",
+        "zdb_id": "257728-8"
+      }
+    ],
+    "source_id": "020708009",
+    "source_name": "econis",
+    "subject": [
+      "Demokratie",
+      "Liberalismus",
+      "Schulpolitik",
+      "Schulunterricht",
+      "Deutschland",
+      "Kulturpolitik"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4276363-0",
+        "name": "Massendemokratie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4276084-7",
+        "name": "Gedankenfreiheit",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4018326-9",
+        "name": "Freiheit",
+        "type": "topical"
+      }
+    ],
+    "title": "Die geistige und politische Freiheit in der Massendemokratie",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.87",
+        "name": "USA <Geschichte>"
+      }
+    ],
+    "classification_ddc": [
+      "320.1"
+    ],
+    "countryOfPublication": [
+      "XA-DXDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118545302",
+        "name": "Hamilton, Alexander",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118711962",
+        "name": "Jefferson, Thomas",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "11876439X",
+        "name": "Washington, George",
+        "type": "personal"
+      },
+      {
+        "name": "Rein, Adolf"
+      },
+      {
+        "name": "Rein, Helga"
+      }
+    ],
+    "date": 1923,
+    "econbiz_created": "2010-09-15T15:38:44Z",
+    "econbiz_id": "10000038209",
+    "extent": [
+      "188 S."
+    ],
+    "identifier_oclc": [
+      "8662168"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Hobbing",
+        "place": "Berlin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10010446366",
+        "title": "Klassiker der Politik",
+        "type": "series",
+        "volume": "7",
+        "zdb_id": "503311-1"
+      }
+    ],
+    "source_id": "020769563",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "4078704-7",
+        "name": "USA",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4042483-2",
+        "name": "Nordamerika",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4001670-5",
+        "name": "Amerika",
+        "type": "geographic"
+      }
+    ],
+    "title": "Die drei gro\u00dfen Amerikaner Hamilton, Jefferson, Washington : Ausz\u00fcge aus ihren Werken",
+    "type": "book",
+    "type_genre": [
+      "Biografie"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "330.942",
+      "330.9/42"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Coleman, Donald Cuthbert"
+      },
+      {
+        "name": "Fisher, Frederick Jack"
+      },
+      {
+        "name": "Coleman, Donald C."
+      },
+      {
+        "gnd_id": "119009528",
+        "name": "Fisher, Frederick J.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "John, A. H."
+      }
+    ],
+    "date": 1976,
+    "econbiz_created": "2010-09-15T15:38:44Z",
+    "econbiz_id": "10000038229",
+    "extent": [
+      "302 S",
+      "Ill., graph.Darst"
+    ],
+    "identifier_isbn": [
+      "0-297-77179-5"
+    ],
+    "identifier_oclc": [
+      "2654892"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Weidenfeld and Nicolson",
+        "place": "London"
+      }
+    ],
+    "source_id": "020770936",
+    "source_name": "econis",
+    "subject": [
+      "Aussenwirtschaftsgeschichte",
+      "Wirtschaftsgeschichte",
+      "Wirtschaft und Staat",
+      "Gro\u00dfbritannien"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "119009528",
+        "name": "Frederick J. Fisher",
+        "type": "personal"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Industrialisierung",
+        "name_en": "Industrialization",
+        "stw_id": "10500-2"
+      },
+      {
+        "name_de": "Wirtschaftsgeschichte",
+        "name_en": "Economic history",
+        "stw_id": "15706-6"
+      },
+      {
+        "name_de": "Gro\u00dfbritannien",
+        "name_en": "United Kingdom",
+        "stw_id": "17374-2"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://swbplus.bsz-bw.de/bsz005736935inh.htm"
+    ],
+    "title": "Trade, government and economy in pre-industrial England : essays presented to F. J. Fisher",
+    "type": "book",
+    "type_genre": [
+      "Bibliografie",
+      "Festschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "330.12"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Duffy, William J."
+      },
+      {
+        "gnd_id": "170043649",
+        "name": "Brown, Alan A.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170899748",
+        "name": "Johnson, F. Reed",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170175863",
+        "name": "Licari, Joseph A.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US",
+      "XA-GB",
+      "XE-AU"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "170043436",
+        "name": "Neuberger, Egon",
+        "type": "personal"
+      }
+    ],
+    "date": 1976,
+    "econbiz_created": "2010-09-15T15:38:44Z",
+    "econbiz_id": "10000038916",
+    "extent": [
+      "vi, 378 Seiten",
+      "Diagramme",
+      "24 cm"
+    ],
+    "identifier_isbn": [
+      "0-205-04850-1"
+    ],
+    "identifier_oclc": [
+      "1366195"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Allyn and Bacon, Inc.",
+        "place": "Boston"
+      }
+    ],
+    "source_id": "020814690",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsordnung",
+      "Wirtschaftliche Entscheidung",
+      "Wirtschaftslenkung"
+    ],
+    "title": "Comparative economic systems : a decision-making approach",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "335.009"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118513648",
+        "name": "Born, Stephan",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118578537",
+        "name": "Marx, Karl",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118530380",
+        "name": "Engels, Friedrich",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118569910",
+        "name": "Lassalle, Ferdinand",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DDDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118747754",
+        "name": "Oschilewski, Walther G.",
+        "type": "personal"
+      }
+    ],
+    "date": 1956,
+    "econbiz_created": "2010-09-15T15:38:51Z",
+    "econbiz_id": "10000039394",
+    "extent": [
+      "94 S.",
+      "Ill.",
+      "22 cm"
+    ],
+    "identifier_oclc": [
+      "14155510"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Arani",
+        "place": "Berlin-Grunewald"
+      }
+    ],
+    "source_id": "020843348",
+    "source_name": "econis",
+    "subject": [
+      "Arbeiterbewegung",
+      "Sozialismus",
+      "Deutschland <bis 1945>",
+      "Berlin"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4005728-8",
+        "name": "Berlin",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4006804-3",
+        "name": "Biografie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4020517-4",
+        "name": "Geschichte",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4055786-8",
+        "name": "Sozialist",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "118569910",
+        "name": "Ferdinand Lassalle",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118513648",
+        "name": "Stephan Born",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118578537",
+        "name": "Karl Marx",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118530380",
+        "name": "Friedrich Engels",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "4055785-6",
+        "name": "Sozialismus",
+        "type": "topical"
+      }
+    ],
+    "title": "Grosse Sozialisten in Berlin : Born, Marx, Engels, Lassalle",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "85.15",
+        "name": "Forschung und Entwicklung <Betriebswirtschaft>"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "122335872",
+        "name": "Mansfield, Edwin",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Rapoport, John"
+      },
+      {
+        "name": "Schnee, Jerome"
+      },
+      {
+        "name": "Wagner, Samuel"
+      },
+      {
+        "name": "Hamburger, Michael"
+      }
+    ],
+    "date": 1971,
+    "econbiz_created": "2010-09-15T15:38:58Z",
+    "econbiz_id": "10000040301",
+    "edition": [
+      "1. ed."
+    ],
+    "extent": [
+      "X, 239 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-393-09826-5"
+    ],
+    "identifier_oclc": [
+      "25377535"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Norton",
+        "place": "New York"
+      }
+    ],
+    "source_id": "020921500",
+    "source_name": "econis",
+    "subject": [
+      "Industrieforschung",
+      "Innovation",
+      "Produktgestaltung",
+      "Technischer Fortschritt",
+      "Arzneimittelindustrie",
+      "Vereinigte Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4017897-3",
+        "name": "Forschung und Entwicklung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4061963-1",
+        "name": "Unternehmen",
+        "type": "topical"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Forschung",
+        "name_en": "Research",
+        "stw_id": "10436-6"
+      },
+      {
+        "name_de": "Innovation",
+        "name_en": "Innovation",
+        "stw_id": "10459-1"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "Industrieforschung",
+        "name_en": "Industrial research",
+        "stw_id": "18461-2"
+      },
+      {
+        "name_de": "Innovationsmanagement",
+        "name_en": "Innovation management",
+        "stw_id": "19548-6"
+      }
+    ],
+    "title": "Research and innovation in the modern corporation",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "80.02",
+        "name": "Philosophie und Theorie der P\u00e4dagogik"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118616390",
+        "name": "Spranger, Eduard",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "107660342",
+        "name": "B\u00e4hr, Hans Walter",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118573543",
+        "name": "Litt, Theodor",
+        "type": "personal"
+      },
+      {
+        "name": "Louvaris, Nikolaus"
+      },
+      {
+        "gnd_id": "11728629X",
+        "name": "Wenke, Hans",
+        "type": "personal"
+      }
+    ],
+    "date": 1957,
+    "econbiz_created": "2010-09-15T15:39:05Z",
+    "econbiz_id": "10000041205",
+    "extent": [
+      "VIII, 638 S."
+    ],
+    "identifier_oclc": [
+      "7218229"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Niemeyer",
+        "place": "T\u00fcbingen"
+      }
+    ],
+    "source_id": "020999518",
+    "source_name": "econis",
+    "subject": [
+      "Humanismus",
+      "Bildung",
+      "Erziehung",
+      "Kulturphilosophie"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118616390",
+        "name": "Eduard Spranger",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "4070955-3",
+        "name": "Erziehungsphilosophie",
+        "type": "topical"
+      }
+    ],
+    "title": "Erziehung zur Menschlichkeit : die Bildung im Umbruch der Zeit ; Festschrift f\u00fcr Eduard Spranger zum 75. Geburtstag, 27. Juni 1957",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.86",
+        "name": "Europarecht: Allgemeines"
+      }
+    ],
+    "classification_ddc": [
+      "327.4",
+      "0905",
+      "0904",
+      "944",
+      "327.4404"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "138469180",
+        "name": "Rideau, Jo\u00ebl",
+        "type": "personal"
+      },
+      {
+        "name": "Dupuy, Ren\u00e9 J."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-FR"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "1167824695",
+        "name": "Gerbet, Pierre",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "17005943X",
+        "name": "Torrelli, Maurice",
+        "type": "personal"
+      },
+      {
+        "name": "Chevallier, Roger-Michel"
+      }
+    ],
+    "date": 1975,
+    "econbiz_created": "2010-09-15T15:39:05Z",
+    "econbiz_id": "10000041277",
+    "extent": [
+      "XIV, 1070 S."
+    ],
+    "identifier_isbn": [
+      "2-275-01351-2"
+    ],
+    "identifier_oclc": [
+      "3052460"
+    ],
+    "language": [
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Librairie G\u00e9n\u00e9rale de Droit et de Jurisprudence",
+        "place": "Paris"
+      }
+    ],
+    "source_id": "02100658X",
+    "source_name": "econis",
+    "subject": [
+      "Staatssouver\u00e4nit\u00e4t",
+      "Frankreich",
+      "Staatenneubildung",
+      "Wirtschaftsunion",
+      "EG-Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "35439-9",
+        "name": "Europ\u00e4ische Gemeinschaften",
+        "type": "corporate"
+      },
+      {
+        "gnd_id": "4018145-5",
+        "name": "Frankreich",
+        "type": "geographic"
+      }
+    ],
+    "title": "La France et les Communaut\u00e9s europ\u00e9ennes",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "89.14",
+        "name": "Sozialismus"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118710249",
+        "name": "Parvus",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "115472207",
+        "name": "Grunenberg, Antonia",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118575503",
+        "name": "Luxemburg, Rosa",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118560808",
+        "name": "Kautsky, Karl",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "119132761",
+        "name": "Pannekoek, Anton",
+        "type": "personal"
+      }
+    ],
+    "date": 1970,
+    "econbiz_created": "2010-09-15T15:39:12Z",
+    "econbiz_id": "10000042852",
+    "extent": [
+      "413 S.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "164613321"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Europ\u00e4ische Verl.-Anst.",
+        "place": "Frankfurt [am Main]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Arbeiterbewegung"
+      }
+    ],
+    "source_id": "021231516",
+    "source_name": "econis",
+    "subject": [
+      "Streik",
+      "Deutschland <bis 1945>"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4011882-4",
+        "name": "Deutschland",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4002581-0",
+        "name": "Arbeiterbewegung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4058029-5",
+        "name": "Streik",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4148952-4",
+        "name": "Debatte",
+        "type": "topical"
+      }
+    ],
+    "title": "Die Massenstreikdebatte",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "630.681"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Urff, Winfried von"
+      },
+      {
+        "gnd_id": "118793349",
+        "name": "Priebe, Hermann",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "143529609",
+        "name": "Bleckmann, Ernst-Guenter",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Ort, Walter"
+      },
+      {
+        "name": "Bleckmann, Ernst-G\u00fcnter"
+      }
+    ],
+    "date": 1975,
+    "description_url": [
+      "http://www.gbv.de/dms/faz-rez/750826_FAZ_0010_10_0007.pdf"
+    ],
+    "econbiz_created": "2010-09-15T15:39:19Z",
+    "econbiz_id": "10000043124",
+    "extent": [
+      "612 S",
+      "graph. Darst",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-7890-0108-2"
+    ],
+    "identifier_oclc": [
+      "1603741"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Nomos Verlagsges.",
+        "place": "Baden-Baden"
+      }
+    ],
+    "source_id": "02125138X",
+    "source_name": "econis",
+    "subject": [
+      "Agrarpolitik",
+      "EG-Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118793349",
+        "name": "Hermann Priebe",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "35439-9",
+        "name": "Europ\u00e4ische Gemeinschaften",
+        "type": "corporate"
+      },
+      {
+        "gnd_id": "4000771-6",
+        "name": "Agrarpolitik",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/750295759/04",
+      "http://swbplus.bsz-bw.de/bsz005064759inh.htm"
+    ],
+    "title": "Der Agrarsektor im Integrationsproze\u00df : Hermann Priebe zum 65. Geburtstag",
+    "type": "book",
+    "type_genre": [
+      "Bibliografie",
+      "Aufsatzsammlung",
+      "Festschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "89.14",
+        "name": "Sozialismus"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118560808",
+        "name": "Kautsky, Karl",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DXDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "124511996",
+        "name": "Jenssen, Otto",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118500716",
+        "name": "Adler, Max",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118507346",
+        "name": "Bauer, Otto",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "130255440",
+        "name": "Braunthal, Alfred",
+        "type": "personal"
+      }
+    ],
+    "date": 1924,
+    "econbiz_created": "2010-09-15T15:39:19Z",
+    "econbiz_id": "10000043254",
+    "extent": [
+      "610 S.",
+      "Portr., graph. Darst."
+    ],
+    "identifier_oclc": [
+      "256381408"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Th\u00fcringer Verl.-Anst.",
+        "place": "Jena"
+      }
+    ],
+    "source_id": "021262985",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "4037764-7",
+        "name": "Marxismus",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4055785-6",
+        "name": "Sozialismus",
+        "type": "topical"
+      }
+    ],
+    "title": "Der lebendige Marxismus : Festgabe zum 70. Geburtstage von Karl Kautsky",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "contributor_personal": [
+      {
+        "gnd_id": "118500155",
+        "name": "Abendroth, Wolfgang",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1105081176",
+        "name": "Kliem, Kurt",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE",
+      "XE-AU"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118507346",
+        "name": "Bauer, Otto",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118577638",
+        "name": "Marcuse, Herbert",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118749749",
+        "name": "Rosenberg, Arthur",
+        "type": "personal"
+      }
+    ],
+    "date": 1967,
+    "econbiz_created": "2010-09-15T15:39:19Z",
+    "econbiz_id": "10000043273",
+    "edition": [
+      "2. Aufl., 4.-5. Tsd."
+    ],
+    "extent": [
+      "185 S.",
+      "8\u00b0"
+    ],
+    "identifier_oclc": [
+      "256381683"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Europ. Verl.-Anst. [u.a.]",
+        "place": "Frankfurt am Main"
+      }
+    ],
+    "series": [
+      {
+        "title": "Politische Texte"
+      }
+    ],
+    "source_id": "021266018",
+    "source_name": "econis",
+    "subject": [
+      "Kapitalismus",
+      "Faschismus"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4029577-1",
+        "name": "Kapitalismus",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4016494-9",
+        "name": "Faschismus",
+        "type": "topical"
+      }
+    ],
+    "title": "Faschismus und Kapitalismus : Theorien \u00fcber die sozialen Urspr\u00fcnge und die Funktion des Faschismus",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aar",
+    "classification_ddc": [
+      "330/.0724",
+      "330/.724"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Paelinck, J. H."
+      },
+      {
+        "name": "Ancot, Jean-Pierre"
+      },
+      {
+        "name": "Ancot, J. P."
+      },
+      {
+        "name": "Kuiper, J. H."
+      }
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "12193523X",
+        "name": "Paelinck, Jean H. P.",
+        "type": "personal"
+      }
+    ],
+    "date": 1983,
+    "econbiz_created": "2010-09-15T15:39:19Z",
+    "econbiz_id": "10000043304",
+    "extent": [
+      "XI, 384 S",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-566-00477-1"
+    ],
+    "identifier_oclc": [
+      "9972998"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Gower",
+        "place": "Aldershot"
+      }
+    ],
+    "series": [
+      {
+        "title": "Studies in spatial analysis."
+      }
+    ],
+    "source_id": "021268509",
+    "source_name": "econis",
+    "subject": [
+      "Raumwirtschaftstheorie"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4177424-3",
+        "name": "Regionalforschung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4062644-1",
+        "name": "Verbraucherverhalten",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4059787-8",
+        "name": "Theorie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4132280-0",
+        "name": "\u00d6konometrie",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4027105-5",
+        "name": "Input-Output-Analyse",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4076605-6",
+        "name": "Regionalentwicklung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4155620-3",
+        "name": "Mathematische Methode",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4299244-8",
+        "name": "Regionalanalyse",
+        "type": "topical"
+      }
+    ],
+    "title": "Formal spatial economic analysis",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "312.4"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118936948",
+        "name": "Cipolla, Carlo M.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Russell, John Conrad"
+      },
+      {
+        "gnd_id": "102289816",
+        "name": "Russell, Josiah Cox",
+        "type": "personal"
+      },
+      {
+        "name": "Mols, Roger"
+      },
+      {
+        "gnd_id": "133485013",
+        "name": "Armengaud, Andr\u00e9",
+        "type": "personal"
+      }
+    ],
+    "date": 1971,
+    "econbiz_created": "2010-09-15T15:39:19Z",
+    "econbiz_id": "10000043485",
+    "extent": [
+      "183 S",
+      "graph. Darst., Kt.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-492-00319-2"
+    ],
+    "identifier_oclc": [
+      "4314611"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Piper",
+        "place": "M\u00fcnchen"
+      }
+    ],
+    "series": [
+      {
+        "title": "Serie Piper",
+        "volume": "19"
+      }
+    ],
+    "source_id": "021289603",
+    "source_name": "econis",
+    "subject": [
+      "Bev\u00f6lkerungsgeschichte",
+      "Bev\u00f6lkerungskapazit\u00e4t",
+      "Wirtschaftsgeschichte",
+      "Industrialisierung"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4006287-9",
+        "name": "Bev\u00f6lkerung",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4015701-5",
+        "name": "Europa",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4006292-2",
+        "name": "Bev\u00f6lkerungsentwicklung",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/720118999/04"
+    ],
+    "title": "Bev\u00f6lkerungsgeschichte Europas : Mittelalter bis Neuzeit",
+    "title_alternative": [
+      "The Fontana economic history of Europe <dt.>"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Hochschulschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "341.094",
+      "341.24/2",
+      "341.242/2"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Dikshoorn, C."
+      },
+      {
+        "name": "Mitchell, J. D. B."
+      }
+    ],
+    "countryOfPublication": [
+      "XA-GB",
+      "XA-NL"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "12812959X",
+        "name": "Kapteyn, Paul J. G.",
+        "type": "personal"
+      },
+      {
+        "name": "Kapteyn, Paul Joan George"
+      },
+      {
+        "gnd_id": "108555380",
+        "name": "VerLoren van Themaat, Pieter",
+        "type": "personal"
+      }
+    ],
+    "date": 1973,
+    "econbiz_created": "2010-09-15T15:39:19Z",
+    "econbiz_id": "10000043748",
+    "extent": [
+      "XX, 433 S.",
+      "8"
+    ],
+    "identifier_isbn": [
+      "0-421-19420-0",
+      "90-6002-178-9",
+      "90-14-02261-1"
+    ],
+    "identifier_oclc": [
+      "875344"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Sweet & Maxwell [u.a.]",
+        "place": "London [u.a.]"
+      }
+    ],
+    "source_id": "021325316",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsunion",
+      "Atomenergieunion",
+      "Eisen",
+      "Kohle",
+      "Wirtschaftskonzentration",
+      "EG-Staaten"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "5098525-5",
+        "name": "Europ\u00e4ische Union",
+        "type": "corporate"
+      },
+      {
+        "gnd_id": "4048737-4",
+        "name": "Recht",
+        "type": "topical"
+      }
+    ],
+    "title": "Introduction to the law of the European Communities after the accession of new member states",
+    "title_alternative": [
+      "Inleiding tot het recht van de Europese Gemeenschappen <engl.>"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Einf\u00fchrung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "89.92",
+        "name": "Ost-West-Verh\u00e4ltnis"
+      },
+      {
+        "code": "89.73",
+        "name": "Europapolitik, Europ\u00e4ische Union"
+      }
+    ],
+    "classification_ddc": [
+      "321.02094"
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "2004654-6",
+        "name": "Bildungswerk Europ\u00e4ische Politik",
+        "type": "corporate"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "140771751",
+        "name": "Bu\u00dfmann, Bernhard",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "171078330",
+        "name": "Zellentin, Gerda",
+        "type": "personal"
+      },
+      {
+        "name": "Hindrichs, G\u00fcnter"
+      },
+      {
+        "gnd_id": "119225735",
+        "name": "Koppe, Karlheinz",
+        "type": "personal"
+      },
+      {
+        "name": "Siegler, Heinrich von"
+      }
+    ],
+    "date": 1966,
+    "econbiz_created": "2010-09-15T15:39:27Z",
+    "econbiz_id": "10000044123",
+    "extent": [
+      "386 S.",
+      "Tab."
+    ],
+    "identifier_oclc": [
+      "11661218"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Europa Union Verl.",
+        "place": "K\u00f6ln"
+      }
+    ],
+    "source_id": "021364524",
+    "source_name": "econis",
+    "subject": [
+      "Aussenwirtschaftsbeziehungen",
+      "Politische Zeitfragen",
+      "Aussenpolitische Dokumentensammlung",
+      "Europa"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4044123-4",
+        "name": "Ost-West-Beziehungen",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4071013-0",
+        "name": "Europ\u00e4ische Integration",
+        "type": "topical"
+      }
+    ],
+    "title": "Wege nach Gesamteuropa : Dokumentation der Beziehungen zwischen West- und Osteuropa 1943 - 1965",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "31.73",
+        "name": "Mathematische Statistik"
+      }
+    ],
+    "classification_ddc": [
+      "330 s",
+      "519.5/5"
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Nullau, Bruno"
+      },
+      {
+        "gnd_id": "170512711",
+        "name": "Heiler, Siegfried",
+        "type": "personal"
+      },
+      {
+        "name": "W\u00e4sch, Peter"
+      },
+      {
+        "name": "Meisner, Barbara"
+      },
+      {
+        "gnd_id": "170148912",
+        "name": "Filip, Detlef",
+        "type": "personal"
+      }
+    ],
+    "date": 1969,
+    "econbiz_created": "2010-09-15T15:39:27Z",
+    "econbiz_id": "10000044924",
+    "extent": [
+      "101 S",
+      "4\u00b0"
+    ],
+    "identifier_oclc": [
+      "4017564"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Duncker u. Humblot",
+        "place": "Berlin"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000362034",
+        "issn": [
+          "0522-9472"
+        ],
+        "title": "DIW-Beitr\u00e4ge zur Strukturforschung",
+        "type": "series",
+        "volume": "7",
+        "zdb_id": "504011-5"
+      }
+    ],
+    "source_id": "021430136",
+    "source_name": "econis",
+    "subject": [
+      "Konjunkturstatistik",
+      "Statistik Zeitreihe"
+    ],
+    "title": "Das \"Berliner Verfahren\" : ein Beitrag zur Zeitreihenanalyse",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.43",
+        "name": "Deutsche Geschichte des 19. Jahrhunderts bis zur Gegenwart"
+      }
+    ],
+    "classification_ddc": [
+      "940.5314443"
+    ],
+    "contributor_corporate": [
+      {
+        "gnd_id": "5501794-0",
+        "name": "Arbeitsgemeinschaft Das Demokratische Deutschland",
+        "type": "corporate"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-CH",
+      "XA-DXDE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "11741218X",
+        "name": "Wirth, Joseph",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118514636",
+        "name": "Braun, Otto",
+        "type": "personal"
+      },
+      {
+        "name": "Haegner, Wilhelm"
+      },
+      {
+        "gnd_id": "125187726",
+        "name": "Kindt-Kiefer, Johann J.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "116574461",
+        "name": "Ritzel, Heinrich Georg",
+        "type": "personal"
+      }
+    ],
+    "date": 1945,
+    "econbiz_created": "2010-09-15T15:39:34Z",
+    "econbiz_id": "10000045121",
+    "extent": [
+      "24 S."
+    ],
+    "identifier_oclc": [
+      "12261733"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Haupt",
+        "place": "Bern [u.a.]"
+      }
+    ],
+    "source_id": "021444803",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "4011882-4",
+        "name": "Deutschland",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4065958-6",
+        "name": "Wiederaufbau",
+        "type": "topical"
+      }
+    ],
+    "title": "Das demokratische Deutschland : Grunds\u00e4tze und Richtlinien f\u00fcr den deutschen Wiederaufbau im demokratischen, republikanischen, f\u00f6deralistischen und genossenschaftlichen Sinne",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "025/.02/02854"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "115892531X",
+        "name": "Mott, Thomas Hezekiah",
+        "type": "personal"
+      },
+      {
+        "name": "Struminger, Leni"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US",
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Mott, Thomas H."
+      },
+      {
+        "name": "Artandi, Susan"
+      },
+      {
+        "name": "Struminger, Leny"
+      }
+    ],
+    "date": 1972,
+    "econbiz_created": "2010-09-15T15:39:48Z",
+    "econbiz_id": "10000047299",
+    "extent": [
+      "XVII, 231 S"
+    ],
+    "identifier_isbn": [
+      "0-12-508750-0"
+    ],
+    "identifier_oclc": [
+      "466220"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Acad. Press",
+        "place": "New York [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Library and information science"
+      }
+    ],
+    "source_id": "021665893",
+    "source_name": "econis",
+    "subject": [
+      "Bibliotheksbetrieb",
+      "Information",
+      "Dokumentation",
+      "Elektronik"
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE00401A6F15564CCA588C1257A20003D365C.pdf"
+    ],
+    "title": "Introduction to PL/I programming for library and information science",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Afu",
+    "contributor_personal": [
+      {
+        "gnd_id": "1123974209",
+        "name": "Consbruch, Johannes",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "122054253",
+        "name": "Fischer, Reinfrid",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170310760",
+        "name": "M\u00f6ller, Annemarie",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1097924246",
+        "name": "B\u00e4hre, Inge Lore",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "1123973628",
+        "name": "Schneider, Manfred",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "date": 1963,
+    "econbiz_created": "2010-09-15T15:39:48Z",
+    "econbiz_id": "10000047542",
+    "extent": [
+      "Losebl.-Ausg.",
+      "20 cm"
+    ],
+    "identifier_oclc": [
+      "830681340"
+    ],
+    "isPartOf": [
+      {
+        "econbiz_id": "10001392260",
+        "isbn": "3-406-30560-1",
+        "title": "Kreditwesengesetz : Bank-, Bankaufsichts- und Kapitalmarktrecht mit amtlichen Verlautbarungen : Textsammlung",
+        "type": "set",
+        "volume": "Band 1"
+      }
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Beck",
+        "place": "M\u00fcnchen"
+      }
+    ],
+    "source_id": "021698023",
+    "source_name": "econis",
+    "title": "Kreditwesengesetz ; Band 1",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "336.73"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "108825639",
+        "name": "Blinder, Alan S.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US"
+    ],
+    "creator_personal": [
+      {
+        "name": "Solow, Robert M."
+      },
+      {
+        "name": "Break, George F."
+      },
+      {
+        "name": "Steiner, Peter O."
+      },
+      {
+        "name": "Netzer, Dick"
+      }
+    ],
+    "date": 1974,
+    "econbiz_created": "2010-09-15T15:39:55Z",
+    "econbiz_id": "10000048446",
+    "extent": [
+      "XVI, 435 S",
+      "graph. Darst"
+    ],
+    "identifier_isbn": [
+      "0-8157-0997-8",
+      "0-8157-0998-6"
+    ],
+    "identifier_oclc": [
+      "922623"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Brookings Institution",
+        "place": "Washington DC"
+      }
+    ],
+    "series": [
+      {
+        "title": "Studies of government finance"
+      }
+    ],
+    "source_id": "021811326",
+    "source_name": "econis",
+    "subject": [
+      "Finanzen",
+      "Steuer",
+      "Vereinigte Staaten",
+      "Finanzpolitik",
+      "Finanzhaushalt"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4017214-4",
+        "name": "Finanzwirtschaft",
+        "type": "topical"
+      }
+    ],
+    "subject_stw_added": [
+      {
+        "name_de": "Finanzwissenschaft",
+        "name_en": "Public economics",
+        "stw_id": "11526-0"
+      },
+      {
+        "name_de": "\u00d6ffentliche Finanzen",
+        "name_en": "Public finance",
+        "stw_id": "11540-6"
+      },
+      {
+        "name_de": "USA",
+        "name_en": "United States",
+        "stw_id": "17829-1"
+      },
+      {
+        "name_de": "Theorie",
+        "name_en": "Theory",
+        "stw_id": "19073-6"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/bowker/toc/9780815709985.pdf",
+      "http://swbplus.bsz-bw.de/bsz004755146inh.htm"
+    ],
+    "title": "The economics of public finance : essays",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.84",
+        "name": "V\u00f6lkerrecht: Allgemeines"
+      }
+    ],
+    "classification_ddc": [
+      "34122",
+      "341.02"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "119195690",
+        "name": "Zemanek, Karl",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118550659",
+        "name": "Heydte, Friedrich August von der",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118841149",
+        "name": "Seidl-Hohenveldern, Ignaz",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118626663",
+        "name": "Verosta, Stephan",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "11862654X",
+        "name": "Verdross, Alfred",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-AT"
+    ],
+    "date": 1960,
+    "econbiz_created": "2010-09-15T15:39:55Z",
+    "econbiz_id": "10000048539",
+    "extent": [
+      "345 Seiten",
+      "Illustrationen"
+    ],
+    "identifier_oclc": [
+      "5904651"
+    ],
+    "language": [
+      "deu",
+      "eng",
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Springer-Verlag",
+        "place": "Wien"
+      }
+    ],
+    "source_id": "021814449",
+    "source_name": "econis",
+    "subject": [
+      "Pers\u00f6nlichkeiten Wissenschaft",
+      "\u00d6sterreich",
+      "Recht"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4063693-8",
+        "name": "V\u00f6lkerrecht",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "11862654X",
+        "name": "Alfred Verdross",
+        "type": "personal"
+      }
+    ],
+    "title": "V\u00f6lkerrecht und rechtliches Weltbild : Festschrift f\u00fcr Alfred Verdross",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Bibliografie"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_ddc": [
+      "343.072/0943"
+    ],
+    "contributor_personal": [
+      {
+        "name": "Gutzler, Helmut"
+      },
+      {
+        "gnd_id": "118543245",
+        "name": "G\u00fcnther, Eberhard",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "120657503",
+        "name": "Blum, Reinhard",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "name": "Herion, Wolfgang"
+      },
+      {
+        "gnd_id": "122020324",
+        "name": "Kaiser, Joseph H.",
+        "type": "personal"
+      }
+    ],
+    "date": 1976,
+    "description_url": [
+      "http://www.gbv.de/dms/faz-rez/770119_FAZ_0014_14_0007.pdf"
+    ],
+    "econbiz_created": "2010-09-15T15:39:55Z",
+    "econbiz_id": "10000048557",
+    "edition": [
+      "1. Aufl."
+    ],
+    "extent": [
+      "504 S.",
+      "graph. Darst.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-7890-0250-X"
+    ],
+    "identifier_oclc": [
+      "3070783"
+    ],
+    "language": [
+      "deu",
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Nomos-Verl.-Ges.",
+        "place": "Baden-Baden"
+      }
+    ],
+    "source_id": "021815615",
+    "source_name": "econis",
+    "subject": [
+      "Wettbewerb",
+      "Wettbewerbsbeschr\u00e4nkung",
+      "Wirtschaftskonzentration",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4011889-7",
+        "name": "Deutschland <Bundesrepublik>",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4065839-9",
+        "name": "Wettbewerbspolitik",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/770138764/04",
+      "http://swbplus.bsz-bw.de/bsz00542626xinh.htm"
+    ],
+    "title": "Wettbewerb im Wandel : Eberhard G\u00fcnther zum 65. Geburtstag",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Festschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "83.11",
+        "name": "Mikro\u00f6konomie"
+      }
+    ],
+    "classification_ddc": [
+      "338.5076",
+      "338.5"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "124807682",
+        "name": "Taylor, Lance",
+        "type": "personal"
+      },
+      {
+        "name": "Roberts, Marc"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-NL",
+      "XD-US",
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "134065387",
+        "name": "Dixon, Peter B.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "120898241",
+        "name": "Bowles, Samuel",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "129364126",
+        "name": "Kendrick, David A.",
+        "type": "personal"
+      }
+    ],
+    "date": 1980,
+    "econbiz_created": "2010-09-15T15:40:02Z",
+    "econbiz_id": "10000049176",
+    "extent": [
+      "XVII, 320 S.",
+      "graph. Darst."
+    ],
+    "identifier_isbn": [
+      "0-444-85325-1"
+    ],
+    "identifier_oclc": [
+      "5493210"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "North-Holland Publ.",
+        "place": "Amsterdam [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000429681",
+        "issn": [
+          "0169-5568"
+        ],
+        "title": "Advanced textbooks in economics",
+        "type": "series",
+        "volume": "15",
+        "zdb_id": "121700-8"
+      }
+    ],
+    "source_id": "021836140",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftswissenschaftliche Einf\u00fchrungsschrift",
+      "Niederlande",
+      "Wirtschaftstheorie Mikro\u00f6konomie"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4039225-9",
+        "name": "Mikro\u00f6konomie",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE004A228A2A5C3BF1933C125793E003CCD29.pdf"
+    ],
+    "title": "Notes and problems in microeconomic theory",
+    "type": "book",
+    "type_genre": [
+      "Einf\u00fchrung"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "15.09",
+        "name": "Wirtschaftsgeschichte"
+      },
+      {
+        "code": "15.61",
+        "name": "Tschechien, Slowakei, Ungarn <Geschichte>"
+      }
+    ],
+    "classification_ddc": [
+      "380.09437",
+      "380/.09437"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "12864754X",
+        "name": "Urban, Rudolf",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170359549",
+        "name": "Hamel, Hannelore",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "12373603X",
+        "name": "Wagner, Ulrich",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "171023099",
+        "name": "Knauff, Rudolf",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "172134285",
+        "name": "Hensel, Karl Paul",
+        "type": "personal"
+      }
+    ],
+    "date": 1968,
+    "description_url": [
+      "http://www.gbv.de/dms/faz-rez/681214_FAZ_0021_21_0002.pdf"
+    ],
+    "econbiz_created": "2010-09-15T15:40:02Z",
+    "econbiz_id": "10000049186",
+    "extent": [
+      "X, 379 S.",
+      "21 cm"
+    ],
+    "identifier_oclc": [
+      "4366923"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Fischer",
+        "place": "Stuttgart"
+      }
+    ],
+    "series": [
+      {
+        "econbiz_id": "10000362097",
+        "issn": [
+          "0582-0243"
+        ],
+        "title": "Schriften zum Vergleich von Wirtschaftsordnungen",
+        "type": "series",
+        "volume": "12",
+        "zdb_id": "504520-4"
+      }
+    ],
+    "source_id": "021836345",
+    "source_name": "econis",
+    "subject": [
+      "Wirtschaftsordnung",
+      "Tschechoslowakei"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4078435-6",
+        "name": "Tschechoslowakei",
+        "type": "geographic"
+      },
+      {
+        "gnd_id": "4055817-4",
+        "name": "Sozialistische Marktwirtschaft",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/458178276/04"
+    ],
+    "title": "Die sozialistische Marktwirtschaft in der Tschechoslowakei",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung"
+    ]
+  },
+  {
+    "_pica_002@": "Aar",
+    "contributor_personal": [
+      {
+        "gnd_id": "118578537",
+        "name": "Marx, Karl",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118661116",
+        "name": "Boisguilbert, Pierre Le Pesant de",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118743163",
+        "name": "Quesnay, Fran\u00e7ois",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118727621",
+        "name": "Leontief, Wassily W.",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-BE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "132785285",
+        "name": "Nagels, Jacques",
+        "type": "personal"
+      }
+    ],
+    "date": 1970,
+    "econbiz_created": "2010-09-15T15:40:02Z",
+    "econbiz_id": "10000049324",
+    "extent": [
+      "274 S.",
+      "graph. Darst.",
+      "22 cm"
+    ],
+    "identifier_oclc": [
+      "256159689"
+    ],
+    "language": [
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Univ. Libre",
+        "place": "Bruxelles"
+      }
+    ],
+    "source_id": "02184173X",
+    "source_name": "econis",
+    "subject": [
+      "Volkswirtschaftliche Gesamtrechnung",
+      "Investition",
+      "UdSSR"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118661116",
+        "name": "Pierre Le Pesant de Boisguilbert",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118743163",
+        "name": "Fran\u00e7ois Quesnay",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118578537",
+        "name": "Karl Marx",
+        "type": "personal"
+      }
+    ],
+    "title": "Gen\u00e8se, contenu et prolongements de la notion de reproduction du capital selon Karl Marx, Boisguillebert, Quesnay, Leontiev",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.18",
+        "name": "Privatrecht: Allgemeines"
+      }
+    ],
+    "classification_ddc": [
+      "340.08"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118507656",
+        "name": "Baur, Fritz",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118597957",
+        "name": "Raiser, Ludwig",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118531190",
+        "name": "Esser, Josef",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118724975",
+        "name": "K\u00fcbler, Friedrich",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118910663",
+        "name": "Steindorff, Ernst",
+        "type": "personal"
+      }
+    ],
+    "date": 1974,
+    "econbiz_created": "2010-09-15T15:40:02Z",
+    "econbiz_id": "10000049396",
+    "extent": [
+      "VIII, 734 S.",
+      "Ill."
+    ],
+    "identifier_isbn": [
+      "3-16-636402-1"
+    ],
+    "identifier_oclc": [
+      "3973761"
+    ],
+    "language": [
+      "deu"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Mohr",
+        "place": "T\u00fcbingen"
+      }
+    ],
+    "source_id": "02184481X",
+    "source_name": "econis",
+    "subject": [
+      "Privatrecht",
+      "Deutschland"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "118597957",
+        "name": "Ludwig Raiser",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "4047304-1",
+        "name": "Privatrecht",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://external.dandelon.com/download/attachments/dandelon/ids/DE0049CE02C1B020F5593C12579AA006B7454.pdf",
+      "http://swbplus.bsz-bw.de/bsz004465016inh.htm"
+    ],
+    "title": "Funktionswandel der Privatrechtsinstitutionen : Festschrift f\u00fcr Ludwig Raiser zum 70. Geburtstag",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Bibliografie",
+      "Festschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "86.03",
+        "name": "Rechtstheorie, Rechtsmethodik, Allgemeine Rechtslehre"
+      }
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118581163",
+        "name": "Merkl, Adolf",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118561219",
+        "name": "Kelsen, Hans",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-AT"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118577522",
+        "name": "Marcic, Ren\u00e9",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "11862654X",
+        "name": "Verdross, Alfred",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118628933",
+        "name": "Walter, Robert",
+        "type": "personal"
+      }
+    ],
+    "date": 1971,
+    "econbiz_created": "2010-09-15T15:40:02Z",
+    "econbiz_id": "10000049405",
+    "extent": [
+      "VIII, 326 S.",
+      "Ill.",
+      "23 cm"
+    ],
+    "identifier_isbn": [
+      "3-7005-4387-5"
+    ],
+    "identifier_oclc": [
+      "1019928"
+    ],
+    "language": [
+      "deu",
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Deuticke",
+        "place": "Wien"
+      }
+    ],
+    "source_id": "021845263",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "4177234-9",
+        "name": "Rechtslehre",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "https://d-nb.info/720225507/04",
+      "http://swbplus.bsz-bw.de/bsz003388883inh.htm"
+    ],
+    "title": "Festschrift f\u00fcr Hans Kelsen zum 90. Geburtstag",
+    "title_alternative": [
+      "Festschrift f\u00fcr Hans Kelsen zum neunzigsten Geburtstag"
+    ],
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Bibliografie",
+      "Festschrift"
+    ]
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "31.73",
+        "name": "Mathematische Statistik"
+      }
+    ],
+    "classification_ddc": [
+      "330/.01/5195",
+      "330/.01/51"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "170066894",
+        "name": "Nerlove, Marc L.",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "170008452",
+        "name": "Carvalho, Jos\u00e9 Luis",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XD-US",
+      "XA-GB"
+    ],
+    "creator_personal": [
+      {
+        "name": "Nerlove, Marc"
+      },
+      {
+        "gnd_id": "170682722",
+        "name": "Grether, David M.",
+        "type": "personal"
+      },
+      {
+        "name": "Carvalho, Jos\u00e9 L."
+      }
+    ],
+    "date": 1979,
+    "econbiz_created": "2010-09-15T15:40:02Z",
+    "econbiz_id": "10000049477",
+    "extent": [
+      "XVI, 468 S",
+      "graph. Darst",
+      "3 Beil.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "0-12-515750-9"
+    ],
+    "identifier_oclc": [
+      "4494568"
+    ],
+    "language": [
+      "eng"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Academic Press",
+        "place": "New York, N.Y. [u.a.]"
+      }
+    ],
+    "series": [
+      {
+        "title": "Economic theory, econometrics, and mathematical economics"
+      }
+    ],
+    "source_id": "021847126",
+    "source_name": "econis",
+    "subject": [
+      "Statistik Zeitreihe"
+    ],
+    "subject_gnd": [
+      {
+        "gnd_id": "4067486-1",
+        "name": "Zeitreihenanalyse",
+        "type": "topical"
+      },
+      {
+        "gnd_id": "4132280-0",
+        "name": "\u00d6konometrie",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://www.gbv.de/dms/hbz/toc/ht000289517.pdf",
+      "http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2301628&custom_att_2=simple_viewer"
+    ],
+    "title": "Analysis of economic time series : a synthesis",
+    "type": "book"
+  },
+  {
+    "_pica_002@": "Aau",
+    "classification_bk": [
+      {
+        "code": "89.05",
+        "name": "Politische Theorie"
+      }
+    ],
+    "classification_ddc": [
+      "320"
+    ],
+    "contributor_personal": [
+      {
+        "gnd_id": "118650211",
+        "name": "Arndt, Adolf",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "118608606",
+        "name": "Schmid, Carlo",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "119142554",
+        "name": "Ehmke, Horst",
+        "type": "personal"
+      }
+    ],
+    "countryOfPublication": [
+      "XA-DE"
+    ],
+    "creator_personal": [
+      {
+        "gnd_id": "118683497",
+        "name": "Fetscher, Iring",
+        "type": "personal"
+      },
+      {
+        "gnd_id": "119237474",
+        "name": "Massing, Otwin",
+        "type": "personal"
+      }
+    ],
+    "date": 1972,
+    "econbiz_created": "2010-09-15T15:40:02Z",
+    "econbiz_id": "10000049527",
+    "extent": [
+      "448 S.",
+      "Ill.",
+      "8\u00b0"
+    ],
+    "identifier_isbn": [
+      "3-12-907700-6"
+    ],
+    "identifier_oclc": [
+      "947417"
+    ],
+    "language": [
+      "deu",
+      "eng",
+      "fra"
+    ],
+    "open_access": 0,
+    "publisher": [
+      {
+        "name": "Klett",
+        "place": "Stuttgart"
+      }
+    ],
+    "source_id": "021847975",
+    "source_name": "econis",
+    "subject_gnd": [
+      {
+        "gnd_id": "4046563-9",
+        "name": "Politische Theorie",
+        "type": "topical"
+      }
+    ],
+    "tableOfContents_url": [
+      "http://swbplus.bsz-bw.de/bsz002992892inh.htm"
+    ],
+    "title": "Konkretionen politischer Theorie und Praxis : [Festschrift f\u00fcr Carlo Schmid zum 75. Geburtstag am 3. Dezember 1971]",
+    "type": "book",
+    "type_genre": [
+      "Aufsatzsammlung",
+      "Festschrift"
+    ]
+  }
+]
